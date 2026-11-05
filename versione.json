@@ -1,8 +1,8 @@
 {
- "versione": "2.5.28",
- "sha256": "b75e6aca20e2dfa7530f42fb4cb9c29b09740377952e68c8311ddeac0183da54",
- "firma": "WVF6uHbud0/lyhPlSfwIqClLw+JTmXMGE9tWhdDNH7oMJnrboDME7qGt0FRS1G2Og/hz3Jr7XSy3haHxEgsbCw==",
- "note": "Il programma si apre a tutto schermo",
+ "versione": "2.5.29",
+ "sha256": "2d29a2096afb54a3c5360cf45b2b4653cd781a7e9d8e8c773debb625417abccb",
+ "firma": "KaFaWwEcj6Zyxe+z2WgoRznPQVh4imEGrFa8FSKhbzOueg9I03HhU9PJ42WOKVfoAvn78aafqULVYn739vimCg==",
+ "note": "Liste documenti come Danea: più recente in fondo, menu filtro sulle colonne, colonne predefinite di Danea",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.28.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.29.gdlupd"
 }
