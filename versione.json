@@ -1,8 +1,8 @@
 {
- "versione": "2.5.21",
- "sha256": "81c463a0461308299addca62b67e9089a250e7c995f874d1151b8f1081957c27",
- "firma": "Pljuh60YmRTQoYHj9yc/K0XpoOQmp/8WjSo7yT/hPDO5T19CHk6MkJbHm75ORAL7+7UXUmkqviCIMIXT8Q/SDg==",
- "note": "Integrazioni e autofatture: solo fatture estere con /RC; modelli Danea come in Danea",
+ "versione": "2.5.22",
+ "sha256": "3696606bbebe21fcf5fdacc07c52ff39eca71dea0b52cb0f02b9dbebdc1ea7a2",
+ "firma": "xEKWBBB9xPiHjRORseF+i8wfy1/8VPhPtSNYriLxw1Qa3YZXV6fXNtIvvvLD6QvubMvpx1GmxZiJXAa1frEvDQ==",
+ "note": "Integrazioni: colonna Numero con /RC",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.21.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.22.gdlupd"
 }
