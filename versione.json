@@ -1,8 +1,8 @@
 {
- "versione": "2.5.30",
- "sha256": "d51bfefc2473efb22b5470c673bffc966f79a9f3bedf6182c51ca0e6dc67ce84",
- "firma": "XlnMVar8jxpVfbwnO0ERXsmQIij6impPcfea+1E8eE+NIlW+lAv/I/k39vZih4aRX9ObT0Wnedg5bcmEgTi6Bg==",
- "note": "Corretta l'intestazione delle colonne che spariva scorrendo le liste",
+ "versione": "2.5.31",
+ "sha256": "0b1885303d6380088dc0cd03baefaae9877eb30b546f6f0a6333b9ed404b3e8e",
+ "firma": "7D13J/uT3m/vm6pvnvmyfX9nl6wq7aYxmXTR9TXpXPsB1jh6ehBcxZW6A0OkbLhRdeG6fNXLdEVsHAWB6mgWDg==",
+ "note": "Magazzino come Danea: Movimenti, Situazione, Inventario e Lotti/Seriali con Carica, Scarica, Sposta e Rettifica",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.30.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.31.gdlupd"
 }
