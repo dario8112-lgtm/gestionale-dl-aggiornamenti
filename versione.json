@@ -1,8 +1,8 @@
 {
- "versione": "2.5.18",
- "sha256": "7f99edb0b18705fce9162ebae9e91d25cb9b348285606de71c0f233efe94cef8",
- "firma": "tzsaGhGjwlPOz5reZ4AmZ1n3eulsw3uJM7dhhmoZciqroI9/RuyQnvPji/ZHQ0YEj6Kpoq7+PcdSk64DAsCSAg==",
- "note": "Backup automatico ogni sera, alla chiusura e in una seconda cartella",
+ "versione": "2.5.19",
+ "sha256": "136a53e8441401d6159d82a7e156ba23c6b87f12e31251e5ecba278d5b6f6a29",
+ "firma": "BPC/fPQspds/WMnQwBIS6lpZSYuyxme4MrAHEyakj1fhU874SS4O5l+9lLJ6iaXLW90Z6Qf/E/KdH/VgGVjGDQ==",
+ "note": "Corretto l'errore sql-wasm.wasm dopo l'aggiornamento; backup automatico serale",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.18.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.19.gdlupd"
 }
