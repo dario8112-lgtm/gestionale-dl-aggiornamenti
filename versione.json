@@ -1,8 +1,8 @@
 {
- "versione": "2.5.24",
- "sha256": "56733166f63f41128c9abe18ea06c6e424d49889be1a73f53aee00acde05ef2c",
- "firma": "qRhjCuXl6AKn83ZUKDLkb/Yyl0dxUex1qXPAAHYdUVpcRqmrlKqZOCglWidPyZocMTwutOdTWY5E0J5XroNeAA==",
- "note": "Icona DL del programma",
+ "versione": "2.5.25",
+ "sha256": "bc41164cf5960654090bd277a91cd4ba82c8f562dbd84cb9a0b96a69372df75f",
+ "firma": "VoNvuqzXOq4WPalslGyAnN647f9O1xqBDP7VCrO3VSwisLyV52vWTQcyBq5VcRNUB2NLxwjuSHW3FS8mMsXLDw==",
+ "note": "Il pulsante Stampa apre subito la finestra di stampa",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.24.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.25.gdlupd"
 }
