@@ -1,8 +1,8 @@
 {
- "versione": "2.5.25",
- "sha256": "bc41164cf5960654090bd277a91cd4ba82c8f562dbd84cb9a0b96a69372df75f",
- "firma": "VoNvuqzXOq4WPalslGyAnN647f9O1xqBDP7VCrO3VSwisLyV52vWTQcyBq5VcRNUB2NLxwjuSHW3FS8mMsXLDw==",
- "note": "Il pulsante Stampa apre subito la finestra di stampa",
+ "versione": "2.5.26",
+ "sha256": "186fa65e0475514ce4de5454080bfc90e5dba438c38deb372a3ed8eb26058ded",
+ "firma": "ir5K/eKUYD+iIRzr4zF98LT4VV0wgwpOQ7FXOu1e7x9VnNGPVLSo1v7ohUlHojXpUrFSe6D1CJIcgkzQa9yhAw==",
+ "note": "Archivi condivisi tra tutti gli utenti del computer (desktop remoto): un solo archivio per tutti, nuovo motore database multiutente",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.25.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.26.gdlupd"
 }
