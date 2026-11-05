@@ -1,8 +1,8 @@
 {
- "versione": "2.5.27",
- "sha256": "61dcc5cd9b7c645ee1bcdad1eeb6621b62f94fffa0a1b8c617989db4fa5561b5",
- "firma": "Ip6ibfPQUNx2xXjbVdllPfZwH0HRCxQydsRk3NhGazdBEPDHVRpEucX+cKFcDlnoclQSHZART8fHqloXB57mDA==",
- "note": "Corretto il pulsante OK delle finestre informative che non si chiudevano",
+ "versione": "2.5.28",
+ "sha256": "b75e6aca20e2dfa7530f42fb4cb9c29b09740377952e68c8311ddeac0183da54",
+ "firma": "WVF6uHbud0/lyhPlSfwIqClLw+JTmXMGE9tWhdDNH7oMJnrboDME7qGt0FRS1G2Og/hz3Jr7XSy3haHxEgsbCw==",
+ "note": "Il programma si apre a tutto schermo",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.27.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.28.gdlupd"
 }
