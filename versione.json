@@ -1,8 +1,8 @@
 {
- "versione": "2.5.19",
- "sha256": "136a53e8441401d6159d82a7e156ba23c6b87f12e31251e5ecba278d5b6f6a29",
- "firma": "BPC/fPQspds/WMnQwBIS6lpZSYuyxme4MrAHEyakj1fhU874SS4O5l+9lLJ6iaXLW90Z6Qf/E/KdH/VgGVjGDQ==",
- "note": "Corretto l'errore sql-wasm.wasm dopo l'aggiornamento; backup automatico serale",
+ "versione": "2.5.20",
+ "sha256": "3d4bbe5f1e28752a037e3b6a140e5155c1bf119807d4545f876cb6e85d43c542",
+ "firma": "3iH0JvUhVKY+W8obGaYjdVAOM5/i50kZOn/PqBJckSeOmYJ+WWPYdxG0tLxIVwtmmh2PlYtMt76B+F9/f2V2Dw==",
+ "note": "Modelli di stampa di Danea: numero, telefono, prezzi ivati, Tot. documento, linee delle colonne e totali in fondo alla pagina",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.19.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.20.gdlupd"
 }
