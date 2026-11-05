@@ -1,8 +1,8 @@
 {
- "versione": "2.5.20",
- "sha256": "3d4bbe5f1e28752a037e3b6a140e5155c1bf119807d4545f876cb6e85d43c542",
- "firma": "3iH0JvUhVKY+W8obGaYjdVAOM5/i50kZOn/PqBJckSeOmYJ+WWPYdxG0tLxIVwtmmh2PlYtMt76B+F9/f2V2Dw==",
- "note": "Modelli di stampa di Danea: numero, telefono, prezzi ivati, Tot. documento, linee delle colonne e totali in fondo alla pagina",
+ "versione": "2.5.21",
+ "sha256": "81c463a0461308299addca62b67e9089a250e7c995f874d1151b8f1081957c27",
+ "firma": "Pljuh60YmRTQoYHj9yc/K0XpoOQmp/8WjSo7yT/hPDO5T19CHk6MkJbHm75ORAL7+7UXUmkqviCIMIXT8Q/SDg==",
+ "note": "Integrazioni e autofatture: solo fatture estere con /RC; modelli Danea come in Danea",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.20.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.21.gdlupd"
 }
