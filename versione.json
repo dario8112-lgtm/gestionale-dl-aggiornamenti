@@ -1,8 +1,8 @@
 {
- "versione": "2.5.23",
- "sha256": "1552578ef89c06055c1801ca863109cf18cc8f3b4985cbadd37495f1822d106b",
- "firma": "qo59m/O3xMO1oIIDlU0b3b26Ohv5oJQWhnJmEt643r0i9NfzpS+w+QpunsK46EXqKHC0suYfY9KrwBEeVqTTDg==",
- "note": "Nuova icona del programma senza sfondo nero",
+ "versione": "2.5.24",
+ "sha256": "56733166f63f41128c9abe18ea06c6e424d49889be1a73f53aee00acde05ef2c",
+ "firma": "qRhjCuXl6AKn83ZUKDLkb/Yyl0dxUex1qXPAAHYdUVpcRqmrlKqZOCglWidPyZocMTwutOdTWY5E0J5XroNeAA==",
+ "note": "Icona DL del programma",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.23.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.24.gdlupd"
 }
