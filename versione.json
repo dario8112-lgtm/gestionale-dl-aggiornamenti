@@ -1,8 +1,8 @@
 {
- "versione": "2.5.33",
- "sha256": "01189329d132586fc95465aabfe57551363d3bf32c6ecb58a9020527d1dea12d",
- "firma": "+gfXxgdtwGWk9TLffsPsgxaBXP6w4+yZ4ghENOMRh0eN34pqnOeUWMRCm7ew0FT3qaTtY8wMd8ThphPibFLUCA==",
- "note": "Chiudendo un documento il programma chiede sempre se salvarlo",
+ "versione": "2.5.34",
+ "sha256": "fcee013ad649ce88841e22b8c15e633517ce4f0edbb1f56512a01c45415ecb47",
+ "firma": "gibhmmsVeI0RYX4CexIzLA6b+U09UZRtqhk4mE4v0dtHmKu88x66qJQcGRnTPsFtXUtLzzzX8R0hsPzbQK+VBg==",
+ "note": "Rispondendo No alla chiusura il documento stampato non resta salvato",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.33.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.34.gdlupd"
 }
