@@ -1,8 +1,8 @@
 {
- "versione": "2.5.22",
- "sha256": "3696606bbebe21fcf5fdacc07c52ff39eca71dea0b52cb0f02b9dbebdc1ea7a2",
- "firma": "xEKWBBB9xPiHjRORseF+i8wfy1/8VPhPtSNYriLxw1Qa3YZXV6fXNtIvvvLD6QvubMvpx1GmxZiJXAa1frEvDQ==",
- "note": "Integrazioni: colonna Numero con /RC",
+ "versione": "2.5.23",
+ "sha256": "1552578ef89c06055c1801ca863109cf18cc8f3b4985cbadd37495f1822d106b",
+ "firma": "qo59m/O3xMO1oIIDlU0b3b26Ohv5oJQWhnJmEt643r0i9NfzpS+w+QpunsK46EXqKHC0suYfY9KrwBEeVqTTDg==",
+ "note": "Nuova icona del programma senza sfondo nero",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.22.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.23.gdlupd"
 }
