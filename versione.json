@@ -1,8 +1,8 @@
 {
- "versione": "2.5.17",
- "sha256": "37b997768a1a83f96e2a2b06d54d8edc03cb66da52608826e858fb172815fed2",
- "firma": "b5pNZiEho2z310P2LZS/9tmMzjFOA2iIsKeAjFLWWZyw9tSCUus0ofa7qz2CeKZUvo1rKAHDFeVV41ik3pMyAQ==",
- "note": "Pulsante Aggiorna, installazione, licenze",
+ "versione": "2.5.18",
+ "sha256": "7f99edb0b18705fce9162ebae9e91d25cb9b348285606de71c0f233efe94cef8",
+ "firma": "tzsaGhGjwlPOz5reZ4AmZ1n3eulsw3uJM7dhhmoZciqroI9/RuyQnvPji/ZHQ0YEj6Kpoq7+PcdSk64DAsCSAg==",
+ "note": "Backup automatico ogni sera, alla chiusura e in una seconda cartella",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.17.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.18.gdlupd"
 }
