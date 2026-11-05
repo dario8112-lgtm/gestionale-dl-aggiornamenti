@@ -1,8 +1,8 @@
 {
- "versione": "2.5.32",
- "sha256": "5dc0b8c961119f9ef948f4601990fb5c9fae006db708f78788bd21b8cbd2cb80",
- "firma": "C/ObdyqGsW4j8RAnGnGvWmc/GI+iJN9mymSJEO1rpfUj2Hbva2h1KheZi9L1eYWu5rU3UYs4/s5EUbWfwHXrBg==",
- "note": "Colonne delle liste ridimensionabili trascinando il bordo dell'intestazione",
+ "versione": "2.5.33",
+ "sha256": "01189329d132586fc95465aabfe57551363d3bf32c6ecb58a9020527d1dea12d",
+ "firma": "+gfXxgdtwGWk9TLffsPsgxaBXP6w4+yZ4ghENOMRh0eN34pqnOeUWMRCm7ew0FT3qaTtY8wMd8ThphPibFLUCA==",
+ "note": "Chiudendo un documento il programma chiede sempre se salvarlo",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.32.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.33.gdlupd"
 }
