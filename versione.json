@@ -1,8 +1,8 @@
 {
- "versione": "2.5.29",
- "sha256": "2d29a2096afb54a3c5360cf45b2b4653cd781a7e9d8e8c773debb625417abccb",
- "firma": "KaFaWwEcj6Zyxe+z2WgoRznPQVh4imEGrFa8FSKhbzOueg9I03HhU9PJ42WOKVfoAvn78aafqULVYn739vimCg==",
- "note": "Liste documenti come Danea: più recente in fondo, menu filtro sulle colonne, colonne predefinite di Danea",
+ "versione": "2.5.30",
+ "sha256": "d51bfefc2473efb22b5470c673bffc966f79a9f3bedf6182c51ca0e6dc67ce84",
+ "firma": "XlnMVar8jxpVfbwnO0ERXsmQIij6impPcfea+1E8eE+NIlW+lAv/I/k39vZih4aRX9ObT0Wnedg5bcmEgTi6Bg==",
+ "note": "Corretta l'intestazione delle colonne che spariva scorrendo le liste",
  "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.29.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.30.gdlupd"
 }
