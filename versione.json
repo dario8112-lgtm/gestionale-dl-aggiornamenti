@@ -1,8 +1,8 @@
 {
- "versione": "2.5.60",
- "sha256": "b7c8bcc43dadbc7a829294dcc33a020d092b531ee81d80ec148ce3ac47dc8c73",
- "firma": "YMbM1wVTvLtBhoWG98CifTE2W5GuT5hiKnWs8hlU7EtJYyWEOsgsNMdgru4ZrHIPIVhCNDjhE0RVJz9RzGmEBw==",
- "note": "Stampa con vassoio: pagina disegnata con gli stili di stampa, l'ordine A5 esce su un solo foglio",
+ "versione": "2.5.61",
+ "sha256": "01447d117cc7c0513557b00085b0a20ac96e88a60d2e08d9f34149375563a7ba",
+ "firma": "6Gemv9dWpM6ANU0z4TVl0HFx8FJB4RZwfLQpBA+ks2cajpg5h2f90tWgrzF8BT01TTTEFt3ckKX4hxyLv3GfBA==",
+ "note": "Stampa con vassoio: corretta la pagina tagliata e ingrandita con lo schermo ingrandito",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.60.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.61.gdlupd"
 }
