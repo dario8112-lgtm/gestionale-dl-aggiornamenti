@@ -1,8 +1,8 @@
 {
- "versione": "2.5.53",
- "sha256": "66bb9da4ddce7d4c2b5d485a8ea07076d75af7315c7bfb3ac2e581ca2f8a9fe6",
- "firma": "1HRzeAXti2Jxiz20eM9M2FmpaVzAv0mMnm3e/rMx9ihkKdWZ5toe2J3HzzcpqYnq8V9aVy4xkzodekooYC44Aw==",
- "note": "Rientrando in un archivio vengono sempre richiesti utente e password",
+ "versione": "2.5.54",
+ "sha256": "8e9cc31f1bf85f68dd6adea7e9f5aff820dbd08a14dfbba46ee260b94a1f6ad8",
+ "firma": "JcvrPUQUrTrQolD5+zuaf3yoVOsxsWB4yFDgj04gbKnleefl1Iqw9Xm+I1Jv9Flx5bARf3zuRAWJ0zTsNdlyCg==",
+ "note": "Pulsante Excel: carico in magazzino dei DDT Excel e delle fatture PDF del fornitore (PMG Trading) con prezzo di vendita = netto + 80% + IVA",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.53.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.54.gdlupd"
 }
