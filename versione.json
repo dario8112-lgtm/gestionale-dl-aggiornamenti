@@ -1,8 +1,8 @@
 {
- "versione": "2.5.63",
- "sha256": "c2ee4f3378c40a9a5e7425c296d9cee2f4fa4086737d0e6d6f8135d3f5138d74",
- "firma": "SxWKH7UGCFhQn0NAL+tJBOCL7v83I4zFql7NpQZxfxIebQzkx3zTiijPy9OzrTVFPVjarJhYN/z5qBP+OOk4Cw==",
- "note": "Stampa con vassoio: diagnostica dell'ultima stampa",
+ "versione": "2.5.64",
+ "sha256": "ad5c0e2532e12ab279bb67a2b99c258831c91a31cc5170c2d4f258edb299b0eb",
+ "firma": "plzSRtkVk5CanfwLKtObOQ5czDjfVHUHBVsrizxBtEiatOMNI5g5CXOGHOK693tmFhmyOPAnmFzQkhObOMkFAw==",
+ "note": "Ordine in A5 a grandezza naturale (come Danea); vassoio Vass.1 scelto in automatico",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.63.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.64.gdlupd"
 }
