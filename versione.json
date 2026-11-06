@@ -1,8 +1,8 @@
 {
- "versione": "2.5.59",
- "sha256": "9e4cd82da7b60b7029c073a9f5b510bedcc8bd4044ae7e46420e5bf3f33a0d46",
- "firma": "1dTGQt/dpTt9z+rubbDQ8elamVk6NxoyyLtueVAlSuOFKV69E9RxK4sLg97qkzgsugz9vABhKJPBhvmyOjodCA==",
- "note": "Stampa con vassoio scelto: formato e vassoio impostati direttamente nel lavoro di stampa (come Danea)",
+ "versione": "2.5.60",
+ "sha256": "b7c8bcc43dadbc7a829294dcc33a020d092b531ee81d80ec148ce3ac47dc8c73",
+ "firma": "YMbM1wVTvLtBhoWG98CifTE2W5GuT5hiKnWs8hlU7EtJYyWEOsgsNMdgru4ZrHIPIVhCNDjhE0RVJz9RzGmEBw==",
+ "note": "Stampa con vassoio: pagina disegnata con gli stili di stampa, l'ordine A5 esce su un solo foglio",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.59.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.60.gdlupd"
 }
