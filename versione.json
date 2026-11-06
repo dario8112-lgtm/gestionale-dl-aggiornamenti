@@ -1,8 +1,8 @@
 {
- "versione": "2.5.57",
- "sha256": "51c06045a10b87272ef669939b606c73bd8d4166a372ff17b842244d1baf0102",
- "firma": "jTGM1q5ygWII3b5jQ+umWhc+vOWpogpT8hH53YjRLDmQgeqfzOTg63k8xb5lQ8AWqVo6KJ2jggCVYoWIHnEYCg==",
- "note": "Stampa: formato carta A4/A5, l'ordine cliente si stampa in A5",
+ "versione": "2.5.58",
+ "sha256": "176609a2604f2a364e684fed2cc3112c92c910e8e244e2864972b326aee9745d",
+ "firma": "o1Z7qDJCGOMKGtXrKAQxkA+izR+kAK0X2i9jywYSIA5u1Oia4/ZKmoDGbe3lTUnRShLxlSk/n9LZGglAoUmrCw==",
+ "note": "Stampa: scelta del vassoio carta, l'ordine cliente va in A5 dal Vassoio 1",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.57.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.58.gdlupd"
 }
