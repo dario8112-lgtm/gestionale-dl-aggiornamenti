@@ -1,8 +1,8 @@
 {
- "versione": "2.5.54",
- "sha256": "8e9cc31f1bf85f68dd6adea7e9f5aff820dbd08a14dfbba46ee260b94a1f6ad8",
- "firma": "JcvrPUQUrTrQolD5+zuaf3yoVOsxsWB4yFDgj04gbKnleefl1Iqw9Xm+I1Jv9Flx5bARf3zuRAWJ0zTsNdlyCg==",
- "note": "Pulsante Excel: carico in magazzino dei DDT Excel e delle fatture PDF del fornitore (PMG Trading) con prezzo di vendita = netto + 80% + IVA",
+ "versione": "2.5.55",
+ "sha256": "0a98391c3eb7151cea05d6cac257ea39c01872c977d2b14739b56a712fcef81f",
+ "firma": "CWmlt/5xlHhMQcH8aGOTi9YkbUwXsY6fZhWXaJqdrlOYyFgKuEV6O7LDVLWUfgNGsYcllyMHmhXdGU+Hs4CoDg==",
+ "note": "DDT Excel con colonne Prezzo netto / Prezzo ivato: prezzi letti correttamente",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.54.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.55.gdlupd"
 }
