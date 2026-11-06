@@ -1,8 +1,8 @@
 {
- "versione": "2.5.38",
- "sha256": "f43533621fdd31377d3adf91c9a9a60314d75a83848fcffef9af737b5ee46dcf",
- "firma": "uDMWt7ITD/DkAVEgKgWj1PpCKff46hf1EJ8+Qep3i9tWlxIGb4ASGMkBZv1RV37e6qhV41VbKoRAjgaEKsZhCw==",
- "note": "Corretto: dopo un avviso non si riusciva a scrivere nei campi (es. password per eliminare un archivio)",
+ "versione": "2.5.39",
+ "sha256": "aecd9dbb715d436a54d9245beb63860b2d3b0463999d272e785d5cee86add638",
+ "firma": "xda/juV5BJ+BPbd/SjOkThV/0pfUjM/PmYhhuelh6sB8Qg163tG2d/BV5quJwjAUWOAR55lspcU0G4QfJ2YGAg==",
+ "note": "Pulsante Aggiorna anche nella finestra Archivi, senza aprire un archivio",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.38.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.39.gdlupd"
 }
