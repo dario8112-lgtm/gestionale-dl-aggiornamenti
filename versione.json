@@ -1,8 +1,8 @@
 {
- "versione": "2.5.43",
- "sha256": "f2b568b901e291b30aacc5ffa414f3474cf9c03668e0b07b8f6b98b482b7bfe1",
- "firma": "DJ6zOsSzcf36R4YCNA2uJT/gZxqm7ypCW8mOJWV1ZGWrO+dzZ3By10Yeo6cleSyB/AW0RzJk5RKoa8YXs0awCw==",
- "note": "Modelli di Danea: scritte AutoSize su una riga, logo intero in alto",
+ "versione": "2.5.44",
+ "sha256": "8a02e11ffd1b933f8c0cfbfeec8fad8450372e77ecaa644945efa0eae4209827",
+ "firma": "eRFrz4CzGaB2RHmoajZTj0xYv2Ymb3P8R6Fka+kPSGXQmTDiysW7P1QRN5zL68/cXp0TV5l3Pdz2QN6W5qpaBA==",
+ "note": "Editor dei modelli: spostamento e ridimensionamento con le frecce della tastiera",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.43.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.44.gdlupd"
 }
