@@ -1,8 +1,8 @@
 {
- "versione": "2.5.42",
- "sha256": "b9cb1397209dff11471c90d58b2df8a664ca53088c229b06326e882f0c573d1d",
- "firma": "/7FxOhfT07UgWF8eD4XNTdAkufxxWdGQhQrD7cvpeCvXaB88oghdMbieYEjmjtOARXO4u9uk6yAo2SVVm25vDQ==",
- "note": "Modelli di stampa di Danea più fedeli: logo azienda, testi su una riga, aliquota IVA, riepilogo IVA, totali e scadenze",
+ "versione": "2.5.43",
+ "sha256": "f2b568b901e291b30aacc5ffa414f3474cf9c03668e0b07b8f6b98b482b7bfe1",
+ "firma": "DJ6zOsSzcf36R4YCNA2uJT/gZxqm7ypCW8mOJWV1ZGWrO+dzZ3By10Yeo6cleSyB/AW0RzJk5RKoa8YXs0awCw==",
+ "note": "Modelli di Danea: scritte AutoSize su una riga, logo intero in alto",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.42.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.43.gdlupd"
 }
