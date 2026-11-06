@@ -1,8 +1,8 @@
 {
- "versione": "2.5.47",
- "sha256": "1e47ccb184410451bdfec67fed57e98f69f64c9026f5e9ec3a42ca646f7de868",
- "firma": "bJve5B2PBEJXP1Ii4p/Z1KbmVwr14Dz/GoP9DtGVY3if+w4HnzqSnxUBeGh8GLrWT8jrZTEoI2MaCn41F9RzDw==",
- "note": "Etichette: il prezzo resta su una riga e il carattere si adatta alla larghezza",
+ "versione": "2.5.48",
+ "sha256": "c4fe4b3de9a49d59baca735bdbb8ea9843e5a79b3e723ada8a3bfebc78ac3c42",
+ "firma": "Dd3UHhjsA+Jzp/VT5mbueMCJMk41Y0+z8QSnwQKA4u6MRoXij0Fn1KmIBPU2LbNv6qiafrwKdIB7iS+eEQv+Bw==",
+ "note": "Dopo aver salvato un nuovo prodotto l'elenco si posiziona su quel prodotto",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.47.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.48.gdlupd"
 }
