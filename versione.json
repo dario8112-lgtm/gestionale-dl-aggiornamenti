@@ -1,8 +1,8 @@
 {
- "versione": "2.5.44",
- "sha256": "8a02e11ffd1b933f8c0cfbfeec8fad8450372e77ecaa644945efa0eae4209827",
- "firma": "eRFrz4CzGaB2RHmoajZTj0xYv2Ymb3P8R6Fka+kPSGXQmTDiysW7P1QRN5zL68/cXp0TV5l3Pdz2QN6W5qpaBA==",
- "note": "Editor dei modelli: spostamento e ridimensionamento con le frecce della tastiera",
+ "versione": "2.5.45",
+ "sha256": "e253cbd68ade6ffaa29d96e21ea87492e2197a1bda4a443e007485159a917112",
+ "firma": "QMAn6VeYHwOA4BmJ4lRBDPGewDrHcy11S5VeFhfKKfA/h+1QTnyQlritZSXp/QyX9Z9qhTOIn3DGy0xnysQJDw==",
+ "note": "Editor dei modelli di stampa: tasto Stampa per provare subito il modello",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.44.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.45.gdlupd"
 }
