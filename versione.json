@@ -1,8 +1,8 @@
 {
- "versione": "2.5.34",
- "sha256": "fcee013ad649ce88841e22b8c15e633517ce4f0edbb1f56512a01c45415ecb47",
- "firma": "gibhmmsVeI0RYX4CexIzLA6b+U09UZRtqhk4mE4v0dtHmKu88x66qJQcGRnTPsFtXUtLzzzX8R0hsPzbQK+VBg==",
- "note": "Rispondendo No alla chiusura il documento stampato non resta salvato",
- "data": "2026-11-05",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.34.gdlupd"
+ "versione": "2.5.35",
+ "sha256": "f98c199bbdbf20ebb8c9e9cf62dfc9f271a5c43c430ef39ee88ce4e750243d13",
+ "firma": "OHuODMQ04I60gVayt39P1HiRFryTCGYsStd+pqx3aRg2CinPQqLLkShdjurfO69QibXGNftlTlSP52MnNDvkAw==",
+ "note": "Password degli archivi: impostala, cambiala o toglila da Archivi › Password archivio",
+ "data": "2026-11-06",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.35.gdlupd"
 }
