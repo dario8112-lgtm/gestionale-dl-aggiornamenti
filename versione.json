@@ -1,8 +1,8 @@
 {
- "versione": "2.5.55",
- "sha256": "0a98391c3eb7151cea05d6cac257ea39c01872c977d2b14739b56a712fcef81f",
- "firma": "CWmlt/5xlHhMQcH8aGOTi9YkbUwXsY6fZhWXaJqdrlOYyFgKuEV6O7LDVLWUfgNGsYcllyMHmhXdGU+Hs4CoDg==",
- "note": "DDT Excel con colonne Prezzo netto / Prezzo ivato: prezzi letti correttamente",
+ "versione": "2.5.56",
+ "sha256": "eda046330e321780aad26387ee4b1889be5d733f2f9e04e40978f1014c680a2a",
+ "firma": "WA/3LAucztC8pISfiLp8MQIHsDdpwfj4sA5PDMNhscbJWFg6JelwfcWk5EWs2eQHdh2A0H51jE0IGR3sdmyhCQ==",
+ "note": "Il pulsante Excel si chiama DDT",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.55.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.56.gdlupd"
 }
