@@ -1,8 +1,8 @@
 {
- "versione": "2.5.36",
- "sha256": "2134505581e180af2b50ecb3fb62c5232399a7665c52df65000cc353ebafecf0",
- "firma": "EjTDaC/vVrqZv9S2SnkNhB2kWVLC9kQnkekzgFvG2OK82Xq1Mi/vQXZTr7tsXHO1vaM6k0lICHM0i5GXlhLHBA==",
- "note": "Finestra Archivi come Danea all'avvio: Nuovo, Duplica, Rinomina, Elimina, Password archivio, Copie di sicurezza, Ripara, password di gestione",
+ "versione": "2.5.37",
+ "sha256": "50404d1efdde5a1eb5bb15e307456eb8a4071df679f1d88d1ada3fe6c5e4f57f",
+ "firma": "mNb/jCSKnuq+3n83RXKAINBzYjaSvqtj3tKHGFPnOBqzpcOarnlF80uCb1Huh31OLadWu+0cjF2JksginuMTAg==",
+ "note": "Importazione da Danea completa: impostazioni, utenti e diritti, modelli di stampa ed etichette, messaggi, agenda",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.36.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.37.gdlupd"
 }
