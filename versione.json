@@ -1,8 +1,8 @@
 {
- "versione": "2.5.48",
- "sha256": "c4fe4b3de9a49d59baca735bdbb8ea9843e5a79b3e723ada8a3bfebc78ac3c42",
- "firma": "Dd3UHhjsA+Jzp/VT5mbueMCJMk41Y0+z8QSnwQKA4u6MRoXij0Fn1KmIBPU2LbNv6qiafrwKdIB7iS+eEQv+Bw==",
- "note": "Dopo aver salvato un nuovo prodotto l'elenco si posiziona su quel prodotto",
+ "versione": "2.5.49",
+ "sha256": "cc2278e697fc2e3c293f612dbd70ca0f99f24984f8504c9fc1290c3557b9e309",
+ "firma": "esooNkPpwlNTHDY3awjUlgu8dN090l/R0F8BoM511xygwFExVjd0hwwrCyLW9/bdrR4TzJHxZet3GbmA12edCg==",
+ "note": "Nuovi prodotti con codice e codice a barre automatici",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.48.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.49.gdlupd"
 }
