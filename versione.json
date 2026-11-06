@@ -1,8 +1,8 @@
 {
- "versione": "2.5.56",
- "sha256": "eda046330e321780aad26387ee4b1889be5d733f2f9e04e40978f1014c680a2a",
- "firma": "WA/3LAucztC8pISfiLp8MQIHsDdpwfj4sA5PDMNhscbJWFg6JelwfcWk5EWs2eQHdh2A0H51jE0IGR3sdmyhCQ==",
- "note": "Il pulsante Excel si chiama DDT",
+ "versione": "2.5.57",
+ "sha256": "51c06045a10b87272ef669939b606c73bd8d4166a372ff17b842244d1baf0102",
+ "firma": "jTGM1q5ygWII3b5jQ+umWhc+vOWpogpT8hH53YjRLDmQgeqfzOTg63k8xb5lQ8AWqVo6KJ2jggCVYoWIHnEYCg==",
+ "note": "Stampa: formato carta A4/A5, l'ordine cliente si stampa in A5",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.56.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.57.gdlupd"
 }
