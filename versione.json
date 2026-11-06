@@ -1,8 +1,8 @@
 {
- "versione": "2.5.40",
- "sha256": "7640c9d4bc26dcc191da968b0311b7a74ad01ce2db94529545eeb79c71d581e0",
- "firma": "dWKyiAXbm6DBHUA+GH4jXeXSrr8VYL1iplnKlGrAdkrynYfBMuUpRz7Ty1tCF1pVBhT8dPeUuNVfd4LtZiLuAg==",
- "note": "Eliminazione degli archivi corretta (anche archivio aperto o in uso)",
+ "versione": "2.5.41",
+ "sha256": "25b4854d12bf99ba72b6956737eca650491c34d3bcecdfe253b1858480a7163e",
+ "firma": "4Fcjt2NlgnvxDtsTGT7Held6PtL9X6qIW9CgcI8UukIJBYIRjyjYAZPQEpp1csWSGdBgM/tu6phTNYQhbEE3Dw==",
+ "note": "Menu Altre operazioni della finestra Archivi di nuovo leggibile",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.40.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.41.gdlupd"
 }
