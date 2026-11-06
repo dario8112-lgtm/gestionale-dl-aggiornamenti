@@ -1,8 +1,8 @@
 {
- "versione": "2.5.50",
- "sha256": "0ab6954ed26d4964a834ff73acbc3b05a562c488bbc630f28ced43731c445e55",
- "firma": "5TGvuHekHzUccZ4RRBzgr8cJjk8qNE4C6w64dTrDOXEyTlI2A1pHkwtPcqGTlf6/RFHFEP9k58zTbNM2ehGpAw==",
- "note": "Etichette e listino stampano sempre il prezzo appena modificato",
+ "versione": "2.5.51",
+ "sha256": "4a2ee794a388ccdf681ae2df2b994a737f4591de66da4129600dd2e69784643d",
+ "firma": "DjmBEXgdKOtXkk1UljhROZR4psWkjobuWfmC7ifCF/qHt5Nwn3iR6wwmf33NgM9OAG5Uu5Mcy4BalIbaodeWBA==",
+ "note": "Vendita al banco: prezzi sempre aggiornati anche se cambiati da un altro computer",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.50.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.51.gdlupd"
 }
