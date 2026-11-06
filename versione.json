@@ -1,8 +1,8 @@
 {
- "versione": "2.5.39",
- "sha256": "aecd9dbb715d436a54d9245beb63860b2d3b0463999d272e785d5cee86add638",
- "firma": "xda/juV5BJ+BPbd/SjOkThV/0pfUjM/PmYhhuelh6sB8Qg163tG2d/BV5quJwjAUWOAR55lspcU0G4QfJ2YGAg==",
- "note": "Pulsante Aggiorna anche nella finestra Archivi, senza aprire un archivio",
+ "versione": "2.5.40",
+ "sha256": "7640c9d4bc26dcc191da968b0311b7a74ad01ce2db94529545eeb79c71d581e0",
+ "firma": "dWKyiAXbm6DBHUA+GH4jXeXSrr8VYL1iplnKlGrAdkrynYfBMuUpRz7Ty1tCF1pVBhT8dPeUuNVfd4LtZiLuAg==",
+ "note": "Eliminazione degli archivi corretta (anche archivio aperto o in uso)",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.39.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.40.gdlupd"
 }
