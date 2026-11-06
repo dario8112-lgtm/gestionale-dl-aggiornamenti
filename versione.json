@@ -1,8 +1,8 @@
 {
- "versione": "2.5.58",
- "sha256": "176609a2604f2a364e684fed2cc3112c92c910e8e244e2864972b326aee9745d",
- "firma": "o1Z7qDJCGOMKGtXrKAQxkA+izR+kAK0X2i9jywYSIA5u1Oia4/ZKmoDGbe3lTUnRShLxlSk/n9LZGglAoUmrCw==",
- "note": "Stampa: scelta del vassoio carta, l'ordine cliente va in A5 dal Vassoio 1",
+ "versione": "2.5.59",
+ "sha256": "9e4cd82da7b60b7029c073a9f5b510bedcc8bd4044ae7e46420e5bf3f33a0d46",
+ "firma": "1dTGQt/dpTt9z+rubbDQ8elamVk6NxoyyLtueVAlSuOFKV69E9RxK4sLg97qkzgsugz9vABhKJPBhvmyOjodCA==",
+ "note": "Stampa con vassoio scelto: formato e vassoio impostati direttamente nel lavoro di stampa (come Danea)",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.58.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.59.gdlupd"
 }
