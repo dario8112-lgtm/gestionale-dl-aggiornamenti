@@ -1,8 +1,8 @@
 {
- "versione": "2.5.51",
- "sha256": "4a2ee794a388ccdf681ae2df2b994a737f4591de66da4129600dd2e69784643d",
- "firma": "DjmBEXgdKOtXkk1UljhROZR4psWkjobuWfmC7ifCF/qHt5Nwn3iR6wwmf33NgM9OAG5Uu5Mcy4BalIbaodeWBA==",
- "note": "Vendita al banco: prezzi sempre aggiornati anche se cambiati da un altro computer",
+ "versione": "2.5.52",
+ "sha256": "105ec38ff8cccd2e474b33cabfe102fc63dd031ace5b9b09ef02f827eec891d9",
+ "firma": "zUCf+yndkAXP55L8lNk+LTlpCSNFH7hGEu3e9WCODanmSQmioWk82K5FY+ZuNIQE+wW07Zo8XEwmWfnLzK5JDA==",
+ "note": "Stampa etichette: proposta sempre 1 etichetta per prodotto",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.51.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.52.gdlupd"
 }
