@@ -1,8 +1,8 @@
 {
- "versione": "2.5.62",
- "sha256": "043b61dbb6ce1e3a0233e24c0c94b9d66c81cf5e48ebd9a1e36beea5a2c6e69d",
- "firma": "o0atOGKTHL0hQpVHOy72PXs8YbpQj4xg87HqaZ2EouxUKbRyhIRbG4tm8EHC3DMntsosENMwtPGlOpfIwEBkDg==",
- "note": "Stampa con vassoio: la pagina viene preparata a riquadri, non più tagliata né ingrandita",
+ "versione": "2.5.63",
+ "sha256": "c2ee4f3378c40a9a5e7425c296d9cee2f4fa4086737d0e6d6f8135d3f5138d74",
+ "firma": "SxWKH7UGCFhQn0NAL+tJBOCL7v83I4zFql7NpQZxfxIebQzkx3zTiijPy9OzrTVFPVjarJhYN/z5qBP+OOk4Cw==",
+ "note": "Stampa con vassoio: diagnostica dell'ultima stampa",
  "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.62.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.63.gdlupd"
 }
