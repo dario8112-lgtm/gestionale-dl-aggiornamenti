@@ -1,8 +1,8 @@
 {
- "versione": "2.5.68",
- "sha256": "0565c39e8d5b0674eed263fc4bf60c0faf0cb36d6d8d67ea22ede54828596ae5",
- "firma": "K+nQ8O13kABxpTLtZAziug26vdyorxISR81w17kiyk0ftLW+jPtByKHX9C56wHJxu5H/2/CObWksdK6aZ0aiAQ==",
- "note": "Prodotti: dopo la ricerca con Invio il testo resta selezionato per la lettura successiva",
+ "versione": "2.5.69",
+ "sha256": "a009017e04be0883b68b89a3d6c99be4f88dff8950e27657b49cc8100df77333",
+ "firma": "gIDIU79Ex2bwlN5+NSR/JWQXZIDiOBgZKydF2CCjMWulKU6xMs3/WJ0dVAFd+TZAbp3ODH9iQ6ljMreeMeHhCQ==",
+ "note": "Clienti e fornitori: dalla Partita IVA trova il cliente esistente o recupera i dati dell'azienda (VIES)",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.68.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.69.gdlupd"
 }
