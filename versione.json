@@ -1,8 +1,8 @@
 {
- "versione": "2.5.66",
- "sha256": "5a2e710d244c382b0edf8aab02eee3ae457fd506137a928290978da360290b14",
- "firma": "fDxhTBPkLj0UQPzoIJvIIRP6MV7mAjayD5pglQaVAV6AwujT2zsPTGGyxa7SpWONVETQUB8kB4YtWjsswS0NBA==",
- "note": "Elenco prodotti: Listino 1 e Listino 2 mostrati IVA inclusa",
+ "versione": "2.5.67",
+ "sha256": "7df8ac2e798a9d501e1bce714979a4324bb03187afc51777fffb3d6bb67864b3",
+ "firma": "1h/JjFD4qJiKVBEmAy03edJjKMjEilEyNRoSIsW4rRNbGTc7Ywn8c6lS7D70wYVabmsAOWj3gw6VsjVHD1OXAg==",
+ "note": "Prodotti: menu Colonne per scegliere le colonne da vedere",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.66.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.67.gdlupd"
 }
