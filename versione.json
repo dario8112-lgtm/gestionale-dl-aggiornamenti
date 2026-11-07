@@ -1,8 +1,8 @@
 {
- "versione": "2.5.75",
- "sha256": "a557178fba631d6e852066d53c25e3bf4924cced74cdbcd7ae95b108fd10d831",
- "firma": "cOPqL1vGzIfe5/nBB09NqpkPgNiVcIZMsw6xjzupNYF6UtB+eddN8t3QZgGJBjVpjK/45YM87Wf6EBLuk3IHCQ==",
- "note": "Ordini: fornitori suggeriti (E-pol, Foneday, PhoneClick, Focelda, Runner)",
+ "versione": "2.5.76",
+ "sha256": "1fc0fad911763ca410a32242a7fe15315fee6936a02bd251633cf18ca8fbbc0d",
+ "firma": "v+I5IKmCQTWsWsx9SZ8NQvNSLOlO2BHhSHKvjuNxeQRJfKYi+ePU8zX1pDfOkeq+MKjDRryqseS1qdTRNkY6Aw==",
+ "note": "Ordini: il clic sul fornitore apre direttamente la ricerca del prodotto sul suo sito",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.75.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.76.gdlupd"
 }
