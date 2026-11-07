@@ -1,8 +1,8 @@
 {
- "versione": "2.5.67",
- "sha256": "7df8ac2e798a9d501e1bce714979a4324bb03187afc51777fffb3d6bb67864b3",
- "firma": "1h/JjFD4qJiKVBEmAy03edJjKMjEilEyNRoSIsW4rRNbGTc7Ywn8c6lS7D70wYVabmsAOWj3gw6VsjVHD1OXAg==",
- "note": "Prodotti: menu Colonne per scegliere le colonne da vedere",
+ "versione": "2.5.68",
+ "sha256": "0565c39e8d5b0674eed263fc4bf60c0faf0cb36d6d8d67ea22ede54828596ae5",
+ "firma": "K+nQ8O13kABxpTLtZAziug26vdyorxISR81w17kiyk0ftLW+jPtByKHX9C56wHJxu5H/2/CObWksdK6aZ0aiAQ==",
+ "note": "Prodotti: dopo la ricerca con Invio il testo resta selezionato per la lettura successiva",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.67.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.68.gdlupd"
 }
