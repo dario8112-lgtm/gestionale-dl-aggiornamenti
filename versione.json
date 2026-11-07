@@ -1,8 +1,8 @@
 {
- "versione": "2.5.70",
- "sha256": "ecd79de1622d0d25b2ea54bb79aa0d1e526fec1ded51867084eb52442e422e71",
- "firma": "9+sDeZriHDS7+0vXLqWvcUP8kedyGcMHLAM2qKPMD05gciytikkNW2ASRVBpN5bFX2dJBpwfkZeAFUuVUi31CA==",
- "note": "Nuovi documenti con prezzi IVA inclusa secondo le Opzioni (Mouse e Affari di Famiglia: IVA inclusa)",
+ "versione": "2.5.71",
+ "sha256": "ef697ff43842d8594f554f7474e760e9849109270a4f7f9cfadba2e6e9f978d2",
+ "firma": "hnkNfZmxYAEiArxOtGwMniMuFGq3iBr8DIJdlDWMCyJOYKO3F/EJ0M4A4oK/i9YNleRf+fEIptOgJG8Rto3zDA==",
+ "note": "Pagamento dei documenti: scadenza con la data di oggi in automatico",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.70.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.71.gdlupd"
 }
