@@ -1,8 +1,8 @@
 {
- "versione": "2.5.78",
- "sha256": "f66e06137e553d7c3f61eac719fa57960b95ae638e4029cc58fa4eb1bcd6eb75",
- "firma": "Cqf76mgC1wkAWDexxirNTIN/9JfPza6aj1Ubwh8K2J3nkKiFrPg/UlCpC/ogUABeljBRC/Eig1RHTr7c4vyuDg==",
- "note": "Cassaforte: copia di sicurezza ogni sera insieme ai backup degli archivi",
+ "versione": "2.5.79",
+ "sha256": "7d3fb1a0367cdcdb66a362d17e5f76e18c9f4b9d4cb16a32ec77f55b1cc1bf3b",
+ "firma": "WnVM0NyG9RqpGPnLAItQtGahVQKIXkpP1Kvd+enP02VjAMjYgvPYrt7FXBDCVkdAnUkOOo+9vm1NZuHnc6p8DQ==",
+ "note": "Estensione Chrome 0.4: cerca il prodotto nella barra di ricerca del sito del fornitore",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.78.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.79.gdlupd"
 }
