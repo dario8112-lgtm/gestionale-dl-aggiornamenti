@@ -1,8 +1,8 @@
 {
- "versione": "2.5.81",
- "sha256": "a6765109ac5e4276ae3911e0b31c44e04b57ebe2c9cd036d847651aaec68e906",
- "firma": "Hzd2bQzc330HoZl3axtmMZXy2p0lXxDIfqgmngNMpnYGaKLzX3rsDlDxzqdPfgNvabfUfqBkuHtvn884VSw8BQ==",
- "note": "Cassa touch: descrizione delle righe modificabile al volo",
+ "versione": "2.5.82",
+ "sha256": "e78e54a63587589b864f01e5eb99a3f049f01c10fd39fd95f8793fa1a9aaea6f",
+ "firma": "Nq99E2tzZbOLgosoWitwr7jjJpIaaimRO/9tMncOpggoah3KyWlUkiP5DIt59MepXr/pqFpy+lDjT2ou/CFCAQ==",
+ "note": "Ricambi Foneday: pulsante carrello per aggiungerli al carrello di foneday.shop",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.81.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.82.gdlupd"
 }
