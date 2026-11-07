@@ -1,8 +1,8 @@
 {
- "versione": "2.5.82",
- "sha256": "e78e54a63587589b864f01e5eb99a3f049f01c10fd39fd95f8793fa1a9aaea6f",
- "firma": "Nq99E2tzZbOLgosoWitwr7jjJpIaaimRO/9tMncOpggoah3KyWlUkiP5DIt59MepXr/pqFpy+lDjT2ou/CFCAQ==",
- "note": "Ricambi Foneday: pulsante carrello per aggiungerli al carrello di foneday.shop",
+ "versione": "2.5.83",
+ "sha256": "3eac2f8d03a4606b0a969f9a9ccf318e498d068a699020f3c30bfd4c4fd74891",
+ "firma": "sDHEyTT9TgrESC4J6xGLR3tXQDXl8iHsVV1jV+MMVtzlDb20B/U2cYfme5PYD/J4gK2SvED1tyCZt9c02J7/Cw==",
+ "note": "Estensione Chrome 0.4.1: ricerca del prodotto anche su e-Pol",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.82.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.83.gdlupd"
 }
