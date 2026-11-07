@@ -1,8 +1,8 @@
 {
- "versione": "2.5.65",
- "sha256": "5ab5d31edaa674ddae0a501f8c25ac038547579bbc41ff95dc665288c16e518c",
- "firma": "HM5GFfjNnrLTmFTYd2E+vSsWGMhxwBzChqxYkddut0IEUtnnc0vkL55x+4ijPxb1tKNb4+0nyFSQ4Su0bSc5Bw==",
- "note": "Prodotti: più codici a barre per prodotto (Altri codici a barre)",
+ "versione": "2.5.66",
+ "sha256": "5a2e710d244c382b0edf8aab02eee3ae457fd506137a928290978da360290b14",
+ "firma": "fDxhTBPkLj0UQPzoIJvIIRP6MV7mAjayD5pglQaVAV6AwujT2zsPTGGyxa7SpWONVETQUB8kB4YtWjsswS0NBA==",
+ "note": "Elenco prodotti: Listino 1 e Listino 2 mostrati IVA inclusa",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.65.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.66.gdlupd"
 }
