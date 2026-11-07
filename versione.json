@@ -1,8 +1,8 @@
 {
- "versione": "2.5.76",
- "sha256": "1fc0fad911763ca410a32242a7fe15315fee6936a02bd251633cf18ca8fbbc0d",
- "firma": "v+I5IKmCQTWsWsx9SZ8NQvNSLOlO2BHhSHKvjuNxeQRJfKYi+ePU8zX1pDfOkeq+MKjDRryqseS1qdTRNkY6Aw==",
- "note": "Ordini: il clic sul fornitore apre direttamente la ricerca del prodotto sul suo sito",
+ "versione": "2.5.77",
+ "sha256": "e26e7c575fdf59f0b02f50c836c24ba10ddd0534c9e5c143149295c1dc08ff67",
+ "firma": "QVJvuxrL9jBEt3xBH13/G3b+eeclamijsLSsoeZvEqdJI3q3GY0yyPllr3n0wNTurKQf94phcyJ1CpJTs/0ICA==",
+ "note": "Ordini: siti dei fornitori presi in automatico dalla Cassaforte, con ricerca del prodotto",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.76.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.77.gdlupd"
 }
