@@ -1,8 +1,8 @@
 {
- "versione": "2.5.80",
- "sha256": "90e4a474d1a50dfbbbd2e2415c23757a9043a2b820d99066796e094471e5845d",
- "firma": "heuT8/GBoNUKRlKHReyRXIRtCMbwx9qxjmUhNqncHjVsS9c+epoR07CXNjbYa2A+RDRNK8UXxsta9Ux00QBlDQ==",
- "note": "Foneday collegato: ricambi proposti nei documenti con il prezzo al cliente (costo + 50 € + IVA)",
+ "versione": "2.5.81",
+ "sha256": "a6765109ac5e4276ae3911e0b31c44e04b57ebe2c9cd036d847651aaec68e906",
+ "firma": "Hzd2bQzc330HoZl3axtmMZXy2p0lXxDIfqgmngNMpnYGaKLzX3rsDlDxzqdPfgNvabfUfqBkuHtvn884VSw8BQ==",
+ "note": "Cassa touch: descrizione delle righe modificabile al volo",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.80.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.81.gdlupd"
 }
