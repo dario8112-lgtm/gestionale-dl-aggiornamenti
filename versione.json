@@ -1,8 +1,8 @@
 {
- "versione": "2.5.72",
- "sha256": "7de5b4bee4da7af44304494d2b2be1e76235fcd70e8c6dae909898e72d264387",
- "firma": "67Mze6IDXVRgZCrGkd/bONdJJa8G+fdoOtAHfxAdCrw3LnYaadShYv3Ao4EdSjvuzJ4RUxXMGXmR3zkaVNsjDQ==",
- "note": "Scadenza di oggi solo sui nuovi documenti",
+ "versione": "2.5.73",
+ "sha256": "a4702636f3f77d4ce077b4ada02ef19bec7c43326574df9fe6d8012ef9233ece",
+ "firma": "CbQkld6MLjz1VSa6YK5FLeQO4cFABIhhG/2x+c7t4yI+6/tZY4NE8GR/X1SBE57qjXX5kEMKfAgSes1mXsS4Bg==",
+ "note": "Cassaforte Password DL integrata: pulsante Cassaforte accanto a DDT",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.72.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.73.gdlupd"
 }
