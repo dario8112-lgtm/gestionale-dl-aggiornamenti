@@ -1,8 +1,8 @@
 {
- "versione": "2.5.79",
- "sha256": "7d3fb1a0367cdcdb66a362d17e5f76e18c9f4b9d4cb16a32ec77f55b1cc1bf3b",
- "firma": "WnVM0NyG9RqpGPnLAItQtGahVQKIXkpP1Kvd+enP02VjAMjYgvPYrt7FXBDCVkdAnUkOOo+9vm1NZuHnc6p8DQ==",
- "note": "Estensione Chrome 0.4: cerca il prodotto nella barra di ricerca del sito del fornitore",
+ "versione": "2.5.80",
+ "sha256": "90e4a474d1a50dfbbbd2e2415c23757a9043a2b820d99066796e094471e5845d",
+ "firma": "heuT8/GBoNUKRlKHReyRXIRtCMbwx9qxjmUhNqncHjVsS9c+epoR07CXNjbYa2A+RDRNK8UXxsta9Ux00QBlDQ==",
+ "note": "Foneday collegato: ricambi proposti nei documenti con il prezzo al cliente (costo + 50 € + IVA)",
  "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.79.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.80.gdlupd"
 }
