@@ -1,8 +1,8 @@
 {
- "versione": "2.5.64",
- "sha256": "ad5c0e2532e12ab279bb67a2b99c258831c91a31cc5170c2d4f258edb299b0eb",
- "firma": "plzSRtkVk5CanfwLKtObOQ5czDjfVHUHBVsrizxBtEiatOMNI5g5CXOGHOK693tmFhmyOPAnmFzQkhObOMkFAw==",
- "note": "Ordine in A5 a grandezza naturale (come Danea); vassoio Vass.1 scelto in automatico",
- "data": "2026-11-06",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.64.gdlupd"
+ "versione": "2.5.65",
+ "sha256": "5ab5d31edaa674ddae0a501f8c25ac038547579bbc41ff95dc665288c16e518c",
+ "firma": "HM5GFfjNnrLTmFTYd2E+vSsWGMhxwBzChqxYkddut0IEUtnnc0vkL55x+4ijPxb1tKNb4+0nyFSQ4Su0bSc5Bw==",
+ "note": "Prodotti: più codici a barre per prodotto (Altri codici a barre)",
+ "data": "2026-11-07",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.65.gdlupd"
 }
