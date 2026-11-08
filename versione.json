@@ -1,8 +1,8 @@
 {
- "versione": "2.6.12",
- "sha256": "57a0fd864f3756591c9fb0cc4e2e1fc8cf06b554232dc5c0b5b2593bc105cde4",
- "firma": "i+aE+ZQg3mteNofc4egfukSWv2mXJcBo/HWQ5mNvD7kVIPePAJe9CULVoxXyNuH+B9/n5Nr2jNbsfv96nR12Aw==",
- "note": "Fatture: etichetta 'Inviata allo SDI' in alto accanto al titolo",
+ "versione": "2.6.13",
+ "sha256": "7a105347a3d225a08f5ab805471caaeeebcad7363a48bbe9775bc0fd0d2be047",
+ "firma": "hXCPz0574chqgzfopQZm+edWfb3PHd9B3/icaX3rJ0HU917hOpkbhcdq1rl8Wy0x3OMbI8UNHtFy0rLkuwM0BQ==",
+ "note": "Documenti già salvati: alla chiusura si salvano da soli, senza domanda",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.12.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.13.gdlupd"
 }
