@@ -1,8 +1,8 @@
 {
- "versione": "2.6.23",
- "sha256": "6f28f1de32eac2da40003644769a2e1eb1b835522a89b7f2eb6bd6155a115131",
- "firma": "j2fqUpV1V+KRZCzN8NdTP8tq3T1VX0e7xvunf/XuvUrnzeLPSnU4cOBQiQ6nXwVYhyed1TD8b+wt58Xwtxi7AQ==",
- "note": "Chrome resta collegato alla Cassaforte anche chiudendo e riaprendo il gestionale (sessione 12 ore)",
+ "versione": "2.6.24",
+ "sha256": "18d92bcae6e378bd56629eba87e67076e55d007a8f0b1779a0533a4d7d745cf9",
+ "firma": "NaGmm1JKTi2fq63la4D1yJVDgqO77LhojDvMWWKqqH7GBKq4odP+kyo3nsPSae4iLI+4hK6WXShORc/eMdwXAg==",
+ "note": "Estensione 0.7.4: i prezzi al cliente compaiono da soli appena il gestionale è aperto",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.23.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.24.gdlupd"
 }
