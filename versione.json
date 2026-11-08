@@ -1,8 +1,8 @@
 {
- "versione": "2.5.85",
- "sha256": "a7fff0b91dba6b19861eaa8ec75294a48df001d6a34cd4ae21883f697c3d081f",
- "firma": "ycyXCJHeMTlXdHzYcrdw3nmbWOMqq0F4FYCEUyVTGkHE0x/UQZCHK6M8c7ueAqGGd/ubpLVJZh7IuHgc1PjQDQ==",
- "note": "Reimportazione da Danea sopra un archivio esistente: tiene modelli di stampa, opzioni del gestionale e altri codici a barre",
+ "versione": "2.5.86",
+ "sha256": "a04fde2fe7c6baf437e117ba71972b3129a569222a45e61f71551b7430ed1fbc",
+ "firma": "dky+lC07hpYlqPrXRJNI+U+arKMTLrgwA0LN74P6238ciMi223niXaqy/BPqhH03MXRBVoDXXF/2F8KiGOSOAQ==",
+ "note": "Rinnovi Webroot: finestra rossa con le scadenze del mese, pro forma automatiche (ordine per le aziende) e invio su WhatsApp",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.85.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.86.gdlupd"
 }
