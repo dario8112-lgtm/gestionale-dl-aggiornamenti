@@ -1,8 +1,8 @@
 {
- "versione": "2.5.96",
- "sha256": "351fa90a0c86d114c7106076e01b718209ffdc4fbb0a229fd5110d4e12de84e0",
- "firma": "menLuY7aAfbwvmYkICsLRw2v9f3ejE8y9nCwJUwvMdBF7kYs3li3v0VTS0s3ui6/83W0FDpkxTCUxtYRgRd0BQ==",
- "note": "Elenchi: righe più grandi e chiare, stato colorato, tabella a tutta larghezza, senza barra di scorrimento",
+ "versione": "2.5.97",
+ "sha256": "eacd7dda111c7460dfc7dbdeb657da99713e3c34bd0f357c3b6bb13561ea858e",
+ "firma": "e/0MggZo3TOiMw0w+HixQenIZl1kkbP8Y/E2XQR3akv8qfx6E9XlSbBGEe8sVzU3v5QJN0zQ9Fw8RCMyM6GMAg==",
+ "note": "Elenchi sempre adattati alla finestra, senza barra di scorrimento",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.96.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.97.gdlupd"
 }
