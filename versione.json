@@ -1,8 +1,8 @@
 {
- "versione": "2.5.98",
- "sha256": "7bbf9ee19fbb78b63c6e8cb1ebf21b93ca2f575b356427dda3d7d268c616e7d9",
- "firma": "Ln2QlTG1oVMRVlsGQPC7okGjnvZqtlMA2XRvgaoaXT9gnnrmhAPy4bqEvoUiob4gDdMq4XqQgsRsh9Bg0NGFBA==",
- "note": "Nuovo stile della cassa Touch",
+ "versione": "2.5.99",
+ "sha256": "8d6fb0c0a9b6ff733f541322f31a1b37fc9d66731fd39aa9adacc4b73ff1af5c",
+ "firma": "8TMSYAhbompdXgOlJCJHAgC/VoCmyq+pGDtsOrkzGs9PccNWwyl7qpPyZdesEt1Rv275/RfRwDxY0//fr4yYDQ==",
+ "note": "Nuovo stile della finestra Opzioni",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.98.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.99.gdlupd"
 }
