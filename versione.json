@@ -1,8 +1,8 @@
 {
- "versione": "2.6.16",
- "sha256": "2b7b61707e4b1ce8e713c1ec7ff229396aac8c150ce182f0fa64930e8b62c78d",
- "firma": "WNa6LojVSfULeAkuC3n/ZyDA4/1CaF44hZMmEFQUxfUQUklB8gXnXBDXN3IPCT8IV2CjorMQ2bzEIcdXRvz8CQ==",
- "note": "Estensione 0.6.1: prezzo al cliente e Nel documento anche sugli smartphone usati di e-Pol",
+ "versione": "2.6.17",
+ "sha256": "4fb8cd64db67e1c84b8da4f1396fd083dd77b15d842b255970dd7d0cb56e873a",
+ "firma": "e/5Rq9Ckoz8EzZaZCeHfUoYLF9qpG72tCOAf2woGXnkZhyfQb/gew3Dxn2r4ODF/ntb3/ZpTWAOMrnHCyHrLDA==",
+ "note": "Righe dei documenti con il link al prodotto del fornitore (🔗)",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.16.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.17.gdlupd"
 }
