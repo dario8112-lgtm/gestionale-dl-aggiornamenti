@@ -1,8 +1,8 @@
 {
- "versione": "2.6.9",
- "sha256": "95b1b966cde49eb656db756b3e3badfd491d9ad45d3aaa8f65e83f8873fcfc3e",
- "firma": "vP8qwJkX2zRJ5rE2UfKo4jvwLTDAHKJWxxPTHAGb+G0PA52GWgXCmMjgg7rs6db760hA6mHJBOIqaV9ir3K+CQ==",
- "note": "WhatsApp Webroot firmato Mouse + negozio",
+ "versione": "2.6.10",
+ "sha256": "69c32f0183bc6b1f95836d7d1cd4edc11523a1823b89784ebed8f588c35ca39d",
+ "firma": "NBtFbtDSlhApq13UoHPer1ex1UJfpyO+lCPi9Q+zE9tcY/SzC0XNgHW1XcyDxbYtN9GS2C4O0T7iIlcTewvGCw==",
+ "note": "Webroot: cellulare preso dalla rubrica se un cliente con lo stesso nome lo ha",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.9.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.10.gdlupd"
 }
