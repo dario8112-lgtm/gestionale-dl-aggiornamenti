@@ -1,8 +1,8 @@
 {
- "versione": "2.6.21",
- "sha256": "f2d9ac9e519e4ef5b6eb98ea86e530827da7f9d5a0218356b201bebf14602219",
- "firma": "/NYzllVZSgwcruZrrXcdfzjVGswV6oNcs8D0KJiY3OiRA4l7ZPhj5hUlmaDbsGbt8TQ4C7Wg6A5HhirCEOFgBQ==",
- "note": "Listino e-Pol scaricato ogni notte (nuovi, ricambi, usati senza IVA al margine): costo + 50 € (PC + 150 €) + IVA",
+ "versione": "2.6.22",
+ "sha256": "e272508797b06135f26eb87134032d4167d9ea2136fd824138e1dd562cea28f7",
+ "firma": "LbRaudWVpXzoSQQT2uN+z+mMGHTDUGUfnWWBXsK/Cm/LHBr5c+YsnyX1G3cXcG5kSMH6glQ5STm/Hfa725QFCg==",
+ "note": "Estensione Chrome 0.7.2: prezzo al cliente e Nel documento anche su PhoneClick (+122 €)",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.21.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.22.gdlupd"
 }
