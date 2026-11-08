@@ -1,8 +1,8 @@
 {
- "versione": "2.6.5",
- "sha256": "6c7adb8fe42e7f5a55b0dd05fdc64ee421552171f7d9bc0ed534355da0a6eea6",
- "firma": "A6VADS3ZE6s9Cyq5SioZLt1IDMW41/ed49olbykIlORB75BtHtgABUxx2Dvn0A1HmAxGL4uHVxLACQSlV1vEDA==",
- "note": "Vendita al banco: scelta Contanti / Bancomat prima dello scontrino",
+ "versione": "2.6.6",
+ "sha256": "c6a576046fcd1320357551fd86bcd4b8ee3e6481b1d3e7b831f95982c5dabb73",
+ "firma": "+U6K9a91qWye04FHey2k3DRr36+SjxXztX3N2uFx0a5Lip5hbD/zZoAqcTTzEiZH5jubZ52ELM5HM26bEF2IAw==",
+ "note": "Elenchi: torna la barra di scorrimento dentro la tabella, più comoda da trascinare",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.6.gdlupd"
 }
