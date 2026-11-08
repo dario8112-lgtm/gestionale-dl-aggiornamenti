@@ -1,8 +1,8 @@
 {
- "versione": "2.5.87",
- "sha256": "b2c2e5ce954490d0c20031199761f7da8580022f2b1c69472857d2e33df068db",
- "firma": "CVgRzC6vrJ2UhN06gFz6TwHgZ45FXzpworX3M09Pszd/5fiCiwV3lNwRXU3tiFqv6Vy9P7b5DvgiP/ITTaW2CA==",
- "note": "Rinnovi Webroot: considera solo fatture e vendite al banco",
+ "versione": "2.5.88",
+ "sha256": "0cb861336b5db91126c71a5759ea0181dee6501fafdc829ac65783ad7aab6ec9",
+ "firma": "KbaNe0p9pnWC+UhU9GlP+bEXu018avI4uhoZTSQtlWV13tcZ64qimZ/Pfc7nhQr/KO8jk1qmCFX5mQ31d0XpDA==",
+ "note": "Rinnovi Webroot: scelta del magazzino (negozio)",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.87.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.88.gdlupd"
 }
