@@ -1,8 +1,8 @@
 {
- "versione": "2.5.91",
- "sha256": "2887d76e8abd902c85423fe0c17fcb9fba3421090741a8b488e91d501467df1f",
- "firma": "MoK4Yb9KtWTG8RhhR/+qQPaJVHfNnPI05x+NNHNJ9S40fa6PRM9H/Nq9WJKtH8E6aatS5c4kGVhbISKZh/SeDg==",
- "note": "Nuove icone della barra in alto",
+ "versione": "2.5.92",
+ "sha256": "dd41383b3e9c7ff843e9658b40c0fd611f95faeec026ef1cc5c359909ca18cb9",
+ "firma": "8DFiVcZtnu5s2Y5EWsCmuD/PsLV4Cbjr39Xe/4Ez97kSg7jEXGpL1btCDNNPC2KjH/dDLmbCeLhUq0eyU5xgAA==",
+ "note": "Nuovo stile per elenchi, pannello filtri, pulsanti e finestre",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.91.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.92.gdlupd"
 }
