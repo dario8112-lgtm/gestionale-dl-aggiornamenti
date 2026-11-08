@@ -1,8 +1,8 @@
 {
- "versione": "2.6.19",
- "sha256": "8c1731353b7b9f03448bff12194e5361dd4a7f885b1393e745ef32ef1b22d0c5",
- "firma": "gWYCPI51uGoPtydSg10WGYSvMp+u820CPO5BLvw4uR1Ywfy63Wap2FPqbv2H32IOl7PmkTjagy3/sL/N2lg3DQ==",
- "note": "Life365: prezzo al cliente = costo + 50 € + IVA 22%",
+ "versione": "2.6.20",
+ "sha256": "fc8cdc124ff6edf4fe0893941badc246a273b4dda9737d67e72e385da65bfdf9",
+ "firma": "AsLUmAZSYf6IAj89DAwHPG+goDimT55cV+abXqLi5ykNyeRirBTwH5eRx4zVi922x8mQ/lr+bYgjc/G1jgiADg==",
+ "note": "Listino PhoneClick scaricato ogni notte: prezzo al cliente = prezzo PhoneClick IVA inclusa + 122 €",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.19.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.20.gdlupd"
 }
