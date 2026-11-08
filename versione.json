@@ -1,8 +1,8 @@
 {
- "versione": "2.6.6",
- "sha256": "c6a576046fcd1320357551fd86bcd4b8ee3e6481b1d3e7b831f95982c5dabb73",
- "firma": "+U6K9a91qWye04FHey2k3DRr36+SjxXztX3N2uFx0a5Lip5hbD/zZoAqcTTzEiZH5jubZ52ELM5HM26bEF2IAw==",
- "note": "Elenchi: torna la barra di scorrimento dentro la tabella, più comoda da trascinare",
+ "versione": "2.6.7",
+ "sha256": "ee5121bfdfec7e3fa7a483b2caf46138617c24c5ce83c886855e6af794ce0c21",
+ "firma": "4eigwVZRZzTHVTf+wR6f3ZeQ6n50AjavkGAogmiBzVh6r1bnjeMs17koxAPfL4SCShDfs+gnRCZH+j/mmWrMAg==",
+ "note": "Fatture pro-forma sempre con il modello Doc di vendita (classico), anche su WhatsApp Webroot",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.6.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.7.gdlupd"
 }
