@@ -1,8 +1,8 @@
 {
- "versione": "2.5.94",
- "sha256": "161984cb567c81da9e08474eb9bede3e3357087826eaa602964c26507e710af8",
- "firma": "3dpAIUcMBY1TnxlhFP2ArItSRaZB9TOs0fNKTpv3H92r0usdhsPAjFk411tyzjomnpYT47RGsyQYGabIrfVHAQ==",
- "note": "Cassaforte: cambia utente dalla schermata Utenti e dal menu",
+ "versione": "2.5.95",
+ "sha256": "7936ffd4220d3be27f3a8af93b53f2db3eeecce15955f1cd4ee1556aec3b6bd6",
+ "firma": "j3KEeeNhlsb42scHL3u/STjpnLR6DJOs8zfSqWR4UKqvDZkXgJ3DnbQx66axBijYWLmsGhDKhsisTKeRllTNAg==",
+ "note": "Pulsante DDT solo nell'archivio Affari di Famiglia",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.94.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.95.gdlupd"
 }
