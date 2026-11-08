@@ -1,8 +1,8 @@
 {
- "versione": "2.6.0",
- "sha256": "ec13af4bf854a478d83de77b3d9c159e7436be30163ff2567a4251c1e2dda34c",
- "firma": "11r0GQ+N/jHg4MmfvnspHkU+xCGtoRQMZ58/KO3gmA1I6KcCQ78EluX6F1hrdkrjb28KdOZu3Ml+o9WYxS0ECw==",
- "note": "Prodotti: una sola casella per listino, con scelta IVA inclusa / prezzo netto",
+ "versione": "2.6.1",
+ "sha256": "7ef44e71215ba7034abb4b371b970cbb89053fd76a3aeee271bac4798b923a8b",
+ "firma": "XvYJjBfA4OXHqdRgrLUgS/1OvVVSrXmvobYd5hLVRm5QRlUChNNtPCJHBZBIQFirndZ3vjAuRGG6J4cLHZLaAg==",
+ "note": "Nuovo stile dell'Agenda",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.1.gdlupd"
 }
