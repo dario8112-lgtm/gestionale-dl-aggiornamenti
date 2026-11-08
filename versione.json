@@ -1,8 +1,8 @@
 {
- "versione": "2.5.84",
- "sha256": "f3f70d6357f0017c5bf1dbc1eff42090f12941bb821ed6ad91213187b845ad68",
- "firma": "rltjqH/MTnKI7mB3W2vJw+JnZDpo7FCLdTTu0vSwcH/eqCjz6GeM82qWNF6KRUzbBkvJtazc4akM0gc38vHuBg==",
- "note": "Estensione 0.5: prezzo al cliente e pulsante 'Nel documento' sul sito e-Pol",
+ "versione": "2.5.85",
+ "sha256": "a7fff0b91dba6b19861eaa8ec75294a48df001d6a34cd4ae21883f697c3d081f",
+ "firma": "ycyXCJHeMTlXdHzYcrdw3nmbWOMqq0F4FYCEUyVTGkHE0x/UQZCHK6M8c7ueAqGGd/ubpLVJZh7IuHgc1PjQDQ==",
+ "note": "Reimportazione da Danea sopra un archivio esistente: tiene modelli di stampa, opzioni del gestionale e altri codici a barre",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.84.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.85.gdlupd"
 }
