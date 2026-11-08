@@ -1,8 +1,8 @@
 {
- "versione": "2.5.93",
- "sha256": "0602c7df1277c81a222ded23e207d8165d1034da0c414c40df0aba56eb315eb1",
- "firma": "jlZ1yZLURh4MGwMWmzUjlRCykXShz4P1mf6kYRUvBZPe9c9O5+HwocqzXhvLa+QvtL3vayXjiIQ+8mKIgTH/Dg==",
- "note": "Cassaforte: dare accessi a un utente più chiaro (selezione, copia o sposta)",
+ "versione": "2.5.94",
+ "sha256": "161984cb567c81da9e08474eb9bede3e3357087826eaa602964c26507e710af8",
+ "firma": "3dpAIUcMBY1TnxlhFP2ArItSRaZB9TOs0fNKTpv3H92r0usdhsPAjFk411tyzjomnpYT47RGsyQYGabIrfVHAQ==",
+ "note": "Cassaforte: cambia utente dalla schermata Utenti e dal menu",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.93.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.94.gdlupd"
 }
