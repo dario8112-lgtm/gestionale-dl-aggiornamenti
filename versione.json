@@ -1,8 +1,8 @@
 {
- "versione": "2.6.1",
- "sha256": "7ef44e71215ba7034abb4b371b970cbb89053fd76a3aeee271bac4798b923a8b",
- "firma": "XvYJjBfA4OXHqdRgrLUgS/1OvVVSrXmvobYd5hLVRm5QRlUChNNtPCJHBZBIQFirndZ3vjAuRGG6J4cLHZLaAg==",
- "note": "Nuovo stile dell'Agenda",
+ "versione": "2.6.2",
+ "sha256": "014105e77bed52aab68a25a257b8ce72d0884a19fce8f4bb3ab3af2d0d8115b8",
+ "firma": "622l0iz4tBIWScGg5PSFg5tK2hcGw9GQ3EfSLdkzn4/amosNP/19bqxMHxuLvQta2jaGNuUs+9Oq15/2JcUWAw==",
+ "note": "Copia tutto su chiavetta: archivi, Cassaforte e impostazioni",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.2.gdlupd"
 }
