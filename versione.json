@@ -1,8 +1,8 @@
 {
- "versione": "2.6.17",
- "sha256": "4fb8cd64db67e1c84b8da4f1396fd083dd77b15d842b255970dd7d0cb56e873a",
- "firma": "e/5Rq9Ckoz8EzZaZCeHfUoYLF9qpG72tCOAf2woGXnkZhyfQb/gew3Dxn2r4ODF/ntb3/ZpTWAOMrnHCyHrLDA==",
- "note": "Righe dei documenti con il link al prodotto del fornitore (🔗)",
+ "versione": "2.6.18",
+ "sha256": "dc484c2dbe50b65606692f0b9fbb8c6ca24aa94a77108153e8557cde57a46ece",
+ "firma": "YEWPYp4rzkGovfBd/hfIGhALq3UW80e+ZqhgRs31+qJYxfYSHmEBVIihLQ56cDmqUcrVrxrpAv4B5nT9NbYwCA==",
+ "note": "Link 🔗 al prodotto per tutti i fornitori (Foneday, Life365 e qualsiasi sito con l'estensione 0.7)",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.17.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.18.gdlupd"
 }
