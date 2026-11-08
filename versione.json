@@ -1,8 +1,8 @@
 {
- "versione": "2.6.4",
- "sha256": "55022bd856f8049ae08bae0beb76cd7c2ae37d88a91cdbc46f5a35e639bc6e63",
- "firma": "8nbIvrKDInYIWzMNeUxBJ6z1fkmKsZqBlPk/exkket1G4IFQTWWAe0aBbGomF1GzgDVtk2ooJQ3EAfhQTFr5CA==",
- "note": "Registratore di cassa: Trova porta funziona anche via Tailscale e con registratori che non rispondono sulle porte chiuse",
+ "versione": "2.6.5",
+ "sha256": "6c7adb8fe42e7f5a55b0dd05fdc64ee421552171f7d9bc0ed534355da0a6eea6",
+ "firma": "A6VADS3ZE6s9Cyq5SioZLt1IDMW41/ed49olbykIlORB75BtHtgABUxx2Dvn0A1HmAxGL4uHVxLACQSlV1vEDA==",
+ "note": "Vendita al banco: scelta Contanti / Bancomat prima dello scontrino",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.5.gdlupd"
 }
