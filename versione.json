@@ -1,8 +1,8 @@
 {
- "versione": "2.6.20",
- "sha256": "fc8cdc124ff6edf4fe0893941badc246a273b4dda9737d67e72e385da65bfdf9",
- "firma": "AsLUmAZSYf6IAj89DAwHPG+goDimT55cV+abXqLi5ykNyeRirBTwH5eRx4zVi922x8mQ/lr+bYgjc/G1jgiADg==",
- "note": "Listino PhoneClick scaricato ogni notte: prezzo al cliente = prezzo PhoneClick IVA inclusa + 122 €",
+ "versione": "2.6.21",
+ "sha256": "f2d9ac9e519e4ef5b6eb98ea86e530827da7f9d5a0218356b201bebf14602219",
+ "firma": "/NYzllVZSgwcruZrrXcdfzjVGswV6oNcs8D0KJiY3OiRA4l7ZPhj5hUlmaDbsGbt8TQ4C7Wg6A5HhirCEOFgBQ==",
+ "note": "Listino e-Pol scaricato ogni notte (nuovi, ricambi, usati senza IVA al margine): costo + 50 € (PC + 150 €) + IVA",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.20.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.21.gdlupd"
 }
