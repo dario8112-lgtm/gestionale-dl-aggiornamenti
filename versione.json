@@ -1,8 +1,8 @@
 {
- "versione": "2.5.86",
- "sha256": "a04fde2fe7c6baf437e117ba71972b3129a569222a45e61f71551b7430ed1fbc",
- "firma": "dky+lC07hpYlqPrXRJNI+U+arKMTLrgwA0LN74P6238ciMi223niXaqy/BPqhH03MXRBVoDXXF/2F8KiGOSOAQ==",
- "note": "Rinnovi Webroot: finestra rossa con le scadenze del mese, pro forma automatiche (ordine per le aziende) e invio su WhatsApp",
+ "versione": "2.5.87",
+ "sha256": "b2c2e5ce954490d0c20031199761f7da8580022f2b1c69472857d2e33df068db",
+ "firma": "CVgRzC6vrJ2UhN06gFz6TwHgZ45FXzpworX3M09Pszd/5fiCiwV3lNwRXU3tiFqv6Vy9P7b5DvgiP/ITTaW2CA==",
+ "note": "Rinnovi Webroot: considera solo fatture e vendite al banco",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.86.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.87.gdlupd"
 }
