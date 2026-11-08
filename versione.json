@@ -1,8 +1,8 @@
 {
- "versione": "2.5.92",
- "sha256": "dd41383b3e9c7ff843e9658b40c0fd611f95faeec026ef1cc5c359909ca18cb9",
- "firma": "8DFiVcZtnu5s2Y5EWsCmuD/PsLV4Cbjr39Xe/4Ez97kSg7jEXGpL1btCDNNPC2KjH/dDLmbCeLhUq0eyU5xgAA==",
- "note": "Nuovo stile per elenchi, pannello filtri, pulsanti e finestre",
+ "versione": "2.5.93",
+ "sha256": "0602c7df1277c81a222ded23e207d8165d1034da0c414c40df0aba56eb315eb1",
+ "firma": "jlZ1yZLURh4MGwMWmzUjlRCykXShz4P1mf6kYRUvBZPe9c9O5+HwocqzXhvLa+QvtL3vayXjiIQ+8mKIgTH/Dg==",
+ "note": "Cassaforte: dare accessi a un utente più chiaro (selezione, copia o sposta)",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.92.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.93.gdlupd"
 }
