@@ -1,8 +1,8 @@
 {
- "versione": "2.5.83",
- "sha256": "3eac2f8d03a4606b0a969f9a9ccf318e498d068a699020f3c30bfd4c4fd74891",
- "firma": "sDHEyTT9TgrESC4J6xGLR3tXQDXl8iHsVV1jV+MMVtzlDb20B/U2cYfme5PYD/J4gK2SvED1tyCZt9c02J7/Cw==",
- "note": "Estensione Chrome 0.4.1: ricerca del prodotto anche su e-Pol",
- "data": "2026-11-07",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.83.gdlupd"
+ "versione": "2.5.84",
+ "sha256": "f3f70d6357f0017c5bf1dbc1eff42090f12941bb821ed6ad91213187b845ad68",
+ "firma": "rltjqH/MTnKI7mB3W2vJw+JnZDpo7FCLdTTu0vSwcH/eqCjz6GeM82qWNF6KRUzbBkvJtazc4akM0gc38vHuBg==",
+ "note": "Estensione 0.5: prezzo al cliente e pulsante 'Nel documento' sul sito e-Pol",
+ "data": "2026-11-08",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.5.84.gdlupd"
 }
