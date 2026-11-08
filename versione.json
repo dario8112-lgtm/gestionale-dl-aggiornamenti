@@ -1,8 +1,8 @@
 {
- "versione": "2.6.7",
- "sha256": "ee5121bfdfec7e3fa7a483b2caf46138617c24c5ce83c886855e6af794ce0c21",
- "firma": "4eigwVZRZzTHVTf+wR6f3ZeQ6n50AjavkGAogmiBzVh6r1bnjeMs17koxAPfL4SCShDfs+gnRCZH+j/mmWrMAg==",
- "note": "Fatture pro-forma sempre con il modello Doc di vendita (classico), anche su WhatsApp Webroot",
+ "versione": "2.6.8",
+ "sha256": "16ba078ffc92b5da1c98ef5ffc3be92511adf086a9b37d831a93b64de3a087dd",
+ "firma": "iOkiw7kVwt4rktWlLLnfSp31ncELv3zeF4zJH3QhBP3A19dlYiCdbJfdH0QEH4whS1YxQpSwo3hATjg/ALviAA==",
+ "note": "Pro-forma e WhatsApp Webroot con il modello 'Doc di vendita (classico)'",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.7.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.8.gdlupd"
 }
