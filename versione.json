@@ -1,8 +1,8 @@
 {
- "versione": "2.6.3",
- "sha256": "fad28100ca353d2f294df38b1047770bf3c0caacc18e783322c7943581ecf557",
- "firma": "Woylj6EIH7FR9WJRUSycqE9OXZIbkSY/+jGW4czByFTCdOnbpluEACBjC63mD6HWtbkRDOupYA4+pxMly6fvCg==",
- "note": "Licenza: pulsante per togliere la licenza del titolare da un computer",
+ "versione": "2.6.4",
+ "sha256": "55022bd856f8049ae08bae0beb76cd7c2ae37d88a91cdbc46f5a35e639bc6e63",
+ "firma": "8nbIvrKDInYIWzMNeUxBJ6z1fkmKsZqBlPk/exkket1G4IFQTWWAe0aBbGomF1GzgDVtk2ooJQ3EAfhQTFr5CA==",
+ "note": "Registratore di cassa: Trova porta funziona anche via Tailscale e con registratori che non rispondono sulle porte chiuse",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.4.gdlupd"
 }
