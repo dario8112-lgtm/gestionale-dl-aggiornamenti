@@ -1,8 +1,8 @@
 {
- "versione": "2.6.14",
- "sha256": "d48b69e219bbbf55aa699133d6e9933c0175a947691fecf1fca5a090ad37785b",
- "firma": "qp1JyR0Jq9+WSn81zE2tr+tjaXEKeg0LA17HbKH4GgQg0svVeF3JHjyait7b+xqF3dIkGsVDbCF0WodJdJksAA==",
- "note": "Estensione Chrome 0.6: collegamento con codice, funziona con più utenti sullo stesso server",
+ "versione": "2.6.15",
+ "sha256": "23f8dd4af963beadf30bdcb3d2f7fbdc8a7d5160d00c480a1922c87d4bc8d8c7",
+ "firma": "TiY9hE++4T87wnDFlAGMOGT1+uw6T34oDcPZG3k6O3Ty5TZSlewu4jZtb1WBswXF2z5+/S+UFenCa9X3QVIPDg==",
+ "note": "Life365: listino smartphone nuovi proposto nelle righe dei documenti",
  "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.14.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.15.gdlupd"
 }
