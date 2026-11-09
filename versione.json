@@ -1,8 +1,8 @@
 {
- "versione": "2.6.48",
- "sha256": "d80a80a0a533a0c796ad20654443ac88dfdb768b10fc70821827079f09731d41",
- "firma": "gVuAS33dJBolL0/+vdou7QaW4IHwoN4Rm+pEuLXvi93DDsWxDzK9+/Bs/zj3i8DGRRvkjmPGrbBYGDrkb2csBg==",
- "note": "Estensione 0.7.7: l'accesso automatico non compila più i moduli della newsletter (PhoneClick)",
+ "versione": "2.6.49",
+ "sha256": "4f709f5ee69bb9ff51a0cb866b1c68585bcf0d4ae291d3643c44bb1b4b0d61fc",
+ "firma": "2MBo2TZYlaYF4VY7UtY5GZMkl264SVOc5+V36z05A1z3hsRh3KF9IJn77bR8AyyG95IEYcIzZ7FAQV8BqxiTBw==",
+ "note": "Pulsante 'Affianca' nei documenti: apre una seconda finestra del gestionale accanto a quella attuale (stesso utente, senza rifare l'accesso) per vedere insieme ordine e fattura/preventivo; le finestre si ridimensionano liberamente",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.48.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.49.gdlupd"
 }
