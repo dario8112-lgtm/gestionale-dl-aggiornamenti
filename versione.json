@@ -1,8 +1,8 @@
 {
- "versione": "2.6.51",
- "sha256": "fff941ca883e1e345f4e9c955cfb9c4dd6eb88ed41e5d0a39583b6a064d7aad8",
- "firma": "GNOvqDmvgmXqlPV8/STXjaEEW31fhfA/IcBiFPUKHNpirnLGXDlTlJ9O3wOi/WcCy0v+J48mbbVqDgwOnjtLBg==",
- "note": "Gestionale dal cellulare: Opzioni › Varie › Cellulare attiva una versione per telefono (ordini, preventivi, banco, fatture, DDT, prodotti e prezzi fornitori, clienti) con gli stessi utenti e permessi",
+ "versione": "2.6.52",
+ "sha256": "e26f93ac656019f16e27d2e1f5a0c44892c4651e729bc9e1e77d6835e9152f62",
+ "firma": "xjxebVtppGRouKwqjLopwKP+Hfh4jY8jKwDkzX/vREKwafWn1KsipbvKc6zH6L9zeGH2lyZVwLTZuHABgdxNAQ==",
+ "note": "Gestionale web: gestionale completo nel browser (/pc/), accesso con codice di verifica (Google Authenticator), scontrini solo dagli indirizzi del negozio, servizio di Windows che parte con il server",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.51.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.52.gdlupd"
 }
