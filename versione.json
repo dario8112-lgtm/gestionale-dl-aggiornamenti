@@ -1,8 +1,8 @@
 {
- "versione": "2.6.32",
- "sha256": "27ec2df01fc729214e4f178cd858a0f2185b575edcb64e854f9774c267d878f7",
- "firma": "ynT5ZgkTmaKCpsKyxObSa125+fCV7NrV72PL91cSinlpCMorOiaDhRvWpZ/EGvh0tGh3nejNTFLgQ+UYa82dDw==",
- "note": "Controllo accessi: si salva anche con utenti senza password (restano sospesi)",
+ "versione": "2.6.33",
+ "sha256": "47754f7638b691cb551da16229d1ffd3ffac7ff87afd8d902669a7f8f14ce3a9",
+ "firma": "mGSuychxvhAdQEQn1rsg9r2HXd1oHhSQF8xYuVywO0BQV+xj6TurpqTDiceGZ7hLHK328FCCvCqvsgbCakgPBw==",
+ "note": "Righe scritte a mano con categoria: collegate a un prodotto (esistente o nuovo) e movimento di magazzino",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.32.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.33.gdlupd"
 }
