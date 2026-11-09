@@ -1,8 +1,8 @@
 {
- "versione": "2.6.50",
- "sha256": "eb1039e47fd23e275ea9e791271e6e27dbab2fc4a6f3ec60513c090c0a90e260",
- "firma": "zdA6nkrN3rlTsS+2lfUp6ZdyIGsX27GsqaYHMDZLRJKzLZJAS8LFQksOrkZ6xUdWi/JESZkUWjkTaBYdsWQ7Dw==",
- "note": "Ordini clienti: nuovi stati 01 In Lavorazione … 07 Attesa Pezzi (i nuovi ordini partono da 01 In Lavorazione), filtrabili nel pannello Stato dell'elenco",
+ "versione": "2.6.51",
+ "sha256": "fff941ca883e1e345f4e9c955cfb9c4dd6eb88ed41e5d0a39583b6a064d7aad8",
+ "firma": "GNOvqDmvgmXqlPV8/STXjaEEW31fhfA/IcBiFPUKHNpirnLGXDlTlJ9O3wOi/WcCy0v+J48mbbVqDgwOnjtLBg==",
+ "note": "Gestionale dal cellulare: Opzioni › Varie › Cellulare attiva una versione per telefono (ordini, preventivi, banco, fatture, DDT, prodotti e prezzi fornitori, clienti) con gli stessi utenti e permessi",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.50.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.51.gdlupd"
 }
