@@ -1,8 +1,8 @@
 {
- "versione": "2.6.56",
- "sha256": "253e381ef033bedfee64386a4642e93b114b72a66d7d631cf4041a8d6f8a7e51",
- "firma": "BNV6fb43lL3d8OTm/WVGT8CQk9ZNNS4xLo/cUVk4I2yWK7JOq81tA7k5kUUCmfkZl3y/Dc46m6rg1i2QDClwBg==",
- "note": "Aggiornamento: non si blocca più se una versione vecchia è in uso dal servizio web. Archivio per utente nel web e cellulare (amministratori).",
+ "versione": "2.6.57",
+ "sha256": "7621ce664fae78de2588233fe7c04dfcf9fe76c351b0e3ae051756001f1c9248",
+ "firma": "OBw3O5JHNMmUQXm1OePa3UmuQle/npcT3CM3ZwVtglxt7hYsjulUexgmhZy41qxMjRXqkJ5OUVCr4FWff3xlBA==",
+ "note": "Web e cellulare: gli archivi protetti da password si aprono scrivendo la password dell'archivio. Aggiornamento senza errori con il servizio web attivo.",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.56.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.57.gdlupd"
 }
