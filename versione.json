@@ -1,8 +1,8 @@
 {
- "versione": "2.6.30",
- "sha256": "400650b064e6a3007607b6086210a41d691e8e3456fc819d75e51d5dba942f08",
- "firma": "JlBPvjtLeR41cnxxZSrlJY3kKM2Zf1cYUlKR0rEEzujjECO7KePUBUtArQTnYdx+liaasUlwOL3OnyqpR0W/Dw==",
- "note": "Il costo del fornitore scelto viene salvato nella riga: guadagno corretto in Analisi anche per le righe scritte a mano",
+ "versione": "2.6.31",
+ "sha256": "f55a1c8d421d5f8db5f492c4cbab11ed5f2ac66bd25cb3a7263d069465333ef7",
+ "firma": "pS5XrCgrAfV28izqvdSY2uAcy4TTfqJTRADPXtmoGSKlq8WVQynH6HfdhuxwAoIUArMZGEyH1UzQ1nzq6RsGBg==",
+ "note": "Start: riquadro IVA del trimestre (da versare, scadenza, stima del trimestre in corso), visibile solo agli utenti abilitati",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.30.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.31.gdlupd"
 }
