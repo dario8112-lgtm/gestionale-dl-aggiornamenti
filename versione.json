@@ -1,8 +1,8 @@
 {
- "versione": "2.6.35",
- "sha256": "5a1e286efac8168890051837a8c5108e9768c371bb14e9e9f41faea97d17bcb5",
- "firma": "grvpYOabG+cpQAwu1SDl3jLt58lHXrlraIMZpROaMEvP/4yJsttPHZ2SgV3BEb/K2DkgtJ+2Mf7OquGwzvilAQ==",
- "note": "Estensione 0.7.5: prezzo al cliente e Nel documento anche su Amazon (anche Amazon Business)",
+ "versione": "2.6.36",
+ "sha256": "df6b427b15c97e0e5839cf792956f18abd73612ca5145540da2768deb094b01b",
+ "firma": "Tf6gHDrRBpCcIOaEqu+PmdfL5ES7dutUry1LWNPeguOcd4b8EfoD1Cj86KiLrj8vBBkdCraCZUbYs7b+86wqBA==",
+ "note": "Utenti con 'Usa esclusivamente il magazzino': i nuovi documenti si salvano sempre con quel magazzino",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.35.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.36.gdlupd"
 }
