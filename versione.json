@@ -1,8 +1,8 @@
 {
- "versione": "2.6.24",
- "sha256": "18d92bcae6e378bd56629eba87e67076e55d007a8f0b1779a0533a4d7d745cf9",
- "firma": "NaGmm1JKTi2fq63la4D1yJVDgqO77LhojDvMWWKqqH7GBKq4odP+kyo3nsPSae4iLI+4hK6WXShORc/eMdwXAg==",
- "note": "Estensione 0.7.4: i prezzi al cliente compaiono da soli appena il gestionale è aperto",
- "data": "2026-11-08",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.24.gdlupd"
+ "versione": "2.6.25",
+ "sha256": "24de2f99663c978b0ed694dee08032895de905969e3ec05ba7b1b2504b45fd95",
+ "firma": "y6GMPwn8pDZowvXBCpZNf4r1MYYwy705GhK7kNoVE4ZV2pcaxBodjAvCI9jKqfNi9k7gei6R7hpZ3OtqotZNAw==",
+ "note": "Selezione cliente: scrivendo nei campi del nuovo cliente si seleziona da solo Crea un nuovo cliente",
+ "data": "2026-11-09",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.25.gdlupd"
 }
