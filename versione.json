@@ -1,8 +1,8 @@
 {
- "versione": "2.6.40",
- "sha256": "e0c87f89cd1e600fda8dcabaaa971a46f52970df79f0e05e89351821a519e636",
- "firma": "rh/Zuh6lIc4G+EPGOKzbQR2M3TCm94QoDBPLq//wnB9F1D15NsvZqxr66T1n7Ovs0nZs6u89AG9l7lDUBYKjDQ==",
- "note": "Scadenzario come Pagamenti di Danea: Risorsa, Descrizione con numero del fornitore, Entrate/Uscite con totali, Saldato",
+ "versione": "2.6.41",
+ "sha256": "66c3179fc419e589137fbb6a8e7cfa8e0e4458119ed6cf3f1665852b99afb782",
+ "firma": "9u4U7k9y6PPxuyTx+O4fMZpLz30KUmJdeU5eYV5pj0mL/JzDxOfI83peU3RMoB5L5OGxv+37IHirJJSJZZl0Bw==",
+ "note": "Amazon: cover a libro 20 €, cover 15 €, cellulari costo + 50 € + IVA",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.40.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.41.gdlupd"
 }
