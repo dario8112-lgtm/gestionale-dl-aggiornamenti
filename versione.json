@@ -1,8 +1,8 @@
 {
- "versione": "2.6.59",
- "sha256": "76e7d2274f20bcb011d19929da239e19bd3a7a8f2e82afa668d0d80b167d0ac4",
- "firma": "nutHoaYlNxmaEpc/Oe/39BhLoj5l6AoxoJ+8Mt3vz0kskMUre5HRp61pUw0B76r5GLcrGfESPAHQO+1seQr/CA==",
- "note": "Servizio web e prova: stato dettagliato e pulsante Avvia.",
+ "versione": "2.6.60",
+ "sha256": "1e4d95180a16d5910406d72a80c1a347672f8296c750ef5d352481decdcb6983",
+ "firma": "lwko7whwlhhf3Ry1HkEtgmmjXOXHJelDGMz2fVWbGBs4Ve8FRMz7n3Pw18Jeq/iudg2Ta9Vlbm+vuPr/3dcbBw==",
+ "note": "Servizio web e prova: all'accensione partono uno dopo l'altro (più affidabile).",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.59.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.60.gdlupd"
 }
