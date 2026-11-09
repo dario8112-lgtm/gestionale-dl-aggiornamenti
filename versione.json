@@ -1,8 +1,8 @@
 {
- "versione": "2.6.45",
- "sha256": "bce8c4cd9ff8539d4fe9d98b45a086503b2cea1954bcf5809b7185a00bc61e01",
- "firma": "4Fx5Apl5/6BZW02lmaO+0OaTPGBNLaqDngevKCqGsYV8o3rnyLOlYmhr0WpE+8eY4wtLq15RidLGPfZhYWzsAQ==",
- "note": "Foneday: un account (token) per magazzino, il carrello va sull'account del magazzino del documento",
+ "versione": "2.6.46",
+ "sha256": "6856b45e3f31fd67fa2ba26b963600d04dc4539968235402c0f75e6451ff84ac",
+ "firma": "hy3qRYNULBeNpETj/fWJs9X1LVgkZNr/FW+3dh4LjaR/akzz5Qo5+WjbOC3Ca9imAyQmOB4fUzbvfEbdZ+WCCQ==",
+ "note": "Foneday: nel carrello la nota indica il negozio (magazzino) del documento",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.45.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.46.gdlupd"
 }
