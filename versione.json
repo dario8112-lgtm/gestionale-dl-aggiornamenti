@@ -1,8 +1,8 @@
 {
- "versione": "2.6.36",
- "sha256": "df6b427b15c97e0e5839cf792956f18abd73612ca5145540da2768deb094b01b",
- "firma": "Tf6gHDrRBpCcIOaEqu+PmdfL5ES7dutUry1LWNPeguOcd4b8EfoD1Cj86KiLrj8vBBkdCraCZUbYs7b+86wqBA==",
- "note": "Utenti con 'Usa esclusivamente il magazzino': i nuovi documenti si salvano sempre con quel magazzino",
+ "versione": "2.6.37",
+ "sha256": "494c1e7c6b9837f31e2286ad8a4b9ca1867301e02a9985a2609b5d3c41de2c45",
+ "firma": "liqr9xK2IfSGxkqymng+mvAVDmWjhMDDrzP5B1QapNnnycGUQB1kx46D078FogfSa0S5UWuFoF9NAt19raAjCA==",
+ "note": "Scadenzario: clic sul documento per vedere la fattura ricevuta",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.36.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.37.gdlupd"
 }
