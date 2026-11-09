@@ -1,8 +1,8 @@
 {
- "versione": "2.6.39",
- "sha256": "058e94b1eca6f244a5f8575171b8c5fa50ea00c9541aad29650929fd74883299",
- "firma": "iykP7NUoAt1AsyVlAJc4JBFjLYpfnMFcqJeVuzUcBW0YmOVrn6AmUFnWL+8JvqeiLj1xACqWQRSgsqTpcj/BCQ==",
- "note": "Scadenzario: totale delle righe selezionate e Segna saldata su più righe insieme",
+ "versione": "2.6.40",
+ "sha256": "e0c87f89cd1e600fda8dcabaaa971a46f52970df79f0e05e89351821a519e636",
+ "firma": "rh/Zuh6lIc4G+EPGOKzbQR2M3TCm94QoDBPLq//wnB9F1D15NsvZqxr66T1n7Ovs0nZs6u89AG9l7lDUBYKjDQ==",
+ "note": "Scadenzario come Pagamenti di Danea: Risorsa, Descrizione con numero del fornitore, Entrate/Uscite con totali, Saldato",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.39.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.40.gdlupd"
 }
