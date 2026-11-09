@@ -1,8 +1,8 @@
 {
- "versione": "2.6.34",
- "sha256": "9731d8dbf1f6ca7840fa0cc74175b72a2bb0e1d39bff570bf035fe01fc144a0b",
- "firma": "Rudx0uNBcKi1OcqgEMHhEs5bdZqvQSygptPnTlcgbKaAyudQWD/0JzA0xLbzcJglPtlb/4LZcci2AR/1UMh8Aw==",
- "note": "I nuovi ordini (clienti e fornitori) si salvano già Confermati",
+ "versione": "2.6.35",
+ "sha256": "5a1e286efac8168890051837a8c5108e9768c371bb14e9e9f41faea97d17bcb5",
+ "firma": "grvpYOabG+cpQAwu1SDl3jLt58lHXrlraIMZpROaMEvP/4yJsttPHZ2SgV3BEb/K2DkgtJ+2Mf7OquGwzvilAQ==",
+ "note": "Estensione 0.7.5: prezzo al cliente e Nel documento anche su Amazon (anche Amazon Business)",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.34.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.35.gdlupd"
 }
