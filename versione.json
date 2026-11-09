@@ -1,8 +1,8 @@
 {
- "versione": "2.6.49",
- "sha256": "4f709f5ee69bb9ff51a0cb866b1c68585bcf0d4ae291d3643c44bb1b4b0d61fc",
- "firma": "2MBo2TZYlaYF4VY7UtY5GZMkl264SVOc5+V36z05A1z3hsRh3KF9IJn77bR8AyyG95IEYcIzZ7FAQV8BqxiTBw==",
- "note": "Pulsante 'Affianca' nei documenti: apre una seconda finestra del gestionale accanto a quella attuale (stesso utente, senza rifare l'accesso) per vedere insieme ordine e fattura/preventivo; le finestre si ridimensionano liberamente",
+ "versione": "2.6.50",
+ "sha256": "eb1039e47fd23e275ea9e791271e6e27dbab2fc4a6f3ec60513c090c0a90e260",
+ "firma": "zdA6nkrN3rlTsS+2lfUp6ZdyIGsX27GsqaYHMDZLRJKzLZJAS8LFQksOrkZ6xUdWi/JESZkUWjkTaBYdsWQ7Dw==",
+ "note": "Ordini clienti: nuovi stati 01 In Lavorazione … 07 Attesa Pezzi (i nuovi ordini partono da 01 In Lavorazione), filtrabili nel pannello Stato dell'elenco",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.49.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.50.gdlupd"
 }
