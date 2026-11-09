@@ -1,8 +1,8 @@
 {
- "versione": "2.6.55",
- "sha256": "20052e68a2fdf80101c58235897f4172bf4ff13bc1c9528fdc352aff8858f70c",
- "firma": "sCLVkl12u9bDzcKRiTydqwNcsifkvpTD3GqWysm48gkL15Tt8c5+BOYq6Uk1LwzKczVKeAnhlSOuLC0EEWAmDQ==",
- "note": "Gestionale web e cellulare: gli amministratori possono cambiare archivio (ognuno il suo). Il servizio web si aggiorna da solo quando aggiorni il programma.",
+ "versione": "2.6.56",
+ "sha256": "253e381ef033bedfee64386a4642e93b114b72a66d7d631cf4041a8d6f8a7e51",
+ "firma": "BNV6fb43lL3d8OTm/WVGT8CQk9ZNNS4xLo/cUVk4I2yWK7JOq81tA7k5kUUCmfkZl3y/Dc46m6rg1i2QDClwBg==",
+ "note": "Aggiornamento: non si blocca più se una versione vecchia è in uso dal servizio web. Archivio per utente nel web e cellulare (amministratori).",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.55.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.56.gdlupd"
 }
