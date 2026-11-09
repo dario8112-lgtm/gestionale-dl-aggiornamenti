@@ -1,8 +1,8 @@
 {
- "versione": "2.6.28",
- "sha256": "303783fc5a82836b7c52079d93ed76af11b49b773949b5edf2c6dd6f9271dc42",
- "firma": "j37Z+fQcEsVBqfcvkGlSStkvac7vkltQf+opnn22yBHM/a4uiAnsFeuQ/z0fFirW4He26Rd+0IvKJImJCEy1Bw==",
- "note": "Categoria automatica: distingue nuovo da rigenerato/usato e riconosce gli smartphone",
+ "versione": "2.6.29",
+ "sha256": "5cdc878083deb8e1dd99fac30fb083674e1884a3a56ad77f9110aaf1302719ec",
+ "firma": "QdsfJKz6+aVUWtWt1J4+7Enuif52MhguvjFO/bth0wMKdsGJI1K3t9oJPVSeN2lZ3S48GvisRBdBsdt3Yr9bAA==",
+ "note": "Analisi vendite per categoria: conta anche le righe scritte a mano e mostra l'incassato IVA inclusa",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.28.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.29.gdlupd"
 }
