@@ -1,8 +1,8 @@
 {
- "versione": "2.6.42",
- "sha256": "dddfb62f72205f993c1ef0fb575efd28eec6736ef517c3cb2a6ffa5d37d49add",
- "firma": "jWFu1HW97/Xtynx++CxwdRC0vNtUrkjlMN9La8sA19I5SpPqpPd1GVhtpm9HDAZbDHpGOdXxh1onXR6dQiFaAw==",
- "note": "Runner: listino dal server FTP con i tuoi prezzi, aggiornato ogni 6 ore",
+ "versione": "2.6.43",
+ "sha256": "3c53cea410fdb0958196682cbbd22f7531face51bdde4e2f3af43446eab5d0c2",
+ "firma": "rlM4RzuQYSPaYgWJpmnz+u7G0k24J5lVZKxtUXGZelhZfURLG1g+TxrbwXR6YTqtyA3AvS8Ufd3OnglaDQOwCw==",
+ "note": "Link Life365 diretto al prodotto; carrello automatico anche per Life365, e-Pol e PhoneClick; pulsante Carrelli fornitori nei documenti",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.42.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.43.gdlupd"
 }
