@@ -1,8 +1,8 @@
 {
- "versione": "2.6.58",
- "sha256": "5d388c505c6c036465976a7ff5b2151c92f5849db16ea2b5acb0220573c59941",
- "firma": "9SCsff1/68AARtYjk2ffT6ERtPA4Hm9CCz8YdmTyyTdRyRDnUG9h9Vz8SRXHgvgTM3DHaVZx/Y1OVAs/c9ThCQ==",
- "note": "Gestionale di prova per i clienti (separato, con dati inventati, azzerabile). Archivi protetti apribili dal web con la loro password.",
+ "versione": "2.6.59",
+ "sha256": "76e7d2274f20bcb011d19929da239e19bd3a7a8f2e82afa668d0d80b167d0ac4",
+ "firma": "nutHoaYlNxmaEpc/Oe/39BhLoj5l6AoxoJ+8Mt3vz0kskMUre5HRp61pUw0B76r5GLcrGfESPAHQO+1seQr/CA==",
+ "note": "Servizio web e prova: stato dettagliato e pulsante Avvia.",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.58.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.59.gdlupd"
 }
