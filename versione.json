@@ -1,8 +1,8 @@
 {
- "versione": "2.6.31",
- "sha256": "f55a1c8d421d5f8db5f492c4cbab11ed5f2ac66bd25cb3a7263d069465333ef7",
- "firma": "pS5XrCgrAfV28izqvdSY2uAcy4TTfqJTRADPXtmoGSKlq8WVQynH6HfdhuxwAoIUArMZGEyH1UzQ1nzq6RsGBg==",
- "note": "Start: riquadro IVA del trimestre (da versare, scadenza, stima del trimestre in corso), visibile solo agli utenti abilitati",
+ "versione": "2.6.32",
+ "sha256": "27ec2df01fc729214e4f178cd858a0f2185b575edcb64e854f9774c267d878f7",
+ "firma": "ynT5ZgkTmaKCpsKyxObSa125+fCV7NrV72PL91cSinlpCMorOiaDhRvWpZ/EGvh0tGh3nejNTFLgQ+UYa82dDw==",
+ "note": "Controllo accessi: si salva anche con utenti senza password (restano sospesi)",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.31.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.32.gdlupd"
 }
