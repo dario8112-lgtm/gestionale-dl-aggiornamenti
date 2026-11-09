@@ -1,8 +1,8 @@
 {
- "versione": "2.6.43",
- "sha256": "3c53cea410fdb0958196682cbbd22f7531face51bdde4e2f3af43446eab5d0c2",
- "firma": "rlM4RzuQYSPaYgWJpmnz+u7G0k24J5lVZKxtUXGZelhZfURLG1g+TxrbwXR6YTqtyA3AvS8Ufd3OnglaDQOwCw==",
- "note": "Link Life365 diretto al prodotto; carrello automatico anche per Life365, e-Pol e PhoneClick; pulsante Carrelli fornitori nei documenti",
+ "versione": "2.6.44",
+ "sha256": "b8ffd60f3be5e311c895af50cc1c261c3cc633ffde11cc51fbbf46a57f28e65a",
+ "firma": "4ZI9p8G5gabmZvUdKJXWfWS0mprStNZNq4tE0U5OEwiZ7NpUSDEPRUsBOrIt/7cP4ZidEXn4nOAGTVE5bvhNBw==",
+ "note": "Suggerimenti fornitori: solo i prodotti cercati, senza accessori (adesivi, guarnizioni, connettori…)",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.43.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.44.gdlupd"
 }
