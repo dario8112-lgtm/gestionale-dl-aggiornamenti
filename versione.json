@@ -1,8 +1,8 @@
 {
- "versione": "2.6.26",
- "sha256": "23009497d4e0b62199544275b1019bfb2bde4c3bf945728864d96e6857a70f62",
- "firma": "unWo1GIMx3u7fkOU2G0OrL5n8rRKSGp3Vs+r5Oc9FeONf9W5bhGxJNeJI5Jjfpt165S4jaS6ATDKfzu/nV5EAQ==",
- "note": "Prodotti: scrivendo la descrizione si sceglie da sola la categoria (e sottocategoria) tra quelle esistenti",
+ "versione": "2.6.27",
+ "sha256": "a5cc0db746c5af7aea5398f85e0df8319bad957dcff38d07daf507605c1ca276",
+ "firma": "awTFbhhieqc1kzAL+s3YEggfV1GFnoyQAFL3bQYoReW1TBJr8VmZgdD6Jee8S6XHsfW1/HY0cig2iytPHkpYCg==",
+ "note": "Righe documento: colonna Categoria automatica al posto del codice; suggerimenti fornitori dal più conveniente",
  "data": "2026-11-09",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.26.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.27.gdlupd"
 }
