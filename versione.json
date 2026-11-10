@@ -1,8 +1,8 @@
 {
- "versione": "2.7.8",
- "sha256": "01702ce5640fcc2aea6666caa221a8363b0bd486d965d47c9c33246deffa629f",
- "firma": "JlnLxdRUGBJ+hbQuUW8VBB3amwEITRJ67NZYI60VcNGGzJeZOnZtHULKMPhmlQhHJ1IQnrKPmtVGddTtUWbjBQ==",
- "note": "Le integrazioni TD16-TD19 consegnate dallo SDI non compaiono più tra le fatture ricevute (come Danea)",
+ "versione": "2.7.9",
+ "sha256": "f1afc62a04f7e4efd12e5a43a4483862398d64091b2b3c7973a0aad66a0cac21",
+ "firma": "ZN57T35se09j1SShbPK4UKbJMXo7QsNgEAA49Qc0kBJLNr/Kd+UVXkFfxU9ji1W63crmwMxTi7BcnDUE5ZD/Dw==",
+ "note": "Webroot in scadenza: licenze vendute, rinnovate e ancora da rinnovare",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.8.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.9.gdlupd"
 }
