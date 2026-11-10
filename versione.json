@@ -1,8 +1,8 @@
 {
- "versione": "2.6.90",
- "sha256": "2887e829e72a1ba09699ce7757d3bd0c67b5ca21076879a46494331001ee5fb8",
- "firma": "G9UGDoBqVsOsm/fdoYE7g+xxnNrIiBTKGbFtdHLJlVmTa0Ntps7Hypm2zakZ8fdmwwXxGcndsJL9XAozlt0/BA==",
- "note": "Newtop Store: prodotti e prezzi proposti mentre scrivi la descrizione (costo × 2 + IVA)",
+ "versione": "2.6.91",
+ "sha256": "eddfdf889b8848d803a4463cfae212bcf763618e0a387aa368644ee123ab89e8",
+ "firma": "nQpnIStFxjJTOGla/G4gUkm5xqmQ+sZLH2qGrqdxsDBrsV+uFVmRXHFvEcoBBmmLlJ7SCrJB2RKTB8eVhLUgCA==",
+ "note": "Estensione Cassaforte 0.7.9: vedi e copia nome utente e password dal popup (🔑)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.90.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.91.gdlupd"
 }
