@@ -1,8 +1,8 @@
 {
- "versione": "2.6.87",
- "sha256": "038fc152d2a6ed9247281600af643c2268cb90700de9b81d03597261627dee11",
- "firma": "XvPqHwtWw4wFyXbQF4GrourKrlWL8qDhoTBPYfnCaOFjbzh6YjQQ5kLNuIgh8qlq4WN6zgpGW1p+HznKfbdDCQ==",
- "note": "Avviso righe senza prezzo d'acquisto (nel documento, al salvataggio e ⚠ nella lista)",
+ "versione": "2.6.88",
+ "sha256": "88c2a9758c585c067cf2fb3ae8b8e511b6543ff865bce0bb9180864ffc256d33",
+ "firma": "+e31XmkO+f2tR3fY29AnnvRWHrFSlmfFCeAzQNnS9/jFxXgnqpg7o6dAB1gPsMJiENXLsxnjKoxi5vPFqxdQCg==",
+ "note": "Amazon: prodotti e prezzi proposti mentre scrivi la descrizione (come Foneday)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.87.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.88.gdlupd"
 }
