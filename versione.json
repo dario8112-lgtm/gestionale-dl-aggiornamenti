@@ -1,8 +1,8 @@
 {
- "versione": "2.6.81",
- "sha256": "8020304647e6073a6534734953410413a6814558166717ad880d67af3a90afb3",
- "firma": "GwBcKKnXbA0cTOEQDz0DBigtcC+VKN4cL5B7Dgvfz3piFMTZa+xMk681gLeKUTW5eR0e/Px24p/JJ5EIh8TjAg==",
- "note": "Reg. fatture fornitore: colonna Allegati (📎 PDF, 📄 XML, manca)",
+ "versione": "2.6.82",
+ "sha256": "cf58742316c0360c31b697cc12b5073f9b2afbcd8f865d644f232c9bb87e757e",
+ "firma": "gw2BuNz7XbLzRICp/csgLd3+4TDwGIFZX+W75xDOHIbs4JZkLucVgDWSagRD4nSSGaHZQlIaAqeI6Be+jOL+AQ==",
+ "note": "Numerazione: Mouse SRL fatture sempre /LA; cambiando numerazione il numero riparte dalla serie giusta",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.81.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.82.gdlupd"
 }
