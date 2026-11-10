@@ -1,8 +1,8 @@
 {
- "versione": "2.6.67",
- "sha256": "a1c2329731a251873873e1c25d39cd5d276d56b31b37047bddd6ec3f3e8a3be5",
- "firma": "vP33AFSn/UMbhRfBkvrpKxJjp8cOCjwIRdQtb1A1WG/fmz5UDNZm3+JMJtXMLZoVcm1B1gqrlhdbXOu33/4yCw==",
- "note": "Guadagno: costo 0 nelle righe = costo zero, guadagno nel documento, riquadro Guadagno nella pagina Start (oggi, ieri, settimana, mese)",
+ "versione": "2.6.68",
+ "sha256": "745a9d07c6c87fbb130b4e50e9371ddfddfc5f8d2c84b35edf30596156114ac8",
+ "firma": "V6GJsLPgAJlWlxZyiAmzk7kGDNVzJus0hvfs77LK/QqGpcUGCU0JT/Pc3WLmo7TjvyO1wgCqzOAz+apkP4iGAw==",
+ "note": "Servizio web: controllo ogni minuto che sia acceso (riparte da solo se si ferma dopo un aggiornamento)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.67.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.68.gdlupd"
 }
