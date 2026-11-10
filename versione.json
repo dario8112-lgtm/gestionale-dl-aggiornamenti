@@ -1,8 +1,8 @@
 {
- "versione": "2.6.84",
- "sha256": "9f55a25d8984fe86f98aeaf90f6d0222c2c72a81f936a6a320d5785732a6aacf",
- "firma": "ncJSHmy5DoFkE22UgrA8OyvsBLLEFE6/Fon/3bo5sN6hi7GlS0zohWUVHSy8VGeG55LYj5/1k9yWwEwuKAlFDA==",
- "note": "Anteprima fattura elettronica come Agenzia/Danea; TD24 con DatiDDT; esiti SDI automatici",
+ "versione": "2.6.85",
+ "sha256": "8a788eb88f9d7979347bfe3b4d9b9af3d01c237cfb9a8aeb4b3a1dd6a8f5b573",
+ "firma": "BkPfpiCBepXBq8Xjo76LDRziOMblO8vXy6Z7ee9jjSpfPbJz2BJMyPohD7Z4SwQz7IzQo6qR+1C7LNlsFk8uBg==",
+ "note": "Clienti: segno 🚫 Niente credito (in rosso in elenco, nei documenti e avviso in fattura)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.84.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.85.gdlupd"
 }
