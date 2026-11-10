@@ -1,8 +1,8 @@
 {
- "versione": "2.6.78",
- "sha256": "a1e13ce7fe2b6ffe3448c702ed4ec70554647a5bbae67ca5a956a547c8672e8f",
- "firma": "Ag988tARPKuLLTHu7uA1n6Z+sLSubxx6GMr6OZIhA9ZziAJhxG6M/Kc9PdM8TPx9N+xqGR5dNTACLpN3tgMFBQ==",
- "note": "Integrazioni: Sincronizza con l'Agenzia delle Entrate (legge dal portale Fatture e Corrispettivi le integrazioni realmente inviate)",
+ "versione": "2.6.79",
+ "sha256": "f108a331e373301355b93bf2f29f2b1fcbd7fca1b71bd9ed65aa207c5625a0ba",
+ "firma": "AqKB9WUIek6ijqAkx4v2279ADdRD7iqxju3CDdcvSEvUACHgeRtXp3Z2/gbdHrkdcB7xNktOA/Xl2SFBOUnjDA==",
+ "note": "Fatture fornitore: originale dello SDI sempre tra gli allegati, scarico degli originali dal portale dell'Agenzia, importazione allegati di Danea",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.78.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.79.gdlupd"
 }
