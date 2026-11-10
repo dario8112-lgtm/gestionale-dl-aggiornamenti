@@ -1,8 +1,8 @@
 {
- "versione": "2.7.3",
- "sha256": "0fef631767c9b929dd1e2c2f20bae4f85829595f65e55776dea2a2cb91dd9476",
- "firma": "wPUZNNO//aiIHTNvNNbED8vGO7TpwpRbxOyS/gbBXd5A/IkxPnRItCZ7U91pPfjXFv3lOxA6EsPPaEOx5xnlCw==",
- "note": "Integrazione elettronica: conta e invia anche gli allegati della fattura del fornitore",
+ "versione": "2.7.4",
+ "sha256": "3c5e4ce94481bc8b3a841ef8fb5bcc3bbd6ba9a0d76a3067d56107b4ccf77d9f",
+ "firma": "TKlgxpECYfAEUZR/K7kBbvCBkqy1YHxOdgJCj0Di6orEmFfcBxTaWjGG6qioUt1clLXZxqcjp0cYNehLFufqAQ==",
+ "note": "Integrazione elettronica con lo stesso numero della fattura fornitore (es. 289/RC)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.4.gdlupd"
 }
