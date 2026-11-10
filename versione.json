@@ -1,8 +1,8 @@
 {
- "versione": "2.7.6",
- "sha256": "46bf690c6be6dabfc3463c1b4286a3288dc2cbff8bbba0c005faa75d97436c05",
- "firma": "+y5QOpDqkC+Weg2PO4fshZYsPdcXmNbtF+jBgOqvKJ0Ijg7H9tCkeLZ4iR5wJBLUSEOp46LST2B1HgLIhAFtAQ==",
- "note": "Fatture fornitori: il collegamento all'integrazione elettronica è indicato come tale",
+ "versione": "2.7.7",
+ "sha256": "cf0bd4fabbbbbca47dd01e693b099e94148389c8a7f261be373b4f0d8d6d089e",
+ "firma": "chaJPGMU9pfzlaovmrFQDq3XZ3hwcsSwg2Acxn6zAlX7g2K+iQZntFTn4ZxCWc5J44nD1HiYHZnhcjPzYQyvDA==",
+ "note": "Invio fattura elettronica: l'anteprima mostra anche gli allegati che verranno inviati",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.6.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.7.gdlupd"
 }
