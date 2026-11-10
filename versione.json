@@ -1,8 +1,8 @@
 {
- "versione": "2.6.69",
- "sha256": "2e891493588c4e9e5aa40b2180e64839e768367dfabfec16664db3f6e58beb9a",
- "firma": "N2NQoVDYZ9s30+sx2dIet9bLNB3TDAfgWuYvb/AnHIBWAbgOwd5vectSdNTwFN6JO6vH3iQOTUEGr/w5/bv/AA==",
- "note": "Acconti del cliente negli ordini (anche in stampa, passano alla fattura come incassati); pulsante Reinstalla del servizio",
+ "versione": "2.6.70",
+ "sha256": "791c0e5b6dd919d792d2d0b7ead1de1cde873b1d23776acd24f2e3fd2fc68a1f",
+ "firma": "LnoKu1kE4/scBhnjRRNEQUFPoLFxWyY7ftdsUce1kyluwAHq1r2U59mOF2gbcCXBGYifJsHcMU20mch8LEbKCw==",
+ "note": "Fatture ricevute dallo SDI scaricate da sole ogni 15 minuti nell'archivio della ditta intestataria",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.69.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.70.gdlupd"
 }
