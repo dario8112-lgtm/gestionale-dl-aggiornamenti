@@ -1,8 +1,8 @@
 {
- "versione": "2.6.71",
- "sha256": "279e260d30ab2055f982c52447f020a5f61f45a80e409e048acc4d72130be722",
- "firma": "v+GuatBYZEnwUgLSqIUSyhRP7mRPem7twCj9Vbcp+3uNem0vczMe7SHY2cjeYm5RNql7FMOuDskVaeorWzz3AQ==",
- "note": "Fatture ricevute dallo SDI: scaricate tutte nell'archivio DL SAS",
+ "versione": "2.6.72",
+ "sha256": "bd2f2201ba0538a6127ee55d1540c251ab536f6111507da579c81b28726f38f7",
+ "firma": "0aaWZHL51WTEJpVeF4ig59v8ofEYfpZORbqiVnkklXclrPTzSMWTirdt7JAkVxIwg33mEBZ+kyedaVCWuA7nCw==",
+ "note": "Fatture ricevute: DDT a MOUSE SRL in automatico (+4%, Langhirano a costo, R17), Registra tutte con le regole di pagamento; testo dei .p7m e sconti di riga corretti",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.71.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.72.gdlupd"
 }
