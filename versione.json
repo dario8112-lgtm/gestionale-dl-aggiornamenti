@@ -1,8 +1,8 @@
 {
- "versione": "2.7.5",
- "sha256": "b6d8ad7c0b29338fb80e4884df5d841b77458c738591f76381b927ef9887d629",
- "firma": "mQ0F9U3KPzlwBIMlK7CZKz/G7KKo4voeI+cto3Z8zdzZhnujevIRC3sbIkr8M0RrOOfwPJQKRqEm7dYDKcSfDg==",
- "note": "Caselle di ricerca senza suggerimenti e controllo ortografico; registro dei rallentamenti in diagnostica",
+ "versione": "2.7.6",
+ "sha256": "46bf690c6be6dabfc3463c1b4286a3288dc2cbff8bbba0c005faa75d97436c05",
+ "firma": "+y5QOpDqkC+Weg2PO4fshZYsPdcXmNbtF+jBgOqvKJ0Ijg7H9tCkeLZ4iR5wJBLUSEOp46LST2B1HgLIhAFtAQ==",
+ "note": "Fatture fornitori: il collegamento all'integrazione elettronica è indicato come tale",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.6.gdlupd"
 }
