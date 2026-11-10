@@ -1,8 +1,8 @@
 {
- "versione": "2.6.61",
- "sha256": "9dfceb2f4215dce00d26f18d2f9818d9eb30c2de4df2f24d868aaa8cb993850a",
- "firma": "eOwIy5SEDUoH9rMYrShDEev7ep1Xd0mNT6ISpwjrsjmRDCNX2HUBYiO9m1Bq7w/KKr44QaECudnndMqDGLQeBA==",
- "note": "App cellulare: vendite al banco per giorno (scegli la data) con il totale della giornata.",
+ "versione": "2.6.62",
+ "sha256": "04d198b049e6ba5ccf61be83267e44fd514d06198188caa8ecf007ae55e6abdc",
+ "firma": "HE7XROsvGezyrFcm/20F7f0aMwI5XLq4Dr4oZZFGe/SVDldy9wL2IgInql6YRnc26/rq91T5Z0o5in9yhAXyCA==",
+ "note": "Webroot: data, documento, importo e pagamento del rinnovo; avviso giornaliero per chi non ha risposto al WhatsApp dopo 5 giorni; risposte segnabili (ha risposto / non rinnova).",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.61.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.62.gdlupd"
 }
