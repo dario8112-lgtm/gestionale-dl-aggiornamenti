@@ -1,8 +1,8 @@
 {
- "versione": "2.7.7",
- "sha256": "cf0bd4fabbbbbca47dd01e693b099e94148389c8a7f261be373b4f0d8d6d089e",
- "firma": "chaJPGMU9pfzlaovmrFQDq3XZ3hwcsSwg2Acxn6zAlX7g2K+iQZntFTn4ZxCWc5J44nD1HiYHZnhcjPzYQyvDA==",
- "note": "Invio fattura elettronica: l'anteprima mostra anche gli allegati che verranno inviati",
+ "versione": "2.7.8",
+ "sha256": "01702ce5640fcc2aea6666caa221a8363b0bd486d965d47c9c33246deffa629f",
+ "firma": "JlnLxdRUGBJ+hbQuUW8VBB3amwEITRJ67NZYI60VcNGGzJeZOnZtHULKMPhmlQhHJ1IQnrKPmtVGddTtUWbjBQ==",
+ "note": "Le integrazioni TD16-TD19 consegnate dallo SDI non compaiono più tra le fatture ricevute (come Danea)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.7.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.8.gdlupd"
 }
