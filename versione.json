@@ -1,8 +1,8 @@
 {
- "versione": "2.6.68",
- "sha256": "745a9d07c6c87fbb130b4e50e9371ddfddfc5f8d2c84b35edf30596156114ac8",
- "firma": "V6GJsLPgAJlWlxZyiAmzk7kGDNVzJus0hvfs77LK/QqGpcUGCU0JT/Pc3WLmo7TjvyO1wgCqzOAz+apkP4iGAw==",
- "note": "Servizio web: controllo ogni minuto che sia acceso (riparte da solo se si ferma dopo un aggiornamento)",
+ "versione": "2.6.69",
+ "sha256": "2e891493588c4e9e5aa40b2180e64839e768367dfabfec16664db3f6e58beb9a",
+ "firma": "N2NQoVDYZ9s30+sx2dIet9bLNB3TDAfgWuYvb/AnHIBWAbgOwd5vectSdNTwFN6JO6vH3iQOTUEGr/w5/bv/AA==",
+ "note": "Acconti del cliente negli ordini (anche in stampa, passano alla fattura come incassati); pulsante Reinstalla del servizio",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.68.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.69.gdlupd"
 }
