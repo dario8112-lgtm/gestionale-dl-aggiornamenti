@@ -1,8 +1,8 @@
 {
- "versione": "2.6.73",
- "sha256": "e53ed92f41b5dc2c24c5e95ebd7085c4f98520371a5dcfcd45e5bef534e7a2d7",
- "firma": "h+ka6ZuOhsWP6EaZUkH5EqB+KRXaJorgvDFBFs/5Fu9aDsamBxROFTRogMe94S/20I+uiJJHYj5xKGlxE6qRCA==",
- "note": "DDT a MOUSE: riconosce le fatture già messe nei DDT (numero fattura, numero d'ordine, righe uguali)",
+ "versione": "2.6.74",
+ "sha256": "2fb46a9dda39949857cde0dcd1b30d3810a8d357582ae96b86983af3e241f4ed",
+ "firma": "XEaVhnnBDlTnuMtzsh+njw0ExG3+pdDtzv8awb3OpQCy7XVVsRRpgH8aDOaSmE2dC5YCpyZg0/zhAEV4Z/4/Cw==",
+ "note": "Fatture ricevute: tolti i doppioni (stessa fattura letta due volte dai .p7m)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.73.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.74.gdlupd"
 }
