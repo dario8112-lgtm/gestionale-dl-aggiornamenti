@@ -1,8 +1,8 @@
 {
- "versione": "2.6.63",
- "sha256": "a435343b078e367b997b83831ffc44d18bd61a1f88302d3ec6e59efd3dc2be99",
- "firma": "AlHFtU1tl58TuAQOoknFooXfA0h3cMTOdipHATtnEfugqmIS6I8JT+zoLJXyeXzLrTnPmmByFK7vZxxcx73gCg==",
- "note": "Pagamento con bonifico: coordinate (intestatario, IBAN, banca, causale) nel documento, nel PDF/stampa, nelle e-mail e nei messaggi WhatsApp.",
+ "versione": "2.6.64",
+ "sha256": "ca43a441ba152d5b75eb13645ca7fd93f29c9f67496cd816a0bc6a77d5658f5e",
+ "firma": "G4U69kTO+jRQoX8uu8cUOyKeRKmVwFHNyxssXpujYfGNZawoFH7aRrVynN5IH5kEc5bJfCtMgOFA/RZaj4i3AQ==",
+ "note": "Nuovo fornitore Ingrosso Cover: listino PC assemblati scaricato ogni notte e proposto nei documenti; estensione Chrome 0.7.8 con il prezzo al cliente su ingrossocover.it.",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.63.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.64.gdlupd"
 }
