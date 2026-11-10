@@ -1,8 +1,8 @@
 {
- "versione": "2.6.64",
- "sha256": "ca43a441ba152d5b75eb13645ca7fd93f29c9f67496cd816a0bc6a77d5658f5e",
- "firma": "G4U69kTO+jRQoX8uu8cUOyKeRKmVwFHNyxssXpujYfGNZawoFH7aRrVynN5IH5kEc5bJfCtMgOFA/RZaj4i3AQ==",
- "note": "Nuovo fornitore Ingrosso Cover: listino PC assemblati scaricato ogni notte e proposto nei documenti; estensione Chrome 0.7.8 con il prezzo al cliente su ingrossocover.it.",
+ "versione": "2.6.65",
+ "sha256": "31b0e00fcdf2e45781427cd7ff123a0e3662b5a406fab2b3033c21d721c91208",
+ "firma": "oQJj8NjygfZxBJjXxSqU/wMlAzlj97PXHsU21ZDkDyZXZSfLe7hyU7z63q8QJRzhxrENviiqwawjeOgp1gdvDA==",
+ "note": "Righe dei documenti: colonna Acquisto € con il prezzo di acquisto netto del fornitore (modificabile).",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.64.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.65.gdlupd"
 }
