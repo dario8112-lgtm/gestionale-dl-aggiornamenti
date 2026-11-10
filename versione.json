@@ -1,8 +1,8 @@
 {
- "versione": "2.8.4",
- "sha256": "65f4dd31d91ab8ae6c00e0cad8e2557598fd5a5dc6f5612914f37c9e394a498c",
- "firma": "RYmtzvN+O+ZtMvl5zIEbo5rNtLsut3LTyCLdoDhj4uguGBw/ISVHzCadBZZQPfj2U+aiJO66DVl44/lZapYNDA==",
- "note": "Ordini clienti: nuovo stato 09 In consegna",
+ "versione": "2.8.5",
+ "sha256": "51bd068e2c55d825727df6838225ab946d70e289247cc6d8a157a7db6a02ecdf",
+ "firma": "fS45Jw2z5MXhejN+qD0lyIYNSWIx0KeBFq6nzbYe33IkigSpFTqR7KE7Rw4famlVI6BQhC6EXrq8CFmloB+8Dg==",
+ "note": "Ordini clienti: nuovo stato 10 Consegnato",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.5.gdlupd"
 }
