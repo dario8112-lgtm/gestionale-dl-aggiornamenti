@@ -1,8 +1,8 @@
 {
- "versione": "2.6.76",
- "sha256": "3626d87c1ecebe53faa28d5db0f31634975af95d2449b6a409bd10d797a4d198",
- "firma": "CRtTBpg0usKRlqSMLCBFNl2Z9OI3OiS2xKN477Q7u7Fs5Odz/7FzvxAqooGtcttdHoxGAVpISKHT0DYvdbAbCA==",
- "note": "Fatture estere: cartella apposita (ProgramData\\GestionaleDL\\fatture-estere), i PDF registrati passano in 'registrate'",
+ "versione": "2.6.77",
+ "sha256": "9e395ea65919c29a4f839ec903c4c25c3b83d5e63a1034b30532286994eea0c6",
+ "firma": "c5JDzM7DZRIZCe5RXpzGM1Ye5kNtdsRciF74Ene6249Ii2XbDTYj8t7fcG540yExNUvz2eLwcuqx938ndIqzDg==",
+ "note": "Integrazioni /RC: stato dell'invio allo SDI per ogni fattura (anche in Reg. fatture fornitore), filtro Da inviare, Sincronizza con lo SDI dallo zip di Fatture e Corrispettivi",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.76.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.77.gdlupd"
 }
