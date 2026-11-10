@@ -1,8 +1,8 @@
 {
- "versione": "2.6.94",
- "sha256": "e696d235093ddd53e1c0b6e02b85937f0fadd1667cb05590d167453dbef2e600",
- "firma": "v08rlXmxapWbPy4Y1Yx+q7693svmvXUiQnIZxPd386HeH0TuYARheoUrY/2HUUQjxSV8QuVlNkKI2O2VXbOJBA==",
- "note": "Stampanti termiche (POS-80): scontrino stampato come immagine sulla larghezza del rotolo; indirizzo azienda nei modelli Danea",
+ "versione": "2.6.95",
+ "sha256": "c47bec88662ca92d6848d972f9a76037c3b5cac48a5c97b56cce4c6d2e6ecc0a",
+ "firma": "jHTLgg8rsMbBnhDtc7DH1rmTDH72Tac2X4QhHYN3+IY0/PrvDZC2IDuy/729ueEK3K/OqgTiMPmpya340UUsBA==",
+ "note": "Scontrini termici: scritte in grassetto, nero pieno e più grandi",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.94.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.95.gdlupd"
 }
