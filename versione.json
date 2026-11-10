@@ -1,8 +1,8 @@
 {
- "versione": "2.8.3",
- "sha256": "8452cc2fccf462dc9769743ec386829cd73fae7266c3dcfb502ba863ce2761dc",
- "firma": "io2ezk4O4n0JGNBcgiFjDWdc8+Ftu5tybyFSKZWFVm6xheSlDwPWDqRgKj36HKD6RjX4W4tdJjaOkQHmvJZ6Aw==",
- "note": "Ordini clienti: nuovi stati 08 Ordinato, Annullato, Concluso (anche nell'app sul cellulare)",
+ "versione": "2.8.4",
+ "sha256": "65f4dd31d91ab8ae6c00e0cad8e2557598fd5a5dc6f5612914f37c9e394a498c",
+ "firma": "RYmtzvN+O+ZtMvl5zIEbo5rNtLsut3LTyCLdoDhj4uguGBw/ISVHzCadBZZQPfj2U+aiJO66DVl44/lZapYNDA==",
+ "note": "Ordini clienti: nuovo stato 09 In consegna",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.4.gdlupd"
 }
