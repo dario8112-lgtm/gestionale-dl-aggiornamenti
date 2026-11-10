@@ -1,8 +1,8 @@
 {
- "versione": "2.6.89",
- "sha256": "2ad9562c1fdf9c27590df8f814d1d9dad6519ee4ecd175fa0de9e31a7b7dac62",
- "firma": "xFgB563CQ+14YsZgub+WUt9EoscyCzn9C3ubnBv4EbH3JRuBeGgnMAOuWACW01ZYqEkF6YwFsunbBnOTRviWDQ==",
- "note": "Webroot: rinnovo riconosciuto anche con fattura da pro forma / altra scheda cliente; Life365 anche cartucce e toner",
+ "versione": "2.6.90",
+ "sha256": "2887e829e72a1ba09699ce7757d3bd0c67b5ca21076879a46494331001ee5fb8",
+ "firma": "G9UGDoBqVsOsm/fdoYE7g+xxnNrIiBTKGbFtdHLJlVmTa0Ntps7Hypm2zakZ8fdmwwXxGcndsJL9XAozlt0/BA==",
+ "note": "Newtop Store: prodotti e prezzi proposti mentre scrivi la descrizione (costo × 2 + IVA)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.89.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.90.gdlupd"
 }
