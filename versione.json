@@ -1,8 +1,8 @@
 {
- "versione": "2.6.86",
- "sha256": "95b46eb64ed0e40171812dcb482fb19ff7292f5d5738353fccfeaecf9df1f449",
- "firma": "DVbxlAdLMlat3Iv9tj2oijRG4FQ1yI10gMwGHGNYC7WivYwj2tHA7GKNnzrRy6+372KQPSrZNbrbsky3rKLTCA==",
- "note": "Guadagno: ricarica UnoMobile a 9,40 € a pezzo, costi articolo non credibili esclusi, 📦 Confezione nella scheda articolo",
+ "versione": "2.6.87",
+ "sha256": "038fc152d2a6ed9247281600af643c2268cb90700de9b81d03597261627dee11",
+ "firma": "XvPqHwtWw4wFyXbQF4GrourKrlWL8qDhoTBPYfnCaOFjbzh6YjQQ5kLNuIgh8qlq4WN6zgpGW1p+HznKfbdDCQ==",
+ "note": "Avviso righe senza prezzo d'acquisto (nel documento, al salvataggio e ⚠ nella lista)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.86.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.87.gdlupd"
 }
