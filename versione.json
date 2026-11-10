@@ -1,8 +1,8 @@
 {
- "versione": "2.6.65",
- "sha256": "31b0e00fcdf2e45781427cd7ff123a0e3662b5a406fab2b3033c21d721c91208",
- "firma": "oQJj8NjygfZxBJjXxSqU/wMlAzlj97PXHsU21ZDkDyZXZSfLe7hyU7z63q8QJRzhxrENviiqwawjeOgp1gdvDA==",
- "note": "Righe dei documenti: colonna Acquisto € con il prezzo di acquisto netto del fornitore (modificabile).",
+ "versione": "2.6.66",
+ "sha256": "db85007908b44eef90be2c723d499b7d0bbfaa81219fc8ad37032a62e2499113",
+ "firma": "RdGoKhjkVV8R55MVDbe/aBKMVt7QAYNtjv97cOymRKl0KFI5U15C0vAF4Cn+BkmMNUM4UB8Vx0RoYcb7OPVaBA==",
+ "note": "Documenti: le modifiche non salvate restano come bozza e si recuperano dopo un riavvio; Aggiorna chiede di salvare i documenti aperti prima di riavviare; menu Periodo non più tagliato",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.65.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.66.gdlupd"
 }
