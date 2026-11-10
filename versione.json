@@ -1,8 +1,8 @@
 {
- "versione": "2.6.96",
- "sha256": "aa6255b25bd0f54c0613d07946a6f7c8b1f582214bac0dd6e8fff00ed7a8657a",
- "firma": "Pt9CYC0vMRnAzelMTrtyDoaEz7KTI8sPHFdzW238+6tNoMFt+JK3uT/7MQ5mAe4V3ZxbK/0jqR8bJMW/331mAw==",
- "note": "Scontrini: logo dell'azienda in alto",
+ "versione": "2.6.97",
+ "sha256": "0f2b435a7126f7441eea985a71b8dce5d31b1d0fb8f066f4c82e84160045cf0a",
+ "firma": "RZ9EynToGoj0aRZlWf3X75J1msaWvF+IR8t3AEV1kyaYrixSMeXHjXT+DB67kJdpjp+YyYkyxjN/JpNd1EhTBQ==",
+ "note": "Data e ora di stampa salvate a ogni stampa e mostrate nella lista",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.96.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.97.gdlupd"
 }
