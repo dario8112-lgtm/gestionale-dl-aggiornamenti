@@ -1,8 +1,8 @@
 {
- "versione": "2.6.91",
- "sha256": "eddfdf889b8848d803a4463cfae212bcf763618e0a387aa368644ee123ab89e8",
- "firma": "nQpnIStFxjJTOGla/G4gUkm5xqmQ+sZLH2qGrqdxsDBrsV+uFVmRXHFvEcoBBmmLlJ7SCrJB2RKTB8eVhLUgCA==",
- "note": "Estensione Cassaforte 0.7.9: vedi e copia nome utente e password dal popup (🔑)",
+ "versione": "2.6.92",
+ "sha256": "ea4eeea35cd3735d71a7296e7860c94e5a81be457d0721ca05e07e12dd952a64",
+ "firma": "9acz4mtIjYnIPF+jKJKNkne7lU4i0gYd0I88va1OJkkkG3TLal0C+OWQ8WliqFgFLc6sTyVmZk3u4rSY7hThCA==",
+ "note": "Liste: chiuso un documento si torna alla stessa posizione e riga",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.91.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.92.gdlupd"
 }
