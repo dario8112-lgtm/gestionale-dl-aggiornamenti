@@ -1,8 +1,8 @@
 {
- "versione": "2.8.7",
- "sha256": "7285476aba9f487353296652cc1fddece354a83ec6b40f20222572c007647af9",
- "firma": "2v4N7dTztcsglLsy5ThM2O4JJLA7EzMRxYJBVztH5XeF/Gly5c2db7Y9Nc8mgOob3K7ljSUU/4ULQAsXaVjSBA==",
- "note": "Ordini clienti: stati con colori accesi/fosforescenti",
+ "versione": "2.8.8",
+ "sha256": "0e0f691b58cd582d7d63f6fca876f14d3dbb4e5abc16f36dc75686a8d57306d8",
+ "firma": "Fu6KidLaGnlG2+LWhwPC1VopyDoT9a8/W3C+cnyDotasJuq7DYJh55Hlx1akdG3vulmqO5yf4MDfIHMpltFmDw==",
+ "note": "App sul cellulare: Pagamenti e Fatture elettroniche (per chi vede i dati riservati); 01 In Lavorazione arancione",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.7.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.8.gdlupd"
 }
