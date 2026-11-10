@@ -1,8 +1,8 @@
 {
- "versione": "2.6.66",
- "sha256": "db85007908b44eef90be2c723d499b7d0bbfaa81219fc8ad37032a62e2499113",
- "firma": "RdGoKhjkVV8R55MVDbe/aBKMVt7QAYNtjv97cOymRKl0KFI5U15C0vAF4Cn+BkmMNUM4UB8Vx0RoYcb7OPVaBA==",
- "note": "Documenti: le modifiche non salvate restano come bozza e si recuperano dopo un riavvio; Aggiorna chiede di salvare i documenti aperti prima di riavviare; menu Periodo non più tagliato",
+ "versione": "2.6.67",
+ "sha256": "a1c2329731a251873873e1c25d39cd5d276d56b31b37047bddd6ec3f3e8a3be5",
+ "firma": "vP33AFSn/UMbhRfBkvrpKxJjp8cOCjwIRdQtb1A1WG/fmz5UDNZm3+JMJtXMLZoVcm1B1gqrlhdbXOu33/4yCw==",
+ "note": "Guadagno: costo 0 nelle righe = costo zero, guadagno nel documento, riquadro Guadagno nella pagina Start (oggi, ieri, settimana, mese)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.66.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.67.gdlupd"
 }
