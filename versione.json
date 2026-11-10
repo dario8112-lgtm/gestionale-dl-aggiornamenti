@@ -1,8 +1,8 @@
 {
- "versione": "2.6.75",
- "sha256": "ba47334b983f23f1d198b97163dee4c9bb8eb3c5886ab603486c13b156d5b327",
- "firma": "X6Ea9sLV2Ql39JTm1mBbcRu9POMxTjX1uMbKAQ/FM3S/XcsO/i3i/2g3YPT+/YrDCKIqBV0+lVW87Vhd/xLYCw==",
- "note": "Reg. fatture fornitore: Fatture estere (Foneday, Meta, TikTok, Google Ads) lette dai PDF e registrate in automatico",
+ "versione": "2.6.76",
+ "sha256": "3626d87c1ecebe53faa28d5db0f31634975af95d2449b6a409bd10d797a4d198",
+ "firma": "CRtTBpg0usKRlqSMLCBFNl2Z9OI3OiS2xKN477Q7u7Fs5Odz/7FzvxAqooGtcttdHoxGAVpISKHT0DYvdbAbCA==",
+ "note": "Fatture estere: cartella apposita (ProgramData\\GestionaleDL\\fatture-estere), i PDF registrati passano in 'registrate'",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.75.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.76.gdlupd"
 }
