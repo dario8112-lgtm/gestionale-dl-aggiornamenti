@@ -1,8 +1,8 @@
 {
- "versione": "2.8.1",
- "sha256": "dd35c590988a9222055e0352c30d6d460e529cbe2f04e658d55dcc7b4213bf63",
- "firma": "uoSAmLzHsAuPhfEVymoOr5uDb7x+2w4sieQUHwBjaCTFJcWKtAIaJ9gLxE+F+PWg16IfTm3IfnENBxSZEznpCw==",
- "note": "Start: scelta di chi vede i dati riservati spostata sotto i riquadri, più discreta",
+ "versione": "2.8.2",
+ "sha256": "328bd6449a53b9fd715e6486f60c6f28b586f03a82e19f127af3543e3068a38d",
+ "firma": "sEMDbBBxeg3IkSN2Mkb3SUyNBXTf6JQVcCWVYQEgR1ORWoIjlaplUOrKaVKl3nB1khMoznQql0cFaSHOrZqYBw==",
+ "note": "App sul cellulare: il servizio web riparte entro un minuto dopo un aggiornamento (niente più errore ENOENT)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.2.gdlupd"
 }
