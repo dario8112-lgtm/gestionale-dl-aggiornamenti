@@ -1,8 +1,8 @@
 {
- "versione": "2.6.93",
- "sha256": "8f0113f79f42d54d19c13b710f53db4034ed74222f5fc8542f4dca3f90638d1c",
- "firma": "5pBxjzujJnOjBm913gZMkjRAooxsl2LGBMnFKYe3cMdmvzAqnV+J3xzmeXf0QaOZiZHv5ZIj9yz3nqLlNUs5CA==",
- "note": "Ricerca prodotti: ✏️ Modifica prodotto al volo; prezzo d'acquisto del documento salvato nell'articolo e in tutte le vendite",
+ "versione": "2.6.94",
+ "sha256": "e696d235093ddd53e1c0b6e02b85937f0fadd1667cb05590d167453dbef2e600",
+ "firma": "v08rlXmxapWbPy4Y1Yx+q7693svmvXUiQnIZxPd386HeH0TuYARheoUrY/2HUUQjxSV8QuVlNkKI2O2VXbOJBA==",
+ "note": "Stampanti termiche (POS-80): scontrino stampato come immagine sulla larghezza del rotolo; indirizzo azienda nei modelli Danea",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.93.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.94.gdlupd"
 }
