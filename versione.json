@@ -1,8 +1,8 @@
 {
- "versione": "2.8.0",
- "sha256": "76b5a57f1353c5dcb2fd2ab0fafd9d51a7d2b8a46cc6b444bf096cb6b6560c7c",
- "firma": "4vu/owAuOMTn+t63KUbxbTAJk2s6zJevKnDksNtq2lS4VSsaepyhzerWOGRhc76H4c7qJ/tWtdwXjMtLCvqnCg==",
- "note": "Start: incassi, pagamenti, guadagno e IVA visibili solo agli utenti scelti (🔒 Chi vede questi dati)",
+ "versione": "2.8.1",
+ "sha256": "dd35c590988a9222055e0352c30d6d460e529cbe2f04e658d55dcc7b4213bf63",
+ "firma": "uoSAmLzHsAuPhfEVymoOr5uDb7x+2w4sieQUHwBjaCTFJcWKtAIaJ9gLxE+F+PWg16IfTm3IfnENBxSZEznpCw==",
+ "note": "Start: scelta di chi vede i dati riservati spostata sotto i riquadri, più discreta",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.1.gdlupd"
 }
