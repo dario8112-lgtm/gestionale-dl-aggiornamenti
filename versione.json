@@ -1,8 +1,8 @@
 {
- "versione": "2.8.5",
- "sha256": "51bd068e2c55d825727df6838225ab946d70e289247cc6d8a157a7db6a02ecdf",
- "firma": "fS45Jw2z5MXhejN+qD0lyIYNSWIx0KeBFq6nzbYe33IkigSpFTqR7KE7Rw4famlVI6BQhC6EXrq8CFmloB+8Dg==",
- "note": "Ordini clienti: nuovo stato 10 Consegnato",
+ "versione": "2.8.6",
+ "sha256": "1988386b7a0b7834f92451f030c7800698c6421df8f8a69c0d2aaaedb9577d78",
+ "firma": "Rd9y/f9gOX6lS0ALft4XK+Gc4hLKqSX1tWT1PIYE5kR1X4rNRNNK7bjZJDEncOH+nXf7R+tKpxi7kAHYaFatAA==",
+ "note": "Ordini clienti: stati colorati (lista, filtri, documento e app sul cellulare)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.6.gdlupd"
 }
