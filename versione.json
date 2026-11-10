@@ -1,8 +1,8 @@
 {
- "versione": "2.7.1",
- "sha256": "e992c172a10b5b8375aba0ddc5a5f9a0c2fa55bb7bf05f195583431234b72f0b",
- "firma": "IEQ8f+7uEg3ro8msI6X2jXM5j/i8gH9PA3feVcD4+q4bdayU5HovFSJ+iFdecl3IeJdZxteB/s6FCxPGJfz1Ag==",
- "note": "Fatture fornitori estere: tasto 📤 Integrazione elettr. come Danea (autofattura TD16/TD17/TD18/TD19 inviata allo SDI)",
+ "versione": "2.7.2",
+ "sha256": "4ca476c80184a30aff5ad741df5b603767620d8aec5d84e2415c33cd7c048fb5",
+ "firma": "tVdR5mWe8I+Ep0q9p4MiaKwZVXM4onlBOvcxeJ31lDHRAEifN39laXvLrlapUcSgqOrY7MIc6E05L30Kt7hLAw==",
+ "note": "Ricerca nelle liste più veloce: il conteggio degli allegati non blocca più il programma",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.2.gdlupd"
 }
