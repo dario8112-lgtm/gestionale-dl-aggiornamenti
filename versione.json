@@ -1,8 +1,8 @@
 {
- "versione": "2.6.98",
- "sha256": "c396b505b682a5a7f6dabf4e1c5b1a589bdae5c84cdf687ed025ca409d188c43",
- "firma": "OoomkzFuht1oMjhNZQr13rh/BIXht6axh1haSWAkAylsZLHmF/+VL0Vk3f2ItPqHeDGDfmvDNzmpK8gRcyJ8BA==",
- "note": "Fatture fornitore: codici IVA come Danea (22u, 22x, 22r, N41…) e scheda Proprietà integrazione elettr. (TD16-TD19 / Non inviare)",
+ "versione": "2.6.99",
+ "sha256": "0c569f9b4136a033ea8b84863fc41e85cb3c2037c449978857c487b700204089",
+ "firma": "IQlE+u9NdmhkYoGYY0PhPYrwvwrgy1cMGMWCNYv9ia92aRQ11lMnQ93sPSBfl85c4ugsvdiKV2XSKnDL/s7VBA==",
+ "note": "Fatture fornitore estere: totali come Danea (Totale registrazione, Iva non dovuta, Totale dovuto)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.98.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.99.gdlupd"
 }
