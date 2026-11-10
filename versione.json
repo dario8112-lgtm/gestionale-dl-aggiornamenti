@@ -1,8 +1,8 @@
 {
- "versione": "2.6.82",
- "sha256": "cf58742316c0360c31b697cc12b5073f9b2afbcd8f865d644f232c9bb87e757e",
- "firma": "gw2BuNz7XbLzRICp/csgLd3+4TDwGIFZX+W75xDOHIbs4JZkLucVgDWSagRD4nSSGaHZQlIaAqeI6Be+jOL+AQ==",
- "note": "Numerazione: Mouse SRL fatture sempre /LA; cambiando numerazione il numero riparte dalla serie giusta",
+ "versione": "2.6.83",
+ "sha256": "7b0a320223c82540a1cb379c2eb7853ae198158588703fcf68cb6a7c7bf65ce5",
+ "firma": "F38za4o/rjU5GTvv+GHPw2dx1wCMostEw9s4LAxj6Hy8Q2k5zqaTC4mPzlLpIIkMDwswlQGjAY28KMeEAbJRDg==",
+ "note": "Numerazioni: nascoste le /D… importate da Danea; Affari di Famiglia fatture /AF",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.82.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.6.83.gdlupd"
 }
