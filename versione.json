@@ -1,8 +1,8 @@
 {
- "versione": "2.7.0",
- "sha256": "4eef2c8934ac53860add869d5d776e54036b842a237961b2e3c1ffe3e4fd90d7",
- "firma": "sC0RJncm7IhA1cRC0Yv/cKGGl6C5VDvYGir6OVm1hv6YLOW3BgL0vrI0gMB1xVkYErQXv1pD5qtwujBXY647Dw==",
- "note": "Fatture estere: IVA 22u per fornitori UE, 22x per fornitori extra-UE; TD18 Foneday, TD17 pubblicità",
+ "versione": "2.7.1",
+ "sha256": "e992c172a10b5b8375aba0ddc5a5f9a0c2fa55bb7bf05f195583431234b72f0b",
+ "firma": "IEQ8f+7uEg3ro8msI6X2jXM5j/i8gH9PA3feVcD4+q4bdayU5HovFSJ+iFdecl3IeJdZxteB/s6FCxPGJfz1Ag==",
+ "note": "Fatture fornitori estere: tasto 📤 Integrazione elettr. come Danea (autofattura TD16/TD17/TD18/TD19 inviata allo SDI)",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.1.gdlupd"
 }
