@@ -1,8 +1,8 @@
 {
- "versione": "2.7.2",
- "sha256": "4ca476c80184a30aff5ad741df5b603767620d8aec5d84e2415c33cd7c048fb5",
- "firma": "tVdR5mWe8I+Ep0q9p4MiaKwZVXM4onlBOvcxeJ31lDHRAEifN39laXvLrlapUcSgqOrY7MIc6E05L30Kt7hLAw==",
- "note": "Ricerca nelle liste più veloce: il conteggio degli allegati non blocca più il programma",
+ "versione": "2.7.3",
+ "sha256": "0fef631767c9b929dd1e2c2f20bae4f85829595f65e55776dea2a2cb91dd9476",
+ "firma": "wPUZNNO//aiIHTNvNNbED8vGO7TpwpRbxOyS/gbBXd5A/IkxPnRItCZ7U91pPfjXFv3lOxA6EsPPaEOx5xnlCw==",
+ "note": "Integrazione elettronica: conta e invia anche gli allegati della fattura del fornitore",
  "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.2.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.7.3.gdlupd"
 }
