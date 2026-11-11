@@ -1,8 +1,8 @@
 {
- "versione": "2.10.7",
- "sha256": "ad1ca2632c02efab80b0ff89594c76a530cd276e816c2a1a840eb45955df1441",
- "firma": "k34y3aa1ddkskyg5XxUmubkfldTf67VBFhoQY+UQwCSJ0eEItjQqgwB43gO/MojzqiRRuC29MGyT/FJsU3UrCA==",
- "note": "Touch: display con cifre a segmenti sottili inclinati, verde pieno",
+ "versione": "2.10.8",
+ "sha256": "53a9495eff03899108f921033402f391af8739903325d3a97bce19a19fd694ce",
+ "firma": "/GpbmG2fYjRho48daKUkbMkBzszbZtEHb4F1ir+JBOM+TlZpMlMF4vzFlpGAO0SElYyv2sLYM1v3ws2qDWwmCw==",
+ "note": "Stampa: trova la stampante del negozio in desktop remoto anche quando cambia il numero 'reindirizzato'",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.7.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.8.gdlupd"
 }
