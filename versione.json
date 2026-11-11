@@ -1,8 +1,8 @@
 {
- "versione": "2.9.1",
- "sha256": "6f97ce8d5607b0caa9e7e9e97b5b5387b89f05c9d73f826e0458c8ae22e3c54c",
- "firma": "pn/PpI64BFjWzAKpkF1ejYeICtNAmM/aISKPEGXep1mge9lcBO7gt8VPaUhR3U0HZZ6bCErBZk7ciFmq7QHODQ==",
- "note": "Aggiornamento più robusto (ripubblicato in una cartella nuova)",
+ "versione": "2.9.2",
+ "sha256": "2086bc0b0fb4827cd4a689cbc3bcc121a508b57f056838c3d0a5fb5928eecd4e",
+ "firma": "4hWuu3SGvoCJ19mswOftCSccUeWAC3bAZFOIeW9cuvaKWuN4mXDi4w7CtcdTLpNiLQp+eO4FxsFOIL16dzaxBg==",
+ "note": "DDT: tasto 📦 Foneday → DDT (cerca le fatture Foneday nella posta e nelle registrazioni e mette le righe nei DDT a MOUSE SRL)",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.2.gdlupd"
 }
