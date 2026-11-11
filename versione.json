@@ -1,8 +1,8 @@
 {
- "versione": "2.9.3",
- "sha256": "62a30e32f1929ac010410d887de649391b75c9cfbeaf24e4fd2dde95e8e28d30",
- "firma": "Bpb3AK7yPrf8v+m1d4XLlhxMLktkxmWEHJk8sKd7VnOCOmV0fKGk5YOstsz1OTQ3zbN4dIhOnYZKPYXK1TVZBA==",
- "note": "Foneday → DDT: non ripropone le fatture già registrate e già nei DDT",
+ "versione": "2.9.4",
+ "sha256": "5e7fab4fde00d3be278b19e9a3d1a264fe97f654e07c91e722e53a02fb90b1c1",
+ "firma": "3GKl35uj5aWK2r7tX8HdU7+7eAV3P72rrHws6pT7k0Mzk4wn/eMOMZCwS/+IM3a8jT7uYDnJpwRJsgy3puUvDw==",
+ "note": "Ricariche UnoMobile: costo = 94% del taglio venduto (5, 10, 20 €…), anche nei documenti già salvati",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.4.gdlupd"
 }
