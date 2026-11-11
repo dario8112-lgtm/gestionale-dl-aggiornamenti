@@ -1,8 +1,8 @@
 {
- "versione": "2.9.0",
- "sha256": "e7b10b357b1cf3c9b96940d990c20a82bd0da9b8100a4a533c8f6bc16fbd8a88",
- "firma": "eCdHbjq3lQeCwhNMWVj7i14nZkLG+laH6IV943WRpCYO2y4urqwwOzngFvmwBee5EQpVchCtsgyYhflKI485BQ==",
- "note": "Aggiornamento più robusto: niente più ritorno alla versione 2.5.26 né errore EPERM con il programma aperto in altre sessioni",
+ "versione": "2.9.1",
+ "sha256": "6f97ce8d5607b0caa9e7e9e97b5b5387b89f05c9d73f826e0458c8ae22e3c54c",
+ "firma": "pn/PpI64BFjWzAKpkF1ejYeICtNAmM/aISKPEGXep1mge9lcBO7gt8VPaUhR3U0HZZ6bCErBZk7ciFmq7QHODQ==",
+ "note": "Aggiornamento più robusto (ripubblicato in una cartella nuova)",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.1.gdlupd"
 }
