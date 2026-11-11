@@ -1,8 +1,8 @@
 {
- "versione": "2.11.1",
- "sha256": "8fec1a11d09bc08db69733717a2756101efa854537c2fa9d11577fd610eb0ded",
- "firma": "0IVoEmtkubosNvZiWj5ZpSVyAgoOMgVmzVNonRFk1fy3ZR2fe1vEjGS6oDfY6afY9BdvdR0IsxmVNIstfagxBQ==",
- "note": "Estensione Chrome: prezzo al cliente e Nel documento anche su Life365",
+ "versione": "2.12.0",
+ "sha256": "ecf998ecb8a9ef7bc3f3dc9b6fee3e45b62af352c3873457a47f7eaba626c315",
+ "firma": "vIxN4cgoPjyhSXLaDfNT3tGJYAXild7elV99zyuI58UvHiLlWvVhD7RDUx4JesMsS6lcEBmQoVCaofc+fToIDA==",
+ "note": "Cassaforte: copia per il PC su OneDrive (estensione Chrome 0.9.0 anche senza Gestionale)",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.11.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.0.gdlupd"
 }
