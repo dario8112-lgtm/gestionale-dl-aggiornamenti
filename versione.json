@@ -1,8 +1,8 @@
 {
- "versione": "2.9.9",
- "sha256": "8d3c7475141d1631e89357818ae6d79e6c32d1d4b7be04501faf403bb5a08722",
- "firma": "o7UHqOJYhKpv38FxgnHO6O8e1QdO/ljcvBbeltRtkdzqYy8CUzcDlX0tsiFXIoqMyI7SAxJFiwESf3mAnP42Bw==",
- "note": "Affari di Famiglia: codice a barre = codice prodotto (come le etichette di Danea) dove mancava",
+ "versione": "2.10.0",
+ "sha256": "736dde6121fdcf986ea348c48d34d7e2df87a7e5636176d2dac62d2c09981705",
+ "firma": "OlpPp8w9tvtjG4VipE/+UMlnye19Nxvizkjb63gOuDnnm3tL9UwCI6DxB5ubDtlClHD82LDvxjMIljiodU1zDQ==",
+ "note": "Affari di Famiglia: ripristinati i codici Danea di 6 prodotti",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.9.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.0.gdlupd"
 }
