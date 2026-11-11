@@ -1,8 +1,8 @@
 {
- "versione": "2.8.9",
- "sha256": "fe370ad18e242883bcf2a896da426c50589e282f9a070f16809088e39f2e5cb8",
- "firma": "uLSJa/BuWGy5kGI3Sz6dKuo5RWtPv/2dFjzjRh833BzP3fI3+6KuisfLKGkXF32KYjfuf2WmrSSIMV4rInyFAw==",
- "note": "Stati degli ordini: colori pieni ma non fosforescenti",
- "data": "2026-11-10",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.8.9.gdlupd"
+ "versione": "2.9.0",
+ "sha256": "e7b10b357b1cf3c9b96940d990c20a82bd0da9b8100a4a533c8f6bc16fbd8a88",
+ "firma": "eCdHbjq3lQeCwhNMWVj7i14nZkLG+laH6IV943WRpCYO2y4urqwwOzngFvmwBee5EQpVchCtsgyYhflKI485BQ==",
+ "note": "Aggiornamento più robusto: niente più ritorno alla versione 2.5.26 né errore EPERM con il programma aperto in altre sessioni",
+ "data": "2026-11-11",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.0.gdlupd"
 }
