@@ -1,8 +1,8 @@
 {
- "versione": "2.9.5",
- "sha256": "312fa0647098f6690d9b9dc128ff5b864c9f6970a6c9bc204d76e1c7f1b46dc7",
- "firma": "AHvGoTYwyB7KAxoWyAvGRkR6M7LVHwQKqowxab5khLsuQ7y+tcyuMAWXdawBUhyJZvjnEApyHlajoy0urxEUBg==",
- "note": "Correzione: il documento con una ricarica UnoMobile non si blocca più all'apertura",
+ "versione": "2.9.6",
+ "sha256": "55ea1bfd21459729aef1891ec770bb9a470ae52b77b2704c9d8dd7a2e94efbc6",
+ "firma": "2dY3Dujh5znHKgShO4AqCfdzluQ4IbFRg38G7NIkQ0/CtWk0/OR2ZwKPAS4Pb7qOoEYHw0eAYU4/sn86UYy+Aw==",
+ "note": "Vendite al banco da settembre: prezzo d'acquisto preso dal prodotto dove mancava",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.6.gdlupd"
 }
