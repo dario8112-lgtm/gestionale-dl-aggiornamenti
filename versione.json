@@ -1,8 +1,8 @@
 {
- "versione": "2.10.0",
- "sha256": "736dde6121fdcf986ea348c48d34d7e2df87a7e5636176d2dac62d2c09981705",
- "firma": "OlpPp8w9tvtjG4VipE/+UMlnye19Nxvizkjb63gOuDnnm3tL9UwCI6DxB5ubDtlClHD82LDvxjMIljiodU1zDQ==",
- "note": "Affari di Famiglia: ripristinati i codici Danea di 6 prodotti",
+ "versione": "2.10.1",
+ "sha256": "ef480bc4f780265fed76b071f415b2388e3568ad64c42b67ff5723ae6bc1255f",
+ "firma": "9Ov7H4lRqIZ+3V2hWZas8Yyklf5juK27fJL3+/nKdUi4eN8j5jlkMzGBK5TL4z8R2zVOVu5dkEQD4TgJZDgwAw==",
+ "note": "Touch: importo illuminato come un display a LED",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.1.gdlupd"
 }
