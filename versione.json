@@ -1,8 +1,8 @@
 {
- "versione": "2.10.3",
- "sha256": "31f81a3be4cd06ceddd4d0f23c04d912834b48f86fbaf06e0e57c6ab46ef5b5f",
- "firma": "7ZWyS5WH1AgwM44TLgdnmRvxUAebkrfEj7TOKXxnrOXPUaVr7XSsj2NgNeWk6IUE4pBld62/U6we0wkS4kQIAg==",
- "note": "Touch: contanti ricevuti e resto da dare; il resto compare anche sul registratore di cassa",
+ "versione": "2.10.4",
+ "sha256": "c3633a0a71d33bde552de374fde65daf47ad9ebaf3b0232890060ee630d6e0f5",
+ "firma": "sR6X4MaSfXHyF0disLI2dXhyWwCXyKF5PfWnI7A2X5WFLeEp909v8fd0S+GPsLf+KkZuHQpGEYvdmYwsMSdrCg==",
+ "note": "Touch: cifre del display più brillanti",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.4.gdlupd"
 }
