@@ -1,8 +1,8 @@
 {
- "versione": "2.9.8",
- "sha256": "34a09bc572386f50f0482457b8233d8eeb2960bdb0edaa01dcaee6782ca3f650",
- "firma": "eK0kX048hAAAA3sCWb9Yhz0lYcHzrPoKzKoswTESSt2AgU1dZUmSD2vyxHQZ6Wuchu03Mp6u/y6sCjxFnmyiBw==",
- "note": "Affari di Famiglia: prezzi d'acquisto di 148 prodotti presi dalle fatture PMG Trading",
+ "versione": "2.9.9",
+ "sha256": "8d3c7475141d1631e89357818ae6d79e6c32d1d4b7be04501faf403bb5a08722",
+ "firma": "o7UHqOJYhKpv38FxgnHO6O8e1QdO/ljcvBbeltRtkdzqYy8CUzcDlX0tsiFXIoqMyI7SAxJFiwESf3mAnP42Bw==",
+ "note": "Affari di Famiglia: codice a barre = codice prodotto (come le etichette di Danea) dove mancava",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.8.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.9.gdlupd"
 }
