@@ -1,8 +1,8 @@
 {
- "versione": "2.10.4",
- "sha256": "c3633a0a71d33bde552de374fde65daf47ad9ebaf3b0232890060ee630d6e0f5",
- "firma": "sR6X4MaSfXHyF0disLI2dXhyWwCXyKF5PfWnI7A2X5WFLeEp909v8fd0S+GPsLf+KkZuHQpGEYvdmYwsMSdrCg==",
- "note": "Touch: cifre del display più brillanti",
+ "versione": "2.10.5",
+ "sha256": "403bddc4fd1f5d75b9d954f4960d49dce8b5ea0c9f233f993d76f49ab1823e5c",
+ "firma": "5IiT8cX+Eh2k/FqluXjfPl5lG2jlJ5EoYlx/culIDMCVRJlRk+d2baOWjitjqBZ0IStKzstoGTL0bf9H+z84BA==",
+ "note": "Touch: cifre del display nitide e lucide (sopra il riflesso del vetro)",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.5.gdlupd"
 }
