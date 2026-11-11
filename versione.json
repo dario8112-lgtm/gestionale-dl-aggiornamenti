@@ -1,8 +1,8 @@
 {
- "versione": "2.9.7",
- "sha256": "2d336b41fe3bf30df6cc11bb0ea6803b71436b655a126c529e9dfa6fc4f08b6b",
- "firma": "HdoyVDAP7X94Kq4/rD1Dxx6GF7wJbI3ZxCy1cpHw8nzsMSAUO8QQD8Q/fdc2OraUUEqDLw6Wd4RDIkQ0/QIvAg==",
- "note": "Vendite al banco: costo lasciato a 0 dove il prodotto costa più del prezzo di vendita",
+ "versione": "2.9.8",
+ "sha256": "34a09bc572386f50f0482457b8233d8eeb2960bdb0edaa01dcaee6782ca3f650",
+ "firma": "eK0kX048hAAAA3sCWb9Yhz0lYcHzrPoKzKoswTESSt2AgU1dZUmSD2vyxHQZ6Wuchu03Mp6u/y6sCjxFnmyiBw==",
+ "note": "Affari di Famiglia: prezzi d'acquisto di 148 prodotti presi dalle fatture PMG Trading",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.7.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.8.gdlupd"
 }
