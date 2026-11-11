@@ -1,8 +1,8 @@
 {
- "versione": "2.10.8",
- "sha256": "53a9495eff03899108f921033402f391af8739903325d3a97bce19a19fd694ce",
- "firma": "/GpbmG2fYjRho48daKUkbMkBzszbZtEHb4F1ir+JBOM+TlZpMlMF4vzFlpGAO0SElYyv2sLYM1v3ws2qDWwmCw==",
- "note": "Stampa: trova la stampante del negozio in desktop remoto anche quando cambia il numero 'reindirizzato'",
+ "versione": "2.10.9",
+ "sha256": "62690c428469cef02ed72d2c115d77fdfee1c793152336ef914dec33f1214511",
+ "firma": "SIc92B19UaSF1TLY/ikpkBfOQ2LtvGB9i8qEPVCLMlAqXl8A3jS9FuA5DpZqRC0Qmwcl4djVMigHMtuUC0m/Aw==",
+ "note": "Scontrini a rotolo: tolta la ragione sociale, logo centrato",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.8.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.9.gdlupd"
 }
