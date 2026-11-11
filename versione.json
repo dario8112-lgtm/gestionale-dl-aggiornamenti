@@ -1,8 +1,8 @@
 {
- "versione": "2.10.1",
- "sha256": "ef480bc4f780265fed76b071f415b2388e3568ad64c42b67ff5723ae6bc1255f",
- "firma": "9Ov7H4lRqIZ+3V2hWZas8Yyklf5juK27fJL3+/nKdUi4eN8j5jlkMzGBK5TL4z8R2zVOVu5dkEQD4TgJZDgwAw==",
- "note": "Touch: importo illuminato come un display a LED",
+ "versione": "2.10.2",
+ "sha256": "5d294c560fc4f4e3e12ab9268ec2df5cb0c23b1429237505132ec1149517fa43",
+ "firma": "65GZ63K0zL9DDOgrQLm28yI5hpOvrZcReaJ9+Hgyhfjqgacg8P/kKXeDvAM5DYIEhgEY0cYH9FV6R/1CTDuTDg==",
+ "note": "Touch: importo con display a LED verdi a 7 segmenti",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.2.gdlupd"
 }
