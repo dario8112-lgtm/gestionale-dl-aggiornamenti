@@ -1,8 +1,8 @@
 {
- "versione": "2.9.4",
- "sha256": "5e7fab4fde00d3be278b19e9a3d1a264fe97f654e07c91e722e53a02fb90b1c1",
- "firma": "3GKl35uj5aWK2r7tX8HdU7+7eAV3P72rrHws6pT7k0Mzk4wn/eMOMZCwS/+IM3a8jT7uYDnJpwRJsgy3puUvDw==",
- "note": "Ricariche UnoMobile: costo = 94% del taglio venduto (5, 10, 20 €…), anche nei documenti già salvati",
+ "versione": "2.9.5",
+ "sha256": "312fa0647098f6690d9b9dc128ff5b864c9f6970a6c9bc204d76e1c7f1b46dc7",
+ "firma": "AHvGoTYwyB7KAxoWyAvGRkR6M7LVHwQKqowxab5khLsuQ7y+tcyuMAWXdawBUhyJZvjnEApyHlajoy0urxEUBg==",
+ "note": "Correzione: il documento con una ricarica UnoMobile non si blocca più all'apertura",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.5.gdlupd"
 }
