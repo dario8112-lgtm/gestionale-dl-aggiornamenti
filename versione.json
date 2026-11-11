@@ -1,8 +1,8 @@
 {
- "versione": "2.9.6",
- "sha256": "55ea1bfd21459729aef1891ec770bb9a470ae52b77b2704c9d8dd7a2e94efbc6",
- "firma": "2dY3Dujh5znHKgShO4AqCfdzluQ4IbFRg38G7NIkQ0/CtWk0/OR2ZwKPAS4Pb7qOoEYHw0eAYU4/sn86UYy+Aw==",
- "note": "Vendite al banco da settembre: prezzo d'acquisto preso dal prodotto dove mancava",
+ "versione": "2.9.7",
+ "sha256": "2d336b41fe3bf30df6cc11bb0ea6803b71436b655a126c529e9dfa6fc4f08b6b",
+ "firma": "HdoyVDAP7X94Kq4/rD1Dxx6GF7wJbI3ZxCy1cpHw8nzsMSAUO8QQD8Q/fdc2OraUUEqDLw6Wd4RDIkQ0/QIvAg==",
+ "note": "Vendite al banco: costo lasciato a 0 dove il prodotto costa più del prezzo di vendita",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.6.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.9.7.gdlupd"
 }
