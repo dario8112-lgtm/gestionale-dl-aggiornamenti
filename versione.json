@@ -1,8 +1,8 @@
 {
- "versione": "2.10.6",
- "sha256": "efe8172ff8952091a36261f5c82b229b20a772ee634e09eeb5e77c9ce9e3c687",
- "firma": "gaeXt+WdHCXJucFPJZW2sr4az5e0rTS6jpBog0zrKY2QCXlxGJkb8mcVS+wXN95/5yjXhm8UJygqb3q83sQkCA==",
- "note": "Touch: cifre del display piene anche in desktop remoto",
+ "versione": "2.10.7",
+ "sha256": "ad1ca2632c02efab80b0ff89594c76a530cd276e816c2a1a840eb45955df1441",
+ "firma": "k34y3aa1ddkskyg5XxUmubkfldTf67VBFhoQY+UQwCSJ0eEItjQqgwB43gO/MojzqiRRuC29MGyT/FJsU3UrCA==",
+ "note": "Touch: display con cifre a segmenti sottili inclinati, verde pieno",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.6.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.10.7.gdlupd"
 }
