@@ -1,8 +1,8 @@
 {
- "versione": "2.11.0",
- "sha256": "227b248a9b06184a9c5e66934c4ee6513377997ce10e71f769786b7bfcac1574",
- "firma": "SgFjEPelaOjptXkI/+bxRa2vOLgzre+Bz05IdJyopYDaceCvqsoPJfR7GlI/WPQ0eby5jMLU1ftNncdEJCSTAQ==",
- "note": "Liste più leggere: mostrano 300 righe alla volta (mostra altre), meno blocchi in desktop remoto",
+ "versione": "2.11.1",
+ "sha256": "8fec1a11d09bc08db69733717a2756101efa854537c2fa9d11577fd610eb0ded",
+ "firma": "0IVoEmtkubosNvZiWj5ZpSVyAgoOMgVmzVNonRFk1fy3ZR2fe1vEjGS6oDfY6afY9BdvdR0IsxmVNIstfagxBQ==",
+ "note": "Estensione Chrome: prezzo al cliente e Nel documento anche su Life365",
  "data": "2026-11-11",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.11.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.11.1.gdlupd"
 }
