@@ -1,8 +1,8 @@
 {
- "versione": "2.12.2",
- "sha256": "c4ade923587ef5ad39ee64399cf30a3911694922d911a58ea17c1ec0fdfe4747",
- "firma": "hA2v2Wl9DRL9/LdDKFtGx6G6AQBzbqc7qR10mYRTfPP+clLnRdSdf4omqLVIZ0M+JdgdsaARbRMSJZcJzHjAAw==",
- "note": "Estensione Chrome 0.9.3: prezzo al cliente anche su Foneday",
+ "versione": "2.12.3",
+ "sha256": "a244085e7601e7989fa938bf702ed3cfa80afc4c7529035db61dcaff02ab0e94",
+ "firma": "UofGoWbdyHwfr+3ydg8eEsbLkSfB0gUOsiPggva8j6n+YcrXTHhkyBf7nwl4KVpYYCQsLhmwAnxRP0ZwUofuBA==",
+ "note": "DDT a Mouse: gli articoli delle fatture diventano prodotti con il prezzo d'acquisto",
  "data": "2026-11-12",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.2.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.3.gdlupd"
 }
