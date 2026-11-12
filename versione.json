@@ -1,8 +1,8 @@
 {
- "versione": "2.12.1",
- "sha256": "aabd61726fdc6386959bba20e6fe5f18f509052b1d5c1caba71b3d38021c9777",
- "firma": "n5ir3a+51xsnw0tZVNWtrZao9Lv8phF75IdgB/iJCkLSc/bnBWhVvLx2oc5jbIK3b0BLrpyguIGBTKeSM8uJCg==",
- "note": "Ordini cliente: in stampa sempre Vassoio 1",
+ "versione": "2.12.2",
+ "sha256": "c4ade923587ef5ad39ee64399cf30a3911694922d911a58ea17c1ec0fdfe4747",
+ "firma": "hA2v2Wl9DRL9/LdDKFtGx6G6AQBzbqc7qR10mYRTfPP+clLnRdSdf4omqLVIZ0M+JdgdsaARbRMSJZcJzHjAAw==",
+ "note": "Estensione Chrome 0.9.3: prezzo al cliente anche su Foneday",
  "data": "2026-11-12",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.2.gdlupd"
 }
