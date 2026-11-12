@@ -1,8 +1,8 @@
 {
- "versione": "2.12.4",
- "sha256": "b29b0821e0521961c334d14a264e3a173793320a44a75343376604c8b1430a7e",
- "firma": "70QkWZO0zK28V/i8LATy6Jp1v64p2hwQi3+9PaaebiVM5UwbvYhENMICT/BJer4KNkviiEEiTL5HyzHo+RcRDg==",
- "note": "DDT a Mouse da inizio novembre: righe collegate ai prodotti con il prezzo d'acquisto",
+ "versione": "2.12.5",
+ "sha256": "274aa01ccb565c407bc75bd98af6411bafbb6191ad88a82a0ba77c434363ba7a",
+ "firma": "EdGEzGUpmnr23sczMyFISSBbYm5jXQkIw536RJzv23zDXUo828Maa3SePj2K/47gJv4UjoL27z5Pl50SY3wfDQ==",
+ "note": "DDT a Mouse di novembre: costo d'acquisto ricavato dal prezzo (-4% fuori Langhirano) e prodotti collegati",
  "data": "2026-11-12",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.5.gdlupd"
 }
