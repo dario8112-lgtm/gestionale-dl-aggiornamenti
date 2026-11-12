@@ -1,8 +1,8 @@
 {
- "versione": "2.13.0",
- "sha256": "a7ee089eb3f8f39bc8dbf5d6e7eb5ee5027b1617552dd3a769a07568b8fa6e1e",
- "firma": "wu8Ru8JM0UNwzus1zAI2jMqdX3M32sTQvcLK+UCNf40PulLtDLJozIfZ+oUMqkYFQIb8qSAfFX9y5u+Lci4PDA==",
- "note": "Nuova schermata Chiamate perse (Strumenti), collegata al server Avvisa Chiamate",
+ "versione": "2.13.1",
+ "sha256": "22c1b311e510266d84e19cc8174d47ebb98701e126387ce82e53e1faf65b4a61",
+ "firma": "UtmdIGvhBNEWg4wtCaS+ynGTQfN/E7+ARyZshv78TprmeoPiYlew1awe8wkbOhxyX7PhpCYvV2RWYlIMZtXlCg==",
+ "note": "Start: riquadro Da richiamare con le chiamate perse",
  "data": "2026-11-12",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.1.gdlupd"
 }
