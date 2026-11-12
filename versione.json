@@ -1,8 +1,8 @@
 {
- "versione": "2.12.3",
- "sha256": "a244085e7601e7989fa938bf702ed3cfa80afc4c7529035db61dcaff02ab0e94",
- "firma": "UofGoWbdyHwfr+3ydg8eEsbLkSfB0gUOsiPggva8j6n+YcrXTHhkyBf7nwl4KVpYYCQsLhmwAnxRP0ZwUofuBA==",
- "note": "DDT a Mouse: gli articoli delle fatture diventano prodotti con il prezzo d'acquisto",
+ "versione": "2.12.4",
+ "sha256": "b29b0821e0521961c334d14a264e3a173793320a44a75343376604c8b1430a7e",
+ "firma": "70QkWZO0zK28V/i8LATy6Jp1v64p2hwQi3+9PaaebiVM5UwbvYhENMICT/BJer4KNkviiEEiTL5HyzHo+RcRDg==",
+ "note": "DDT a Mouse da inizio novembre: righe collegate ai prodotti con il prezzo d'acquisto",
  "data": "2026-11-12",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.4.gdlupd"
 }
