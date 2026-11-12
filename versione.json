@@ -1,8 +1,8 @@
 {
- "versione": "2.12.6",
- "sha256": "2ddd55646fd7d1e2e0260cf3fb57de7a47d0ec5323cf0d25195f8c34f67b5dcc",
- "firma": "350cy7tYqSfpW3XLBMprTIJuIK/9cGIHx6uuOs1mYOco+R9czPikW7Q/yzhkKsXgRiEoyDlYpOepsgnLEdYeBA==",
- "note": "Guadagno: le fatture fatte dai DDT a Mouse prendono il costo d'acquisto dalle righe dei DDT",
+ "versione": "2.13.0",
+ "sha256": "a7ee089eb3f8f39bc8dbf5d6e7eb5ee5027b1617552dd3a769a07568b8fa6e1e",
+ "firma": "wu8Ru8JM0UNwzus1zAI2jMqdX3M32sTQvcLK+UCNf40PulLtDLJozIfZ+oUMqkYFQIb8qSAfFX9y5u+Lci4PDA==",
+ "note": "Nuova schermata Chiamate perse (Strumenti), collegata al server Avvisa Chiamate",
  "data": "2026-11-12",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.12.6.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.0.gdlupd"
 }
