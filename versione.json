@@ -1,8 +1,8 @@
 {
- "versione": "2.14.3",
- "sha256": "7d60755b3ca8d5f4255827972067d6747942a86679eaf9f365926a6d55d5c0f3",
- "firma": "CEsiqc/tD9lqvw+K5kaiH1MfjM/t7WFSaHngHPrRSoN5142RHTw5ZEvPJWKflcFeVqSSZ4EwMU97h7IiAPWQDw==",
- "note": "Avviso aggiornamento: dopo Ricordamelo torna ogni minuto",
+ "versione": "2.14.4",
+ "sha256": "3303d39aa711fcc221bbba7bf263099c8a8205a0d7866f0d8c9a5128e5e6f0ec",
+ "firma": "K6LatiLQ2sbjo+0zBjtkJsjmxsR7y7zDHrovSck02EEMzCLJPBgIYZbXRazTqQ3g7fbzidqcb43hifzDHpG4DA==",
+ "note": "Life365: cellulari costo + 50 € + IVA, tutto il resto costo × 2 + IVA",
  "data": "2026-11-13",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.4.gdlupd"
 }
