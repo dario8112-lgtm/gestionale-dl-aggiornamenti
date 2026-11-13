@@ -1,8 +1,8 @@
 {
- "versione": "2.13.4",
- "sha256": "5fd089f21dea5c3c7809c5c70912d4af4cf3ec5d71bc8d6c994e3bb09844d204",
- "firma": "rRF8LPl8Yse3tUa5zyEIiwuvFfHBW7i5GnVedtq5xiApyfMbKRx4T6o/1P63nZ18yzNGRe5woGj9LqetyvgpDA==",
- "note": "Avviso rosso insistente finché non si aggiorna",
+ "versione": "2.13.5",
+ "sha256": "26628e9c1c6e21ca89e0177abaa1503dc18a9a081fec3e902080ff7c3f50cbf1",
+ "firma": "sYURs9O3epbh1wWem+puU8Veb/p67vYaYzqyuwYLRqzLOijevloa35VsVHioqdldsCefbr86lUjHtMMqgv+MCw==",
+ "note": "Righe documento: i tuoi prodotti in cima, prima dei fornitori",
  "data": "2026-11-13",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.5.gdlupd"
 }
