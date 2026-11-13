@@ -1,8 +1,8 @@
 {
- "versione": "2.13.1",
- "sha256": "22c1b311e510266d84e19cc8174d47ebb98701e126387ce82e53e1faf65b4a61",
- "firma": "UtmdIGvhBNEWg4wtCaS+ynGTQfN/E7+ARyZshv78TprmeoPiYlew1awe8wkbOhxyX7PhpCYvV2RWYlIMZtXlCg==",
- "note": "Start: riquadro Da richiamare con le chiamate perse",
- "data": "2026-11-12",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.1.gdlupd"
+ "versione": "2.13.2",
+ "sha256": "2369379686574ca562ad5d46a82b041a38a1f20cf291d096ff871927fa0a635e",
+ "firma": "4ot/5NW2v8xF+gtbFKjyDE6xHVFOf6fMBCFj4+DtRIyWMLqO6EU5LgfFnhOEVcWwT95RIoNrjFP4a1xXtSb+CA==",
+ "note": "Riquadro Da richiamare solo nell'archivio Mouse",
+ "data": "2026-11-13",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.2.gdlupd"
 }
