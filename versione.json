@@ -1,8 +1,8 @@
 {
- "versione": "2.13.5",
- "sha256": "26628e9c1c6e21ca89e0177abaa1503dc18a9a081fec3e902080ff7c3f50cbf1",
- "firma": "sYURs9O3epbh1wWem+puU8Veb/p67vYaYzqyuwYLRqzLOijevloa35VsVHioqdldsCefbr86lUjHtMMqgv+MCw==",
- "note": "Righe documento: i tuoi prodotti in cima, prima dei fornitori",
+ "versione": "2.14.0",
+ "sha256": "b88722e762ced36d18c7fdd6a366330546a41b736063e1b9cbfc3b52cedd346a",
+ "firma": "E3Edug5TeUBs8f1CWFYxdxdSqB2znWZa2Y1PgotNVydGliCREMpEC7LKs4uClkYaKhhXGD+qni7WSrh1TYlJDg==",
+ "note": "Edizione clienti: canale di aggiornamento separato e funzioni personali di DL nascoste",
  "data": "2026-11-13",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.0.gdlupd"
 }
