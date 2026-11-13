@@ -1,8 +1,8 @@
 {
- "versione": "2.14.2",
- "sha256": "64afc1922348b8aca14863c0336f677a43660cda9a448f00dc835c75fb6f9d44",
- "firma": "bJeJesSK4eRvlTYCaIAHKFV9oUQsztrin5vH06f57Ucd82F+nAwaZk3E+KM5N2sbNFF0UfsbtVpwxDcVC3msDw==",
- "note": "Life365: prodotti di rete (ripetitori, router, access point…) al doppio del costo + IVA",
+ "versione": "2.14.3",
+ "sha256": "7d60755b3ca8d5f4255827972067d6747942a86679eaf9f365926a6d55d5c0f3",
+ "firma": "CEsiqc/tD9lqvw+K5kaiH1MfjM/t7WFSaHngHPrRSoN5142RHTw5ZEvPJWKflcFeVqSSZ4EwMU97h7IiAPWQDw==",
+ "note": "Avviso aggiornamento: dopo Ricordamelo torna ogni minuto",
  "data": "2026-11-13",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.2.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.3.gdlupd"
 }
