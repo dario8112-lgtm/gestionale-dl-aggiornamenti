@@ -1,8 +1,8 @@
 {
- "versione": "2.13.3",
- "sha256": "563dce23291ac15059634b85d9fea29891fbb240b0e418deeb80ed12856cd0d6",
- "firma": "pmjx1XZpMN71DlN4X+0bO5DILImLnXksDrYNaUA8T/1QyS+vdmaF9KEUpaAC8AAQOxY2BDlvoWwQQBKZymgaBg==",
- "note": "Aggiornamento comune: quando un utente aggiorna, si aggiornano da soli tutti gli utenti del server",
+ "versione": "2.13.4",
+ "sha256": "5fd089f21dea5c3c7809c5c70912d4af4cf3ec5d71bc8d6c994e3bb09844d204",
+ "firma": "rRF8LPl8Yse3tUa5zyEIiwuvFfHBW7i5GnVedtq5xiApyfMbKRx4T6o/1P63nZ18yzNGRe5woGj9LqetyvgpDA==",
+ "note": "Avviso rosso insistente finché non si aggiorna",
  "data": "2026-11-13",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.13.4.gdlupd"
 }
