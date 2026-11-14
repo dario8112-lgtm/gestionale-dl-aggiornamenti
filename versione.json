@@ -1,8 +1,8 @@
 {
- "versione": "2.14.4",
- "sha256": "3303d39aa711fcc221bbba7bf263099c8a8205a0d7866f0d8c9a5128e5e6f0ec",
- "firma": "K6LatiLQ2sbjo+0zBjtkJsjmxsR7y7zDHrovSck02EEMzCLJPBgIYZbXRazTqQ3g7fbzidqcb43hifzDHpG4DA==",
- "note": "Life365: cellulari costo + 50 € + IVA, tutto il resto costo × 2 + IVA",
- "data": "2026-11-13",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.4.gdlupd"
+ "versione": "2.14.5",
+ "sha256": "625b84c5f1916fe30c3d8f2eda66ed435768f2c68a8098d348a196643f65607e",
+ "firma": "DIKZlw0Z3AbffJkO0iUhdD+pDmyvcMymyu/DLc+6PxzxDsC0pyQyLgvsmzukqzJz64JYXACZdJ9Iw1v9kaMZDg==",
+ "note": "Fatture estere: anche Bitdefender (2Checkout)",
+ "data": "2026-11-14",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.5.gdlupd"
 }
