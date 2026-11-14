@@ -1,8 +1,8 @@
 {
- "versione": "2.15.0",
- "sha256": "b852f87434198098d6272d240447899063e21a78c4ad16cca36cd20c80824f61",
- "firma": "iEbEWG5bkzw0H81TVnti1uA2xXTYZfzxrm174zgfKjQByilbiqh2+Lx+O7S6jn4YcJNOb3hVpmS0cPJ6vRT3Cw==",
- "note": "Life365: notebook e PC costo + 200 € + IVA",
+ "versione": "2.15.1",
+ "sha256": "649dcbb86dceda1ea85badf1e2a7bf9dc851e213642d30fa67ac40a65dd78f2b",
+ "firma": "KnLe+hKoSkZ8KpzrnBnGSN3o578/zOwC+e3FyezJwrnOebRyDTWT+CwjtSWWmqh9FTncjsy5C5vZqN2d/6S4DQ==",
+ "note": "DDT: nuovo pulsante PhoneClick → DDT dalle conferme d'ordine nella posta",
  "data": "2026-11-14",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.1.gdlupd"
 }
