@@ -11,6 +11,10 @@ import android.view.View
 import android.view.autofill.AutofillId
 import android.view.autofill.AutofillValue
 import android.widget.RemoteViews
+import android.widget.inline.InlinePresentationSpec
+import android.service.autofill.InlinePresentation
+import androidx.autofill.inline.UiVersions
+import androidx.autofill.inline.v1.InlineSuggestionUi
 
 /** Campi di login trovati in una schermata. */
 data class Campi(val utente: AutofillId?, val password: AutofillId?, val dominio: String?, val pacchetto: String)
@@ -52,19 +56,26 @@ class CassaforteAutofill : AutofillService() {
         val c = Analisi.trova(s)
         if (c.pacchetto == packageName || (c.utente == null && c.password == null)) { cb.onSuccess(null); return }
         val ids = listOfNotNull(c.utente, c.password).toTypedArray()
+        val specs = req.inlineSuggestionsRequest?.inlinePresentationSpecs.orEmpty()
+        val maxInline = req.inlineSuggestionsRequest?.maxSuggestionCount ?: 0
+        var n = 0
+        fun spec(): InlinePresentationSpec? = if (specs.isEmpty() || n >= maxInline) null else specs[minOf(n, specs.size - 1)].also { n++ }
 
         // se la Cassaforte è già sbloccata e c'è un accesso adatto, si propone direttamente
         val r = FillResponse.Builder()
         if (Vault.sbloccata()) {
-            Vault.adatte(this, c.dominio, c.pacchetto).take(4).forEach { v -> r.addDataset(dataset(this, c, v)) }
+            Vault.adatte(this, c.dominio, c.pacchetto).take(3).forEach { v -> r.addDataset(dataset(this, c, v, spec())) }
         }
         val i = Intent(this, AuthActivity::class.java)
             .putExtra("dominio", c.dominio).putExtra("pacchetto", c.pacchetto)
             .putExtra("idUtente", c.utente).putExtra("idPassword", c.password)
         val pi = PendingIntent.getActivity(this, (System.currentTimeMillis() and 0xffff).toInt(), i,
             PendingIntent.FLAG_MUTABLE or PendingIntent.FLAG_CANCEL_CURRENT)
-        r.addDataset(Dataset.Builder(riga(this, "🔐 Cassaforte DL", if (Vault.sbloccata()) "Scegli un altro accesso" else "Sblocca e compila"))
-            .apply { ids.forEach { setValue(it, null) } }.setAuthentication(pi.intentSender).build())
+        val sotto = if (Vault.sbloccata()) "Altro accesso" else "Sblocca e compila"
+        val inl = spec()?.let { inline(this, it, "🔐 Cassaforte DL", sotto) }
+        r.addDataset(Dataset.Builder(riga(this, "🔐 Cassaforte DL", sotto))
+            .apply { ids.forEach { if (inl != null) setValue(it, null, riga(this@CassaforteAutofill, "🔐 Cassaforte DL", sotto), inl) else setValue(it, null) } }
+            .setAuthentication(pi.intentSender).build())
         cb.onSuccess(r.build())
     }
     override fun onSaveRequest(req: SaveRequest, cb: SaveCallback) { cb.onSuccess() }
@@ -73,10 +84,20 @@ class CassaforteAutofill : AutofillService() {
         fun riga(c: Context, titolo: String, sotto: String) = RemoteViews(c.packageName, android.R.layout.simple_list_item_2).apply {
             setTextViewText(android.R.id.text1, titolo); setTextViewText(android.R.id.text2, sotto)
         }
-        fun dataset(c: Context, campi: Campi, v: Voce): Dataset {
-            val b = Dataset.Builder(riga(c, v.nome, v.utente))
-            campi.utente?.let { b.setValue(it, AutofillValue.forText(v.utente)) }
-            campi.password?.let { b.setValue(it, AutofillValue.forText(v.password)) }
+        /** Suggerimento nella barra della tastiera (SwiftKey, Gboard, tastiera Samsung). */
+        fun inline(c: Context, s: InlinePresentationSpec, titolo: String, sotto: String): InlinePresentation? {
+            if (!UiVersions.getVersions(s.style).contains(UiVersions.INLINE_UI_VERSION_1)) return null
+            val pi = PendingIntent.getActivity(c, 0, android.content.Intent(c, MainActivity::class.java), PendingIntent.FLAG_IMMUTABLE)
+            val slice = InlineSuggestionUi.newContentBuilder(pi).setTitle(titolo).setSubtitle(sotto)
+                .setStartIcon(android.graphics.drawable.Icon.createWithResource(c, R.mipmap.ic_launcher)).build().slice
+            return InlinePresentation(slice, s, false)
+        }
+        fun dataset(c: Context, campi: Campi, v: Voce, s: InlinePresentationSpec? = null): Dataset {
+            val rv = riga(c, v.nome, v.utente); val inl = s?.let { inline(c, it, v.nome, v.utente) }
+            val b = Dataset.Builder(rv)
+            fun metti(id: AutofillId, val_: String) { if (inl != null) b.setValue(id, AutofillValue.forText(val_), rv, inl) else b.setValue(id, AutofillValue.forText(val_)) }
+            campi.utente?.let { metti(it, v.utente) }
+            campi.password?.let { metti(it, v.password) }
             return b.build()
         }
     }
