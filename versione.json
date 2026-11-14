@@ -1,8 +1,8 @@
 {
- "versione": "2.14.9",
- "sha256": "d71a8cb207ba288af7d7afe014e27e8dfd85ddf8ef9f6fcca7953b13a25e3e6f",
- "firma": "sS8C60Oqp+Wet6UKb+eQvk+0i5EgUk/RIg5rzlfXQvjyCXOWQH+Qj5nvZepCvDXSIdA/YavthmHd9Inyl4J1Aw==",
- "note": "Avviso aggiornamento corretto: Più tardi = 2 ore, Esc o clic fuori = 30 minuti, al massimo ogni 10 minuti",
+ "versione": "2.15.0",
+ "sha256": "b852f87434198098d6272d240447899063e21a78c4ad16cca36cd20c80824f61",
+ "firma": "iEbEWG5bkzw0H81TVnti1uA2xXTYZfzxrm174zgfKjQByilbiqh2+Lx+O7S6jn4YcJNOb3hVpmS0cPJ6vRT3Cw==",
+ "note": "Life365: notebook e PC costo + 200 € + IVA",
  "data": "2026-11-14",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.9.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.0.gdlupd"
 }
