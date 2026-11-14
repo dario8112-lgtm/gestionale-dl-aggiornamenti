@@ -1,8 +1,8 @@
 {
- "versione": "2.14.7",
- "sha256": "a4848d3aa9cc048a0cc5ba1e7e133132e20456a0792f4b7be2bf286fcb7acd93",
- "firma": "0cEW48F91BenDYE9lex6c2sokBxJfz9yEqKxNLcbAILc1cQ52gyny2GJX0ma0Y5Cl+LVS1+eQGxULE5J87EWBA==",
- "note": "Chiamate perse: avviso se il collegamento col telefono è fermo",
+ "versione": "2.14.8",
+ "sha256": "243110c333b364d0e11b65729db0f4367947bfeb027fa945100309543707829f",
+ "firma": "X7tiA3a8ILeZq/1ez/QsLnM1xL3awPtmgq3wO7zMcSuv3TC01uoSg7LgQNSQ7Nfq8xxZFDrhMZazdFGklk1eBg==",
+ "note": "Riquadro Da richiamare solo per gli utenti DI e LA",
  "data": "2026-11-14",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.7.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.8.gdlupd"
 }
