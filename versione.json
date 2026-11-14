@@ -1,8 +1,8 @@
 {
- "versione": "2.14.5",
- "sha256": "625b84c5f1916fe30c3d8f2eda66ed435768f2c68a8098d348a196643f65607e",
- "firma": "DIKZlw0Z3AbffJkO0iUhdD+pDmyvcMymyu/DLc+6PxzxDsC0pyQyLgvsmzukqzJz64JYXACZdJ9Iw1v9kaMZDg==",
- "note": "Fatture estere: anche Bitdefender (2Checkout)",
+ "versione": "2.14.6",
+ "sha256": "fa3116bea52403ca7f6ca96839e884c1bd46f9221c02b949bcd233ef1a0094a4",
+ "firma": "5Dfr+wVY6J2RkwkTQjLBKTenb9YrnEpBFozMXUI2W2V5nXgbE8/9G0SniU6tdDo7MxLtOtB7go5oI2z9hHXXDQ==",
+ "note": "Reg. fatture fornitore: invio allo SDI di tutte le integrazioni selezionate insieme",
  "data": "2026-11-14",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.14.6.gdlupd"
 }
