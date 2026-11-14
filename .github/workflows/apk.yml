@@ -17,7 +17,7 @@ jobs:
       - name: Chiave di firma
         env: { KS: '${{ secrets.CDL_KEYSTORE_B64 }}' }
         run: |
-          if [ -n "$KS" ]; then printf "%s" "$KS" | tr -d " \r\n\t" | base64 -d > app/firma.jks; echo "CDL_KEYSTORE=firma.jks" >> $GITHUB_ENV
+          if [ -n "$KS" ]; then K=$(printf "%s" "$KS" | tr -cd 'A-Za-z0-9+/='); echo "lunghezza chiave: ${#K} (attesa 3392) inizio: ${K:0:6} fine: ${K: -4}"; printf "%s" "$K" | base64 -d > app/firma.jks; echo "CDL_KEYSTORE=firma.jks" >> $GITHUB_ENV
           else echo "::warning::Chiave di firma mancante: build di prova con chiave temporanea"
             keytool -genkeypair -keystore app/firma.jks -alias cassaforte -keyalg RSA -keysize 2048 -validity 3650 -storepass android -keypass android -dname "CN=Prova"
             echo "CDL_KS_PASS=android" >> $GITHUB_ENV; fi
