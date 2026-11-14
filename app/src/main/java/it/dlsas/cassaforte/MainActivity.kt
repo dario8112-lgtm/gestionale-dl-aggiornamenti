@@ -55,6 +55,11 @@ class MainActivity : AppCompatActivity() {
         barra.addView(bottone("🔄 Aggiorna") { Vault.uriDrive(this)?.let { aggiorna(it) } ?: scegli.launch(arrayOf("*/*")) })
         barra.addView(bottone("⚙ Compilazione") { attivaAutofill() })
         barra.addView(bottone("🔒 Blocca") { Vault.blocca(); mostra() })
+        barra.addView(bottone("🩺") {
+            AlertDialog.Builder(this).setTitle("Diagnostica compilazione")
+                .setMessage(Diagnostica.leggi(this).ifBlank { "Nessuna richiesta ricevuta da Android finora." })
+                .setPositiveButton("OK", null).show()
+        })
         radice.addView(barra)
         radice.addView(testo("  Archivio del ${Vault.aggiornatoIl(this).take(16).replace('T', ' ')}", 12f, col = android.graphics.Color.GRAY))
         radice.addView(Elenco(this) { dettaglio(it) }.vista { Vault.voci }, lp(0).apply { weight = 1f })

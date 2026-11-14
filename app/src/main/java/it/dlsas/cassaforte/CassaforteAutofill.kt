@@ -52,11 +52,19 @@ object Analisi {
 
 class CassaforteAutofill : AutofillService() {
     override fun onFillRequest(req: FillRequest, cancel: CancellationSignal, cb: FillCallback) {
+        try { compila(req, cb, inlineOk = true) }
+        catch (e: Throwable) {
+            Diagnostica.scrivi(this, "ERRORE: ${e.javaClass.simpleName}: ${e.message}")
+            try { compila(req, cb, inlineOk = false) } catch (e2: Throwable) { Diagnostica.scrivi(this, "ERRORE 2: ${e2.message}"); cb.onSuccess(null) }
+        }
+    }
+    private fun compila(req: FillRequest, cb: FillCallback, inlineOk: Boolean) {
         val s = req.fillContexts.last().structure
         val c = Analisi.trova(s)
+        Diagnostica.scrivi(this, "richiesta da ${c.pacchetto} sito=${c.dominio ?: "-"} utente=${c.utente != null} password=${c.password != null} tastiera=${req.inlineSuggestionsRequest != null}")
         if (c.pacchetto == packageName || (c.utente == null && c.password == null)) { cb.onSuccess(null); return }
         val ids = listOfNotNull(c.utente, c.password).toTypedArray()
-        val specs = req.inlineSuggestionsRequest?.inlinePresentationSpecs.orEmpty()
+        val specs = if (inlineOk) req.inlineSuggestionsRequest?.inlinePresentationSpecs.orEmpty() else emptyList()
         val maxInline = req.inlineSuggestionsRequest?.maxSuggestionCount ?: 0
         var n = 0
         fun spec(): InlinePresentationSpec? = if (specs.isEmpty() || n >= maxInline) null else specs[minOf(n, specs.size - 1)].also { n++ }
@@ -101,4 +109,14 @@ class CassaforteAutofill : AutofillService() {
             return b.build()
         }
     }
+}
+
+/** Ultimi eventi della compilazione automatica, da mostrare nell'app per capire cosa succede. */
+object Diagnostica {
+    fun scrivi(c: Context, riga: String) {
+        val p = c.getSharedPreferences("diagnostica", Context.MODE_PRIVATE)
+        val t = java.text.SimpleDateFormat("HH:mm:ss", java.util.Locale.ITALY).format(java.util.Date())
+        p.edit().putString("log", ("$t $riga\n" + p.getString("log", "")).take(3000)).apply()
+    }
+    fun leggi(c: Context) = c.getSharedPreferences("diagnostica", Context.MODE_PRIVATE).getString("log", "").orEmpty()
 }
