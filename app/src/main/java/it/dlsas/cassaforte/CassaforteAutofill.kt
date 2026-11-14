@@ -18,12 +18,12 @@ import androidx.autofill.inline.v1.InlineSuggestionUi
 
 /** Campi di login trovati in una schermata. */
 data class Campi(val utente: AutofillId?, val password: AutofillId?, val dominio: String?, val pacchetto: String,
-                 val tutti: List<AutofillId> = emptyList(), val focus: String = "")
+                 val tutti: List<AutofillId> = emptyList(), val focus: String = "", val loginProbabile: Boolean = false)
 
 object Analisi {
     fun trova(s: AssistStructure): Campi {
         var user: AutofillId? = null; var pass: AutofillId? = null; var dom: String? = null
-        var focusTesto: AutofillId? = null; var focusDesc = ""; val tutti = ArrayList<AutofillId>()
+        var focusTesto: AutofillId? = null; var focusDesc = ""; val tutti = ArrayList<AutofillId>(); var loginUser = false
         val candidatiUser = ArrayList<AutofillId>()
         fun visita(n: AssistStructure.ViewNode) {
             if (dom == null && !n.webDomain.isNullOrBlank()) dom = n.webDomain
@@ -42,6 +42,7 @@ object Analisi {
                 if (isPw) { if (pass == null) pass = id }
                 else {
                     val isUser = Regex("user|login|email|e-mail|mail|utente|account|username|phone|codice").containsMatchIn("$hints $testo")
+                    if (isUser && !testo.contains("search") && !hints.contains("search")) loginUser = true
                     if (isUser && user == null && pass == null) user = id
                     if (pass == null) candidatiUser += id
                     if (n.isFocused) focusTesto = id
@@ -53,7 +54,7 @@ object Analisi {
         if (focusTesto != null) user = focusTesto                              // il campo toccato è quello dell'utente
         else if (pass != null && (user == null || candidatiUser.indexOf(user) < candidatiUser.size - 2))
             user = candidatiUser.lastOrNull() ?: user                           // il campo di testo subito prima della password
-        return Campi(user, pass, dom, s.activityComponent.packageName, tutti, focusDesc)
+        return Campi(user, pass, dom, s.activityComponent.packageName, tutti, focusDesc, loginUser)
     }
 }
 
@@ -69,7 +70,7 @@ class CassaforteAutofill : AutofillService() {
         val s = req.fillContexts.last().structure
         val c = Analisi.trova(s)
         Diagnostica.scrivi(this, "richiesta da ${c.pacchetto} sito=${c.dominio ?: "-"} utente=${c.utente != null} password=${c.password != null} campi=${c.tutti.size} toccato=${c.focus.ifBlank { "?" }} tastiera=${req.inlineSuggestionsRequest != null}")
-        if (c.pacchetto == packageName || (c.utente == null && c.password == null)) { cb.onSuccess(null); return }
+        if (c.pacchetto == packageName || (c.password == null && !c.loginProbabile)) { cb.onSuccess(null); return }
         val ids = (listOfNotNull(c.utente, c.password) + c.tutti).distinct().take(6).toTypedArray()
         val specs = if (inlineOk) req.inlineSuggestionsRequest?.inlinePresentationSpecs.orEmpty() else emptyList()
         val maxInline = req.inlineSuggestionsRequest?.maxSuggestionCount ?: 0
@@ -97,8 +98,8 @@ class CassaforteAutofill : AutofillService() {
     override fun onSaveRequest(req: SaveRequest, cb: SaveCallback) { cb.onSuccess() }
 
     companion object {
-        fun riga(c: Context, titolo: String, sotto: String) = RemoteViews(c.packageName, android.R.layout.simple_list_item_2).apply {
-            setTextViewText(android.R.id.text1, titolo); setTextViewText(android.R.id.text2, sotto)
+        fun riga(c: Context, titolo: String, sotto: String) = RemoteViews(c.packageName, R.layout.riga_autofill).apply {
+            setTextViewText(R.id.titolo, titolo); setTextViewText(R.id.sotto, sotto)
         }
         /** Suggerimento nella barra della tastiera (SwiftKey, Gboard, tastiera Samsung). */
         fun inline(c: Context, s: InlinePresentationSpec, titolo: String, sotto: String): InlinePresentation? {
