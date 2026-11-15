@@ -1,8 +1,8 @@
 {
- "versione": "2.16.1",
- "sha256": "fe66f87daa17336f4ab8e043fa95c47265bc7637cd6f000292e2533707efdea4",
- "firma": "z5kU8YMP183EW/4mIQ6t4tZPERjK66uQfDIE+BCfvNthfj9nBdObRL6e6PPTdMTP3UvXcUoPVClV7tR/666GBA==",
- "note": "Fatturazione elettronica dei clienti tramite il canale SDI di D.L. S.A.S. (intermediario)",
+ "versione": "2.16.2",
+ "sha256": "88d6af680531e59c02924e2f10fafc51c6404229a0c91997cb6640533acf088d",
+ "firma": "1IenR0EUNUSTtTdsrN6cpIaDolhwqBupVuyoerFJWRuZfcc0fjQFG5Wrj9waDngptP8mBg47/VkJs32Ow2RoDA==",
+ "note": "Archivio di prova con dati inventati per provare tutte le funzioni",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.2.gdlupd"
 }
