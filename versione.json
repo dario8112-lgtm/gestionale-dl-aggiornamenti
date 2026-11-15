@@ -1,8 +1,8 @@
 {
- "versione": "2.16.2",
- "sha256": "88d6af680531e59c02924e2f10fafc51c6404229a0c91997cb6640533acf088d",
- "firma": "1IenR0EUNUSTtTdsrN6cpIaDolhwqBupVuyoerFJWRuZfcc0fjQFG5Wrj9waDngptP8mBg47/VkJs32Ow2RoDA==",
- "note": "Archivio di prova con dati inventati per provare tutte le funzioni",
+ "versione": "2.16.3",
+ "sha256": "427199bf8f9cf0150a953fc2a12ef19a02b2bdf42d2903772cdf9178e745d611",
+ "firma": "UK75udszXsOxxy8c2Mxxp3Ymbpi20CEuCNRiF5ggq58QeKUwlrTZ/SQCGNATC3PSbQ9NruDLOrP+phHX7YfbDw==",
+ "note": "Si possono eliminare e rinominare anche gli archivi aperti in sottofondo",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.2.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.3.gdlupd"
 }
