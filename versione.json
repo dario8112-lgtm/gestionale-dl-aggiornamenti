@@ -1,8 +1,8 @@
 {
- "versione": "2.16.5",
- "sha256": "23167b167561e30ff1205b853c0d9d3ab021db3a9037e9536105efa5d59a6700",
- "firma": "fnA3PobpzsMjrEEDEoSdOhsxW7oQFo+1rMApJ+UMWSP1jNVaSEyFz6k4iLkvgZLQq3bzXolLEI5B2eSzPHXuDw==",
- "note": "Ricarico % nella scheda del prodotto",
+ "versione": "2.16.6",
+ "sha256": "ad6b2ffbc26e70fe5021bf932f6dc89eb9347d81c297ac968fd78b7aefe380e4",
+ "firma": "n2o4J0A2WrT0bf2/SgpMv3f5Aun8bufG2Xj97HlbH12xIY4Q2gdmxZD9gStG5rSSOlqwhHIEdGoC0uEXB4CaBA==",
+ "note": "Aggiorna listini: ricarico predefinito, articoli senza costo lasciati com'erano, variazione in euro corretta",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.6.gdlupd"
 }
