@@ -1,8 +1,8 @@
 {
- "versione": "2.16.4",
- "sha256": "117d28d301b8b3ea995a3dfd3b990b7085c9e6a69b2127c0d43f4734cd5bbd93",
- "firma": "XN6qB/gzkHWeXaAHQ1TAMIr9MILR9xpc99umgqgs8kgoA4k03o7j9pgdTDeyaWEAC+Mfo+RiQVqUCNfU83fZDA==",
- "note": "Eliminazione archivi bloccati da Windows: nascosti e cancellati appena possibile",
+ "versione": "2.16.5",
+ "sha256": "23167b167561e30ff1205b853c0d9d3ab021db3a9037e9536105efa5d59a6700",
+ "firma": "fnA3PobpzsMjrEEDEoSdOhsxW7oQFo+1rMApJ+UMWSP1jNVaSEyFz6k4iLkvgZLQq3bzXolLEI5B2eSzPHXuDw==",
+ "note": "Ricarico % nella scheda del prodotto",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.5.gdlupd"
 }
