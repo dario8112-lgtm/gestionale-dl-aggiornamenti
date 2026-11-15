@@ -1,8 +1,8 @@
 {
- "versione": "2.15.4",
- "sha256": "715cbb7e1931344bbd4573b41c1af1cecf78e28b088ad868fe70e0065284afe9",
- "firma": "Q9dveZ9rU6/D1OMALAaYlQP7Wq7FuRdSL42rVdzF8lOONpS2h9nmKDINVfhYXvyqwlQ+rb9WFdVgDuFkP0LwCg==",
- "note": "Invio solleciti: nell'archivio Mouse solo le fatture /LA",
+ "versione": "2.15.5",
+ "sha256": "df77510914aefd04feb67558bdf3fa4997b09cd22ffe6b18fa2d40d8e9a7003a",
+ "firma": "aMiN5TUDrP6v05cE68QEL8cg464H4DZq6Sg808hYiVT4H9dm3suVZv+VTQ/mcjy6ex3p8UU67KkwPGeu3ItTDA==",
+ "note": "Solleciti: anteprima di quello che riceve il cliente e segnaposto in stile Danea",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.5.gdlupd"
 }
