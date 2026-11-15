@@ -1,8 +1,8 @@
 {
- "versione": "2.15.3",
- "sha256": "d96ecf0e02c253dd64df53a2290868b38bca3454f9a0d5eec6656792c52da91f",
- "firma": "e01NIgaruPoDsqsjKGZckzf+5XpFuIU5mgVkGqTVAPS3j2vN9T3a+XdSdHU4fEYb3HPcBpVMP69OSIzX3NZJBg==",
- "note": "Invio solleciti: solo le fatture /LA",
+ "versione": "2.15.4",
+ "sha256": "715cbb7e1931344bbd4573b41c1af1cecf78e28b088ad868fe70e0065284afe9",
+ "firma": "Q9dveZ9rU6/D1OMALAaYlQP7Wq7FuRdSL42rVdzF8lOONpS2h9nmKDINVfhYXvyqwlQ+rb9WFdVgDuFkP0LwCg==",
+ "note": "Invio solleciti: nell'archivio Mouse solo le fatture /LA",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.4.gdlupd"
 }
