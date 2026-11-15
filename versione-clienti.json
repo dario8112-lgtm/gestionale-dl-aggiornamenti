@@ -1,8 +1,8 @@
 {
- "versione": "2.16.3",
- "sha256": "427199bf8f9cf0150a953fc2a12ef19a02b2bdf42d2903772cdf9178e745d611",
- "firma": "UK75udszXsOxxy8c2Mxxp3Ymbpi20CEuCNRiF5ggq58QeKUwlrTZ/SQCGNATC3PSbQ9NruDLOrP+phHX7YfbDw==",
- "note": "Si possono eliminare e rinominare anche gli archivi aperti in sottofondo",
+ "versione": "2.16.4",
+ "sha256": "117d28d301b8b3ea995a3dfd3b990b7085c9e6a69b2127c0d43f4734cd5bbd93",
+ "firma": "XN6qB/gzkHWeXaAHQ1TAMIr9MILR9xpc99umgqgs8kgoA4k03o7j9pgdTDeyaWEAC+Mfo+RiQVqUCNfU83fZDA==",
+ "note": "Eliminazione archivi bloccati da Windows: nascosti e cancellati appena possibile",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.4.gdlupd"
 }
