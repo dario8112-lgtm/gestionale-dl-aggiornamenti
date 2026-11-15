@@ -1,8 +1,8 @@
 {
- "versione": "2.15.2",
- "sha256": "9bf34deda4679b576d835c7913ed8109fa10c1d38020c44f86803ecd741f818e",
- "firma": "BMdo9+bTv01xOU/fBXOr0hgtvx6KF75RvX2d3q2QSvE82GNgaLSUzzjOcx6PApzH1IifToYVJgi1ox0WxwmiBw==",
- "note": "PhoneClick → DDT: numero d'ordine letto correttamente e finestra che si chiude",
- "data": "2026-11-14",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.2.gdlupd"
+ "versione": "2.15.3",
+ "sha256": "d96ecf0e02c253dd64df53a2290868b38bca3454f9a0d5eec6656792c52da91f",
+ "firma": "e01NIgaruPoDsqsjKGZckzf+5XpFuIU5mgVkGqTVAPS3j2vN9T3a+XdSdHU4fEYb3HPcBpVMP69OSIzX3NZJBg==",
+ "note": "Invio solleciti: solo le fatture /LA",
+ "data": "2026-11-15",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.3.gdlupd"
 }
