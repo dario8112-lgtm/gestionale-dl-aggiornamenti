@@ -1,8 +1,8 @@
 {
- "versione": "2.15.5",
- "sha256": "df77510914aefd04feb67558bdf3fa4997b09cd22ffe6b18fa2d40d8e9a7003a",
- "firma": "aMiN5TUDrP6v05cE68QEL8cg464H4DZq6Sg808hYiVT4H9dm3suVZv+VTQ/mcjy6ex3p8UU67KkwPGeu3ItTDA==",
- "note": "Solleciti: anteprima di quello che riceve il cliente e segnaposto in stile Danea",
+ "versione": "2.15.6",
+ "sha256": "096e03b7746defcbb5904fe606bbe14aa6836f57357d3a805fd994cfa80eecc0",
+ "firma": "dQGWkF2aw/byl7LvaucQYWBkIIz74fIGybcos8/iMjGwbb1bgHDnbpbTZa3xa71Xq44RWoa4Pr+65e8KEAs6Cg==",
+ "note": "Solleciti: allegato il PDF delle fatture da saldare",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.6.gdlupd"
 }
