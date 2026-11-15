@@ -1,8 +1,8 @@
 {
- "versione": "2.16.0",
- "sha256": "a6faa6b16ec979afc140c1b689eabc9a732ed37804e1212c599696e31af457d1",
- "firma": "Vx5y2Eijse2dwCXPBtzD9+38KeYF11BCZwvcvcK4jVCsGrCZ8k65yGzxfGtgVx5H7De+5S3CCFsG9Tags/UOAw==",
- "note": "Edizione clienti: fornitori collegati e regole di prezzo disattivati (si attivano su richiesta)",
+ "versione": "2.16.1",
+ "sha256": "fe66f87daa17336f4ab8e043fa95c47265bc7637cd6f000292e2533707efdea4",
+ "firma": "z5kU8YMP183EW/4mIQ6t4tZPERjK66uQfDIE+BCfvNthfj9nBdObRL6e6PPTdMTP3UvXcUoPVClV7tR/666GBA==",
+ "note": "Fatturazione elettronica dei clienti tramite il canale SDI di D.L. S.A.S. (intermediario)",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.1.gdlupd"
 }
