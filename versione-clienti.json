@@ -1,8 +1,8 @@
 {
- "versione": "2.18.3",
- "sha256": "e9307fbae2f4800337892121fe31387918ff8083a8d7e4a551dbfd7f36dea419",
- "firma": "iwMSJGoAuip+3tE05LjKHopFax5BQA0qzZWDr/LQexgdicPXFssKYkQ3Bhqs7vSQarmReUxFOdo+a8j1TNCqCA==",
- "note": "Condizioni d'uso e accordo sul trattamento dei dati da accettare al primo avvio",
+ "versione": "2.18.4",
+ "sha256": "2f712f11e35eafa1eee87d835c2a6776704354a4bbe9bb37385a5980f5c1f5b7",
+ "firma": "lN2Fad44eNq4E6jv5WiyO6njSFsxJ1MSPCivRbc2k7AzcUO+G9RuliqYTDmWJbqZ5j+fDsoz2Mas1oMCfJzFCQ==",
+ "note": "QR code e istruzioni per installare l'app sul telefono",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.4.gdlupd"
 }
