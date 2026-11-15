@@ -1,8 +1,8 @@
 {
- "versione": "2.17.1",
- "sha256": "0e73e5e34a715c98bcd78de97411a4a22c3385bbc69741f7219909e5cbc3327e",
- "firma": "E6M38Ph+l0uLaQSdH5vEJj8pf40gJK8SFv/nsPiai5AsPbsqYI6sNhJvnWp57oTdVNQPxDS90XHinVdXqs6FDg==",
- "note": "Piani Start e Professional",
+ "versione": "2.18.0",
+ "sha256": "40bcb5e7aacc7b60c6f4e309d916b4f31860bff8e7b485cbd8bc31a6eeaaf0a8",
+ "firma": "RXH4ecKk9snvPQnccz2cCAKqAvt8ngmtcGvWJa1btQRL7MODXIZTP3f/715iTW5NCWiRyTRhmkMluGRJzO1QBg==",
+ "note": "PC principale e postazioni: più PC della rete sugli stessi archivi",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.17.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.0.gdlupd"
 }
