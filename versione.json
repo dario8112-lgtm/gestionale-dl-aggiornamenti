@@ -1,8 +1,8 @@
 {
- "versione": "2.15.6",
- "sha256": "096e03b7746defcbb5904fe606bbe14aa6836f57357d3a805fd994cfa80eecc0",
- "firma": "dQGWkF2aw/byl7LvaucQYWBkIIz74fIGybcos8/iMjGwbb1bgHDnbpbTZa3xa71Xq44RWoa4Pr+65e8KEAs6Cg==",
- "note": "Solleciti: allegato il PDF delle fatture da saldare",
+ "versione": "2.15.7",
+ "sha256": "dddd7c7b0e014246e0ea7b08eb7786d5fc63e5794bbc1d4d5abcd36dd1b35443",
+ "firma": "NGtlUQeU0gFoLRkmk1LEuvGT62S4J480l93BnF/g7bhPnq3D1ty8Z0A/A21n8ZNozwoCOSG79zECu+QYv567Bg==",
+ "note": "Solleciti: fatture in ordine di data",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.6.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.7.gdlupd"
 }
