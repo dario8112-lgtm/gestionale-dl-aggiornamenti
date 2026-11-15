@@ -1,8 +1,8 @@
 {
- "versione": "2.17.0",
- "sha256": "522ad4756f875aa1ac8011d559e4c7910f7341edc3f3254d2eedffc9fdd54419",
- "firma": "lrgphMrLHL/7p6c+Qw3S50BgCRwxF3/j8iFj6uhzZDRpgPmE2mBYF/KtPJpKoN0OztHCoAGSbQ9PANGUDm0NCw==",
- "note": "Piani Start e Negozio nelle licenze, con più postazioni per codice",
+ "versione": "2.17.1",
+ "sha256": "0e73e5e34a715c98bcd78de97411a4a22c3385bbc69741f7219909e5cbc3327e",
+ "firma": "E6M38Ph+l0uLaQSdH5vEJj8pf40gJK8SFv/nsPiai5AsPbsqYI6sNhJvnWp57oTdVNQPxDS90XHinVdXqs6FDg==",
+ "note": "Piani Start e Professional",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.17.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.17.1.gdlupd"
 }
