@@ -1,7 +1,7 @@
 {
  "versione": "2.16.6",
- "sha256": "ad6b2ffbc26e70fe5021bf932f6dc89eb9347d81c297ac968fd78b7aefe380e4",
- "firma": "n2o4J0A2WrT0bf2/SgpMv3f5Aun8bufG2Xj97HlbH12xIY4Q2gdmxZD9gStG5rSSOlqwhHIEdGoC0uEXB4CaBA==",
+ "sha256": "f3ccabeb96000bac8a551fc2d1c99f134b77f20dc61cf51179a1530e573d97be",
+ "firma": "kKuakD3dTzKuDJ93XyzWyRTsrLJB9h+QJTjHxxiz6yrwa+xwAm9gvJmVd7ciOmJZTKQaaInCJFXjC1amwb4UAA==",
  "note": "Aggiorna listini: ricarico predefinito, articoli senza costo lasciati com'erano, variazione in euro corretta",
  "data": "2026-11-15",
  "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.16.6.gdlupd"
