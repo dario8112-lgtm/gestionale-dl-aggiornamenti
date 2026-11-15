@@ -1,8 +1,8 @@
 {
- "versione": "2.18.0",
- "sha256": "40bcb5e7aacc7b60c6f4e309d916b4f31860bff8e7b485cbd8bc31a6eeaaf0a8",
- "firma": "RXH4ecKk9snvPQnccz2cCAKqAvt8ngmtcGvWJa1btQRL7MODXIZTP3f/715iTW5NCWiRyTRhmkMluGRJzO1QBg==",
- "note": "PC principale e postazioni: più PC della rete sugli stessi archivi",
+ "versione": "2.18.1",
+ "sha256": "e797781c040e289eded97255bf617369157b2933aa08082e0d8e3a98212972fb",
+ "firma": "I5axdW5xYKPuDvKgtXGhLUVeu/PL07P/dGvODyu0aK7GjvPNX9+blTDAQwBsU/mpHTST9KnoEfBMeL6ZiZVNAQ==",
+ "note": "Postazioni disattivabili per computer",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.1.gdlupd"
 }
