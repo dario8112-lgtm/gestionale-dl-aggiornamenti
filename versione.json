@@ -1,8 +1,8 @@
 {
- "versione": "2.15.8",
- "sha256": "738ca551f51417f76b7239fd4cab3302ea96325470aded5fc9dd1f8db3be4046",
- "firma": "Wtk09dj512+wj/IKkDlbgsp0XpQFYGGxEiv/zZ5x3NkTQur3WGjhOoXdPrB5RysZKYblQxC4xYCBJy7joWuECg==",
- "note": "Elenchi: ordinamento corretto delle colonne con le date",
+ "versione": "2.15.9",
+ "sha256": "471fbaef7719a10302c14964752f0a2487343a7b7d68f079c7c4787d26334bb2",
+ "firma": "r6qRPNVWQX2v9y7ZXxweSAlDzsETNywwz5tpTb4Y378Ct4AwocA14UJWjcZjhrFr56DkLSQppUHBICD+K8T9CA==",
+ "note": "Invio solleciti: Seleziona tutti e invio a più clienti insieme",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.8.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.9.gdlupd"
 }
