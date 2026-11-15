@@ -1,8 +1,8 @@
 {
- "versione": "2.15.7",
- "sha256": "dddd7c7b0e014246e0ea7b08eb7786d5fc63e5794bbc1d4d5abcd36dd1b35443",
- "firma": "NGtlUQeU0gFoLRkmk1LEuvGT62S4J480l93BnF/g7bhPnq3D1ty8Z0A/A21n8ZNozwoCOSG79zECu+QYv567Bg==",
- "note": "Solleciti: fatture in ordine di data",
+ "versione": "2.15.8",
+ "sha256": "738ca551f51417f76b7239fd4cab3302ea96325470aded5fc9dd1f8db3be4046",
+ "firma": "Wtk09dj512+wj/IKkDlbgsp0XpQFYGGxEiv/zZ5x3NkTQur3WGjhOoXdPrB5RysZKYblQxC4xYCBJy7joWuECg==",
+ "note": "Elenchi: ordinamento corretto delle colonne con le date",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.7.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.15.8.gdlupd"
 }
