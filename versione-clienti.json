@@ -1,8 +1,8 @@
 {
- "versione": "2.18.2",
- "sha256": "6ec0db61e51ca27689873d7ccb65ac0a1c0ab0eac06637fd9b2ffdecfcbeff44",
- "firma": "ylk0YWgGp7kLQQ2ncBszI/INxHH04Z39dSP2BHC/sRcAd7MdbqNEgmVK8SJZ8MQFXmlJcJXyUKM5+6hqqWj4CQ==",
- "note": "Assistenza su WhatsApp e promemoria per la conservazione a norma",
+ "versione": "2.18.3",
+ "sha256": "e9307fbae2f4800337892121fe31387918ff8083a8d7e4a551dbfd7f36dea419",
+ "firma": "iwMSJGoAuip+3tE05LjKHopFax5BQA0qzZWDr/LQexgdicPXFssKYkQ3Bhqs7vSQarmReUxFOdo+a8j1TNCqCA==",
+ "note": "Condizioni d'uso e accordo sul trattamento dei dati da accettare al primo avvio",
  "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.2.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.3.gdlupd"
 }
