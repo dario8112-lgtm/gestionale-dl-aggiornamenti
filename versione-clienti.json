@@ -1,8 +1,8 @@
 {
- "versione": "2.18.4",
- "sha256": "2f712f11e35eafa1eee87d835c2a6776704354a4bbe9bb37385a5980f5c1f5b7",
- "firma": "lN2Fad44eNq4E6jv5WiyO6njSFsxJ1MSPCivRbc2k7AzcUO+G9RuliqYTDmWJbqZ5j+fDsoz2Mas1oMCfJzFCQ==",
- "note": "QR code e istruzioni per installare l'app sul telefono",
- "data": "2026-11-15",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.4.gdlupd"
+ "versione": "2.18.5",
+ "sha256": "322ccaf441f58e34b6836598582426410a8d414f0a9d21cd4475affa92cc37f7",
+ "firma": "J+vJUUoNudVJbD74mPRgJWAhSwdIA8CCwbbFkE6swkbdsnKLBTxKK27UleP4hLMxHqjX/iSVFF3XKCBPVfRiBQ==",
+ "note": "Collegamenti sul desktop con il logo DL",
+ "data": "2026-11-16",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.5.gdlupd"
 }
