@@ -1,8 +1,8 @@
 {
- "versione": "2.18.8",
- "sha256": "eeb942598f1eb6e878329812f6ee462553ee03d245d0d6b3308a925932dbcc44",
- "firma": "Q/exHTzUX7Tw8vv+DvK2rmsEWTQVGbrw1o0HiAYeW6cVvIABsarXPnTxEuaMMhJT58LdF8azRpdHMa6TMarHCQ==",
- "note": "Archivi in sola lettura: avviso chiaro e riparazione dei permessi",
+ "versione": "2.18.9",
+ "sha256": "00317f97ac32afd7d984a80eb65ecaa6eec351bf4333230831e7a0b5571e5337",
+ "firma": "5Hi6joic8UbmUE6EMBcvpy5lS/qGzFXvVRMVw05UPCol860BHotPXEZcZXwmoceGLhjhYHraMOOPeN7kWAKKDA==",
+ "note": "Prova per i clienti nascosta nelle versioni dei clienti",
  "data": "2026-11-16",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.8.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.9.gdlupd"
 }
