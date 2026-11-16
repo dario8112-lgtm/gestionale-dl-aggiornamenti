@@ -1,8 +1,8 @@
 {
- "versione": "2.18.10",
- "sha256": "57a0db99615ba2c5d3bec24c130b424ea94edbb2edcb8e5664d0397eebcad563",
- "firma": "cODps75nwPGC7xILXSOfUyuB2clBENAIaBpKaaAab4DEBPupmbH61lIC6c2K4HU+M26S3FBzEDfRgP4RLCuLDQ==",
- "note": "Avviso della versione di prova spostato a sinistra",
+ "versione": "2.18.11",
+ "sha256": "95968da75bca235796a07dad3d5653934a3e35e60ce6ecb2e52f13871c18bb45",
+ "firma": "vpz2JQEeW8iZNukA7ywsTFmbL/pktjUiVcC9QZhRq6mJ+Op5NHU651hzp4nTHmjFsKP3Em1ZvmVeVC252vISBQ==",
+ "note": "QR del cellulare anche col servizio di Windows",
  "data": "2026-11-16",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.10.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.11.gdlupd"
 }
