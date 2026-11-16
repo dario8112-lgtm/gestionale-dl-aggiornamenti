@@ -1,8 +1,8 @@
 {
- "versione": "2.18.16",
- "sha256": "66b9a8ae022e2abb2c85d2e2fa424db149f358ba9806e3b78fbaba4513d1ddaf",
- "firma": "7GMuvTKFN2O6JZddeRW+rn+vIpCVshU/0wu8hLOSBzoed2/jbEZH49XKx60JEJru8TZNBKpp9Z2tJEDgbHcuAg==",
- "note": "App del cellulare: invio dei documenti per e-mail con il PDF allegato",
+ "versione": "2.18.17",
+ "sha256": "dfbc28e415f122dd3e96c3fde9172e029a0fbd7673cd88af7757b20b5e4197be",
+ "firma": "d/q5EpgYuIhl6vFDQsETBX9bE5CgSzSekmeekFjUyYvtYkmS6VNKXs7mk4dWUNP+bbdaV4dZVls1kHexhcUTCA==",
+ "note": "Registro dei download della versione di prova",
  "data": "2026-11-16",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.16.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.17.gdlupd"
 }
