@@ -1,8 +1,8 @@
 {
- "versione": "2.18.6",
- "sha256": "96dd08f2ab15b477adbec0c1a4b2993612f00542177c7c30f4165bf6a50699c9",
- "firma": "BIDKhZFG7BcJprGb2pR92G8nu/fEVgspD+ipIKpqDMzhT7sDnynpcbnUOE2ihhh1t0D8kw2TnOQEq8X8A/5wAA==",
- "note": "Stampe: titolo colonna prezzo corretto e logo trasparente",
+ "versione": "2.18.7",
+ "sha256": "ad19361c369415e084e7c79cc723ef61019a5cba3e5c795e203e96e6a648210d",
+ "firma": "0iwyp3w6yi7MaWNcPg7OT8vUXcoLltwuQvef+gyzabp0YAWBwceohwKKLX5OCkuvtvZzx2cegZ22HVVBsGh8BQ==",
+ "note": "Archivio di prova: niente più errore 'readonly database'",
  "data": "2026-11-16",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.6.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.7.gdlupd"
 }
