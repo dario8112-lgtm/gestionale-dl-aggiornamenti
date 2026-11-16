@@ -1,8 +1,8 @@
 {
- "versione": "2.18.9",
- "sha256": "00317f97ac32afd7d984a80eb65ecaa6eec351bf4333230831e7a0b5571e5337",
- "firma": "5Hi6joic8UbmUE6EMBcvpy5lS/qGzFXvVRMVw05UPCol860BHotPXEZcZXwmoceGLhjhYHraMOOPeN7kWAKKDA==",
- "note": "Prova per i clienti nascosta nelle versioni dei clienti",
+ "versione": "2.18.10",
+ "sha256": "57a0db99615ba2c5d3bec24c130b424ea94edbb2edcb8e5664d0397eebcad563",
+ "firma": "cODps75nwPGC7xILXSOfUyuB2clBENAIaBpKaaAab4DEBPupmbH61lIC6c2K4HU+M26S3FBzEDfRgP4RLCuLDQ==",
+ "note": "Avviso della versione di prova spostato a sinistra",
  "data": "2026-11-16",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.9.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.10.gdlupd"
 }
