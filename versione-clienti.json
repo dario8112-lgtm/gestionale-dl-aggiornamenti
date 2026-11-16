@@ -1,8 +1,8 @@
 {
- "versione": "2.18.14",
- "sha256": "b5d2247c27cc4b48e435457c9c955fce25ebb96f95dfa69f926a535cc6d52666",
- "firma": "/93FLFuy/Dguk1GNhGzEhOyaaQwu9mgLSb3Nx+1GM4WZW8qG7xhUItoMbB8XkC+iYoZ1IcTya+hTsjzYJiQbDA==",
- "note": "Servizio di Windows: si avvia correttamente anche dopo un aggiornamento",
+ "versione": "2.18.15",
+ "sha256": "f60312f54703e3618063df8c7591985e974ee74a13e3558814ef82a95c796644",
+ "firma": "MBrUooBu8aQHwTXLj+f9BDQjybA48WVym+KX2J8pF+bFq9Nc82ZcTgXgggGskrvFBaOBE7HDQJgfftK8Wc1+AA==",
+ "note": "Installando il servizio di Windows si apre anche il firewall per cellulare e browser",
  "data": "2026-11-16",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.14.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.15.gdlupd"
 }
