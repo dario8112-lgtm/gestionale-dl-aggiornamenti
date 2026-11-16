@@ -1,8 +1,8 @@
 {
- "versione": "2.18.11",
- "sha256": "95968da75bca235796a07dad3d5653934a3e35e60ce6ecb2e52f13871c18bb45",
- "firma": "vpz2JQEeW8iZNukA7ywsTFmbL/pktjUiVcC9QZhRq6mJ+Op5NHU651hzp4nTHmjFsKP3Em1ZvmVeVC252vISBQ==",
- "note": "QR del cellulare anche col servizio di Windows",
+ "versione": "2.18.12",
+ "sha256": "6f9511053ba0e7ba935444c483a5cadf38b2d756b5c7c1733dd38659fb294bc3",
+ "firma": "Bl7qDcNzkz+bHt9zIBSxDQMutaf8mMl/Nz3uv65M9sOctw2TBAOjYeyRsP9Qu/kMJcWq8izcV1kPU5bPt9fSBw==",
+ "note": "QR del cellulare con l'indirizzo della rete del negozio",
  "data": "2026-11-16",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.11.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.12.gdlupd"
 }
