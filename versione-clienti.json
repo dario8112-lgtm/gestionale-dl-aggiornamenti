@@ -1,8 +1,8 @@
 {
- "versione": "2.18.17",
- "sha256": "dfbc28e415f122dd3e96c3fde9172e029a0fbd7673cd88af7757b20b5e4197be",
- "firma": "d/q5EpgYuIhl6vFDQsETBX9bE5CgSzSekmeekFjUyYvtYkmS6VNKXs7mk4dWUNP+bbdaV4dZVls1kHexhcUTCA==",
- "note": "Registro dei download della versione di prova",
+ "versione": "2.18.18",
+ "sha256": "dcb1b05854f7bcae15efc3dbbc7fdde140983b9ec241b65d2bc39a17e1798fa9",
+ "firma": "T5uvcz+h1BZleQ2kiY4yga5r+69Fj08kCZ8CFKDVG1i6g0hTs+X64lcKLbTeNPOk/jfjgciVTzsira1njj3jCQ==",
+ "note": "Prove scaricate: tabelle più leggibili",
  "data": "2026-11-16",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.17.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.18.gdlupd"
 }
