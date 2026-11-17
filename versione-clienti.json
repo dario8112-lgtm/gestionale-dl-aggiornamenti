@@ -1,8 +1,8 @@
 {
- "versione": "2.19.13",
- "sha256": "bf31e3d7555910b3f89f9c908e5c61d74a0648edcdc1e96f62e196a83bde3303",
- "firma": "naI8uIjl5HcH3fvUUGgimFpfILrdeIinu7Xj0W2HCdy8h9/3l/9Dtcvf+cNakGvJ4CNQIXaaqcIseOqL4R7JCQ==",
- "note": "Assistenza remota: il server si presenta con l'indirizzo di rete locale",
+ "versione": "2.19.14",
+ "sha256": "10c83835bb7025efc0c9da0185d7d977cfc6b655651b041669da8af9a632156d",
+ "firma": "E8++4joi6lVQaBSTweZKZMytg2YLI1UkOSRPm6RIq7QNaKe1PXt1jF2QXugUItESplJtFHPxqr+Y9s8argTZAA==",
+ "note": "Assistenza remota: immagine corretta (codec VP9)",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.13.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.14.gdlupd"
 }
