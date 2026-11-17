@@ -1,8 +1,8 @@
 {
- "versione": "2.18.26",
- "sha256": "1a1a0950c5c9a678a2143ce2164d12db6e0a21f48a5039948c699ac603824880",
- "firma": "3Whmu/iqEd6+XzdX9J5+pI5/wJde0NaeZzm+dtCtuMeiiQHNLy6cxBKOiu/jVhg4CwftGLBm3uEMNABJupTaDQ==",
- "note": "Start: riquadro e finestra dei clienti contattati per la prova del gestionale",
+ "versione": "2.18.27",
+ "sha256": "24c772f0fd5fb75e5710122a6c9f49c59e5f69b16ef77e0d026315fd4823cbbd",
+ "firma": "eTFz0+W6+obHzy71bz6vp+qhWP6+HcdyQlV+UER0WBrvxy+FYcNkx/XfKAly3rNpLIF4rvgQwBL8aIQCmnlJBA==",
+ "note": "Riquadro prova gestionale sempre visibile su Start (DL SAS)",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.26.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.27.gdlupd"
 }
