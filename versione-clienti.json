@@ -1,8 +1,8 @@
 {
- "versione": "2.18.21",
- "sha256": "c58bf563c81a30a255d29efc33252e2bb2cf30819910118f47984be87a5673c1",
- "firma": "Xk1ECS1hd/7cLyVPvqpvee/QGlZLYUjaM4kzEBCKFAd8fTXcAPTpM/a1UTEZ0Zan1fHC6NFr7gIIDRrJffbECA==",
- "note": "Messaggi della prova firmati Mouse Langhirano",
+ "versione": "2.18.22",
+ "sha256": "b24c79eda7e93efd839bbdf6e9a4e131fdc1f231535f2023c56330a4e23ad825",
+ "firma": "rU+LaBLRzWpU6qvVyjDlj1Wi1xbIu0H+GS5sjcNEF7xA7Nheqi6Zj8iMFjmybg/hL7Kzto2bDopFCCZKhaWwCA==",
+ "note": "Prova del gestionale: funzioni solo nell'archivio DL SAS",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.21.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.22.gdlupd"
 }
