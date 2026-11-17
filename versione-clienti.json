@@ -1,8 +1,8 @@
 {
- "versione": "2.18.30",
- "sha256": "63ba99899b025d016c8412a80bfc8b4790aeac21b19855a7fb5396534af47499",
- "firma": "dFrgJMfVHMEfjKcFccdN+lmHNsdJKIFtM2+YIZ6WKWW4xVMkMdcINtXImh/EM+JyiWqKG6J0EgOr2/8UtZREAg==",
- "note": "WhatsApp: la chat si apre senza ricaricare WhatsApp Web",
+ "versione": "2.18.31",
+ "sha256": "50e4e3114f92d97a8e978477f886d63f2342173740154fe68a1da3ff483191da",
+ "firma": "s3VsykKLC7xAp6JuWRZtOLENtX5lDpMenFmc9VoTndJfPty/OSInOnSQkX8hrvLLGEiwWYQREIJfFRvPV8NTDg==",
+ "note": "WhatsApp: il messaggio mantiene gli a capo",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.30.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.31.gdlupd"
 }
