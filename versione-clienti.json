@@ -1,8 +1,8 @@
 {
- "versione": "2.19.12",
- "sha256": "89993255031793cdaaf576964a3acc46928ec23717e6c0858c15eedbe7c4951f",
- "firma": "jEY7XkgQN+YSgxDszpkzmyWcGRgvdMyFfvPOjoKjF4avAPcFCaF89do/VR1+gIdYPA/ZXsw3VmsSPkyrenk7BA==",
- "note": "Assistenza remota: collegamento sempre tramite relay",
+ "versione": "2.19.13",
+ "sha256": "bf31e3d7555910b3f89f9c908e5c61d74a0648edcdc1e96f62e196a83bde3303",
+ "firma": "naI8uIjl5HcH3fvUUGgimFpfILrdeIinu7Xj0W2HCdy8h9/3l/9Dtcvf+cNakGvJ4CNQIXaaqcIseOqL4R7JCQ==",
+ "note": "Assistenza remota: il server si presenta con l'indirizzo di rete locale",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.12.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.13.gdlupd"
 }
