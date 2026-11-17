@@ -1,8 +1,8 @@
 {
- "versione": "2.19.9",
- "sha256": "c552992048b46303a0dd3ba892a3348e903d9595940cafec29182431484cbda1",
- "firma": "T0XMY+hv3+RoCKmesHIIxfdBbt/jRIieH4DLSsgT2AQNzXam7U6Uh2xmxB/S4YvOMmW3zwZViljWLE5l4wrJAg==",
- "note": "Assistenza remota: diagnostica e sblocco firewall del relay",
+ "versione": "2.19.10",
+ "sha256": "539e6fd9cfc26d7f23e6e3f47c9cbab35ac9689a06436f5981649e09971c7d3d",
+ "firma": "WCUJaFCTG1RuQwrdFmWg3SXLxfRRy6EuV34csw1U4NeTBa6dpB7TUALvAzbsuzGpcuIK/KrYTT7vr7j9aZC8AA==",
+ "note": "Assistenza remota: diagnostica corretta",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.9.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.10.gdlupd"
 }
