@@ -1,8 +1,8 @@
 {
- "versione": "2.19.15",
- "sha256": "050239cb4c43df9c255c6b04a398cdc87c4219c0b9f334b0e4c5f498cf7e69cd",
- "firma": "DJWdiCizzlOS7Z7MW67aApuYBzL8xYF23h+7zS1nAmTn9Shz4QOsvjaMlezURJ+ZvbLwbJ+I7MHiCukgLDe5BQ==",
- "note": "Assistenza remota: usa il RustDesk installato per collegarsi",
+ "versione": "2.19.16",
+ "sha256": "e6dd53a200667f16689c8c97b76c16b125f44fd149f7e917376ff3f7f0b16626",
+ "firma": "14Qq6D8QpLmjPZZmi7L4n+aIdxZPeBrNZpGqXAjA4+T+N+I2+LlSAm9CcccOla3XCMEqlFr7WBsPQgmge8+qDA==",
+ "note": "Assistenza remota: eliminare le richieste",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.15.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.16.gdlupd"
 }
