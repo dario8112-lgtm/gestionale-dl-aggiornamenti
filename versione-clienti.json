@@ -1,8 +1,8 @@
 {
- "versione": "2.19.5",
- "sha256": "75a2a7fd652922eb7c914e3bdeb0da39149d9fb6f6bed60f9556609b72581460",
- "firma": "XsrWeD3VCemibq0JpC9v9z8yQ9yAJdwaJq6HmD1dZLr+nucndBHtsqUgmqEDNC85bjHq3ZUG8awI/3wmifhyDg==",
- "note": "Assistenza remota: clienti con RustDesk già installato",
+ "versione": "2.19.6",
+ "sha256": "c66c09326d0c0a1818204b6a507e864e9d613395806c159ae901937b23d59c76",
+ "firma": "PuAOZXxYMDiT3cKlTx+rXKsKoT/WKt3UxmzsWk33uaTfzjn0hSZ1ddgBxQD96vfZBUbC2AFZbGBBB2lvyBLHBg==",
+ "note": "Assistenza remota: RustDesk installato collegato al server DL",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.6.gdlupd"
 }
