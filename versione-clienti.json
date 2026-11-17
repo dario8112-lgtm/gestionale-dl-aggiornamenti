@@ -1,8 +1,8 @@
 {
- "versione": "2.18.19",
- "sha256": "ee79ed3c81c9d681cb07e006afb05eea27a124911e44951ed9df0a091cd50559",
- "firma": "Z6bsxVV3bRGNBKYT4ljAf7WjwHm7KPg34aOPRhENrp1vMtQrqufpEMdlpcKwO8XzOfv3h2IssyqgLv0cI+3tCA==",
- "note": "Clienti: invio del link della prova su WhatsApp con un clic",
+ "versione": "2.18.20",
+ "sha256": "778d541a54092160ef233f5aafe4591d47e5488868ccf0beb6ec32cdea168934",
+ "firma": "B7UzwaFOcNgEUuov0/iqJWACl53jdOHDu9euSCoGheSfxhb8C277RLlFl6DwbXSmXSb7lejdt9S1XDZa2IcWAA==",
+ "note": "Clienti: e-mail con il link della prova già scritta",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.19.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.20.gdlupd"
 }
