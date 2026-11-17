@@ -1,8 +1,8 @@
 {
- "versione": "2.18.27",
- "sha256": "24c772f0fd5fb75e5710122a6c9f49c59e5f69b16ef77e0d026315fd4823cbbd",
- "firma": "eTFz0+W6+obHzy71bz6vp+qhWP6+HcdyQlV+UER0WBrvxy+FYcNkx/XfKAly3rNpLIF4rvgQwBL8aIQCmnlJBA==",
- "note": "Riquadro prova gestionale sempre visibile su Start (DL SAS)",
+ "versione": "2.18.28",
+ "sha256": "561b8cfb9c3c298e3a45e1a2aa43f9ebcb5b4b95f90312d15acc89a3971e9b29",
+ "firma": "ofvCL9UZ2BYKOCA8qEe8XSrTUOvrbuoDNWRW0Bxi3K5aYVavAmpAStVaqvrnZB9wEqLI11iZ1T2QAVz/qe34Dg==",
+ "note": "WhatsApp Web in una sola finestra; nome completo nel messaggio della prova",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.27.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.28.gdlupd"
 }
