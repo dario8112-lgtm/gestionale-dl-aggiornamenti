@@ -1,8 +1,8 @@
 {
- "versione": "2.18.23",
- "sha256": "6b7da027a47f0e7709f230aabf80bd14f9cf5338dbe045cae64dd9c5e6387788",
- "firma": "/rTGnUoa5/86z04L+8Zftw17OUuG41qlpkcaB8g2FWnda7vhLpis+Ya7EZe6FCfB+pUI0YAdZ+N58t0T4tFtCw==",
- "note": "Clienti DL SAS: colonna codice destinatario",
+ "versione": "2.18.24",
+ "sha256": "f5e051f3119891dfda244ca2bbb5f2041f0be44689115e7e95b21379cfe7b05a",
+ "firma": "Ml4uoXXxJtx/r0sw5TUihPi7+faGEAMaS0ZAqHOVayTVgPKtx3dR/qhCQBEzT5B63GDGFYXdBkPwuyX6eXKEBw==",
+ "note": "WhatsApp si apre su WhatsApp Web",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.23.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.24.gdlupd"
 }
