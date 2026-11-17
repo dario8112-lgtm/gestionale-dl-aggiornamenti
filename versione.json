@@ -1,8 +1,8 @@
 {
- "versione": "2.19.2",
- "sha256": "a9f2717a7a6f28e24d600ee946bcfcf2f97818a0aa20f4c01d31e3f9d6285ca1",
- "firma": "wcXjPmjnch2nJX3ybjHEcmHYXSf9CF5frUXrRxNx8TeBF+Bo24FISTd7KoghF0w2s1I/GtIVMp0UhGwxmPiLDg==",
- "note": "Assistenza remota: corretto il download del server",
+ "versione": "2.19.3",
+ "sha256": "16f44fcd8e532347ca108e07ff7b0904b4fa3f957f2a47b875610424cf7f2a54",
+ "firma": "0t+YqMoec+AKw6d8KB2TVg940v0zThhabRYt8Gu4ENYO0F0C6gemGKAGbe85ygLnLUKcMYaG1KKq+4/flC7FBA==",
+ "note": "Assistenza remota: lettura dell'ID di RustDesk",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.2.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.3.gdlupd"
 }
