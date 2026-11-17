@@ -1,8 +1,8 @@
 {
- "versione": "2.19.8",
- "sha256": "348806e92ef4673dab252fd0f85e12692f7df326fca83daf9f76d04c59ed2b81",
- "firma": "tuYopd+3NFBzwTNruQypAw7w9s7pOi+xdvseQOlN7zDbEmRqj8vap8iP/psQ42zlZUEVyi7bEBLM3zSTssKsDw==",
- "note": "Assistenza remota: riavvio del servizio RustDesk dopo la configurazione",
+ "versione": "2.19.9",
+ "sha256": "c552992048b46303a0dd3ba892a3348e903d9595940cafec29182431484cbda1",
+ "firma": "T0XMY+hv3+RoCKmesHIIxfdBbt/jRIieH4DLSsgT2AQNzXam7U6Uh2xmxB/S4YvOMmW3zwZViljWLE5l4wrJAg==",
+ "note": "Assistenza remota: diagnostica e sblocco firewall del relay",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.8.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.9.gdlupd"
 }
