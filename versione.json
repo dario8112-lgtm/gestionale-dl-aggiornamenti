@@ -1,8 +1,8 @@
 {
- "versione": "2.18.28",
- "sha256": "561b8cfb9c3c298e3a45e1a2aa43f9ebcb5b4b95f90312d15acc89a3971e9b29",
- "firma": "ofvCL9UZ2BYKOCA8qEe8XSrTUOvrbuoDNWRW0Bxi3K5aYVavAmpAStVaqvrnZB9wEqLI11iZ1T2QAVz/qe34Dg==",
- "note": "WhatsApp Web in una sola finestra; nome completo nel messaggio della prova",
+ "versione": "2.18.29",
+ "sha256": "641256a908f60d4f51ddc2396f3d9d75d69ee82008903052b7ec6ad7bb136bc6",
+ "firma": "YdULB3/c+XPS2YEWZwO8NNlAIu/loG3OWxC37xKIXRmmgDNN2YO46qZB0KSTMtSzkXzMPXkTvnPSc8a6KcJHCg==",
+ "note": "Finestra prova gestionale più leggibile",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.28.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.29.gdlupd"
 }
