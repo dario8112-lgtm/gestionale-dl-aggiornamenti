@@ -1,8 +1,8 @@
 {
- "versione": "2.19.4",
- "sha256": "e797ee4b1b0af8da656c36093c64403ce5658b1d3a590171cdd89a7a4228a190",
- "firma": "CGo9KO8hzJ7eNWWel6XnWYjmZRT8KCaAELA/lSQ5S37mqemUgZnAyFQGSEQVxK0r8Usiu8MxrJ7FS2ik5ciiCg==",
- "note": "Assistenza remota: collegamento dal server in locale, apertura porte firewall",
+ "versione": "2.19.5",
+ "sha256": "75a2a7fd652922eb7c914e3bdeb0da39149d9fb6f6bed60f9556609b72581460",
+ "firma": "XsrWeD3VCemibq0JpC9v9z8yQ9yAJdwaJq6HmD1dZLr+nucndBHtsqUgmqEDNC85bjHq3ZUG8awI/3wmifhyDg==",
+ "note": "Assistenza remota: clienti con RustDesk già installato",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.5.gdlupd"
 }
