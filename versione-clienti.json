@@ -1,8 +1,8 @@
 {
- "versione": "2.18.24",
- "sha256": "f5e051f3119891dfda244ca2bbb5f2041f0be44689115e7e95b21379cfe7b05a",
- "firma": "Ml4uoXXxJtx/r0sw5TUihPi7+faGEAMaS0ZAqHOVayTVgPKtx3dR/qhCQBEzT5B63GDGFYXdBkPwuyX6eXKEBw==",
- "note": "WhatsApp si apre su WhatsApp Web",
+ "versione": "2.18.25",
+ "sha256": "89febeae6b4c622e7ba8251ec634bab8aee7f19fc22fea07b4f5bf2c73df8ed5",
+ "firma": "f9l18Bnm038r3SqvgclJDdO23T+Mv86B4/Pu+A7aAcrjMlyN5CIIJnkMu1UtG3ClAfg5gxWstaSLfByio5Y6BA==",
+ "note": "Nuovo messaggio WhatsApp per la prova",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.24.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.25.gdlupd"
 }
