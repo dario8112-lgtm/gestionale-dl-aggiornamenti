@@ -1,8 +1,8 @@
 {
- "versione": "2.18.20",
- "sha256": "778d541a54092160ef233f5aafe4591d47e5488868ccf0beb6ec32cdea168934",
- "firma": "B7UzwaFOcNgEUuov0/iqJWACl53jdOHDu9euSCoGheSfxhb8C277RLlFl6DwbXSmXSb7lejdt9S1XDZa2IcWAA==",
- "note": "Clienti: e-mail con il link della prova già scritta",
+ "versione": "2.18.21",
+ "sha256": "c58bf563c81a30a255d29efc33252e2bb2cf30819910118f47984be87a5673c1",
+ "firma": "Xk1ECS1hd/7cLyVPvqpvee/QGlZLYUjaM4kzEBCKFAd8fTXcAPTpM/a1UTEZ0Zan1fHC6NFr7gIIDRrJffbECA==",
+ "note": "Messaggi della prova firmati Mouse Langhirano",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.20.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.21.gdlupd"
 }
