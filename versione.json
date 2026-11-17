@@ -1,8 +1,8 @@
 {
- "versione": "2.19.10",
- "sha256": "539e6fd9cfc26d7f23e6e3f47c9cbab35ac9689a06436f5981649e09971c7d3d",
- "firma": "WCUJaFCTG1RuQwrdFmWg3SXLxfRRy6EuV34csw1U4NeTBa6dpB7TUALvAzbsuzGpcuIK/KrYTT7vr7j9aZC8AA==",
- "note": "Assistenza remota: diagnostica corretta",
+ "versione": "2.19.11",
+ "sha256": "95192e4da426285eb3af802a08849705fc5965eba59d87edb379a18c6fa664e8",
+ "firma": "07dFeN6NWgFmf+M4PnqPKMpmIXfBBCEPjTzjDYgDb2wUZ3eGl4MG/GY6WlEGpYchdSmtKQeC+FbFZQ/KU/ppDQ==",
+ "note": "Assistenza remota: diagnostica",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.10.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.11.gdlupd"
 }
