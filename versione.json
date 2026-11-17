@@ -1,8 +1,8 @@
 {
- "versione": "2.18.31",
- "sha256": "50e4e3114f92d97a8e978477f886d63f2342173740154fe68a1da3ff483191da",
- "firma": "s3VsykKLC7xAp6JuWRZtOLENtX5lDpMenFmc9VoTndJfPty/OSInOnSQkX8hrvLLGEiwWYQREIJfFRvPV8NTDg==",
- "note": "WhatsApp: il messaggio mantiene gli a capo",
+ "versione": "2.19.0",
+ "sha256": "0d51e073767f1f38a50a610de65824dba5b7cccf481a95714b7bc12e3da8e894",
+ "firma": "EdwS9yprd8is9g6fBvuQ5qH6qJfRGXfsoFe0oxGQnvR1+9Q0Tcd5DZQiBXJ2MFFVbH7ja6Q4B+JanSgBeH8GDA==",
+ "note": "Assistenza remota integrata (Aiuto › Richiedi assistenza remota)",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.31.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.0.gdlupd"
 }
