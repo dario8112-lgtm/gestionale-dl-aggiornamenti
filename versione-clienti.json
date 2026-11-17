@@ -1,8 +1,8 @@
 {
- "versione": "2.18.25",
- "sha256": "89febeae6b4c622e7ba8251ec634bab8aee7f19fc22fea07b4f5bf2c73df8ed5",
- "firma": "f9l18Bnm038r3SqvgclJDdO23T+Mv86B4/Pu+A7aAcrjMlyN5CIIJnkMu1UtG3ClAfg5gxWstaSLfByio5Y6BA==",
- "note": "Nuovo messaggio WhatsApp per la prova",
+ "versione": "2.18.26",
+ "sha256": "1a1a0950c5c9a678a2143ce2164d12db6e0a21f48a5039948c699ac603824880",
+ "firma": "3Whmu/iqEd6+XzdX9J5+pI5/wJde0NaeZzm+dtCtuMeiiQHNLy6cxBKOiu/jVhg4CwftGLBm3uEMNABJupTaDQ==",
+ "note": "Start: riquadro e finestra dei clienti contattati per la prova del gestionale",
  "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.25.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.18.26.gdlupd"
 }
