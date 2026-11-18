@@ -1,8 +1,8 @@
 {
- "versione": "2.20.10",
- "sha256": "42915ed298a3218832dfa1a5ba15668210936050a40cb4de5323e8a44848dda4",
- "firma": "e+rWxZJ8UiIZPnQJsKoSu6k/m79L/zqzFc2MVy6mH1DihkYJ/3iwc/UrHg/FHhd3WNNB0wqHL2zffyvomD1lCQ==",
- "note": "Webroot: secondo avviso con disattivazione a fine mese",
+ "versione": "2.20.11",
+ "sha256": "25db04ebfd3aba43607b8591e049ec2332b3614251dca86e8aa6dfc56d060052",
+ "firma": "tf+bGp9zu0MIgU7rrvbUuQPCm6KujlMjbUiWjquJnNbiBjK5CaRw526KBS7r0h5FLYrPH1jVeQSa6lRJeIpQAw==",
+ "note": "Copia su chiavetta: anche il servizio SDI con i certificati",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.10.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.11.gdlupd"
 }
