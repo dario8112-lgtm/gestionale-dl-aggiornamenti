@@ -1,8 +1,8 @@
 {
- "versione": "2.20.7",
- "sha256": "ed6261511942fc0e70d2a66ef471b781b2ccb40eeef6299dcd284d86f933dc54",
- "firma": "JoLldXOSOg+vnPE9nnQdEnDJ+5fVprEkn7pbx69xOteKk7ET09ASOKLwTeePWQdQazBvmZwq+I+bhFAmc0BFCg==",
- "note": "Fatture elettroniche inviate: periodo Tutti",
+ "versione": "2.20.8",
+ "sha256": "3db872d8bb4f51c14bb66377daee94d366550c17d28d158bbed3115e978604a0",
+ "firma": "C02mqzSXk1FumV3QFAX9LBpGDc+H8k6eIm1EJSelpbn9hOt5A5MNH+BVxOtBlwEGM72kOdz+otAxcKAWHVcIAw==",
+ "note": "Stampa: destinazione uguale al destinatario se non indicata; importo ivato senza arrotondamenti",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.7.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.8.gdlupd"
 }
