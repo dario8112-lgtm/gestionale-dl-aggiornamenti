@@ -1,8 +1,8 @@
 {
- "versione": "2.19.17",
- "sha256": "ad8dabf3c5473b1623fe36f546a05c1d631d737060006cd2deb16866824315e3",
- "firma": "cibFA+9mnAA+Ey3tsejhHLOk7GL+yvtK7g5jiJg4EQTRC5kR9G9MuDcC0N++QUaza+YLLgC7dxEshs79LHBZDg==",
- "note": "Invio solleciti: apri cliente e fattura",
+ "versione": "2.19.18",
+ "sha256": "4ddf29670ac2d89bbd913d0a0fa602979df045e4d4ea3d419f26ea5b3d7df92f",
+ "firma": "M9f+lwZPsjuAR9BYduMJKK5xCPIRB7i0PxYDDxax0o+cuP2z/WM1GuquzFDisaRwxYLypV/812vHjEJGcX9EBA==",
+ "note": "Invio solleciti: colonna con data e ora dell'ultimo sollecito",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.17.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.18.gdlupd"
 }
