@@ -1,8 +1,8 @@
 {
- "versione": "2.20.5",
- "sha256": "54454a75ff584297d1077c3d14eb8308da7d094cec10bc4bab65855006c375d4",
- "firma": "b4CP5TaQkmSDzQuwwoZTIpmqL2+jcUuqThXRUCLzLcs9PKkZqa2O2NWAidDS/EDOFRSLt1k+UGjybFMCw5agDQ==",
- "note": "Ricerca clienti: avviso quando non ci sono risultati",
+ "versione": "2.20.6",
+ "sha256": "0427c8a5460d309f070d7e262200be30fe6332111337de4d361108fab3cde959",
+ "firma": "n9meS0zHRaI2uqsoXUcQx1x3f2VIG5vqb9cbmBL/Hp9WefjZwLFofeEDbr+2N5w+JL2dpbvxN1Aexw7hdxcDCg==",
+ "note": "Clienti: copia dei clienti da un altro archivio senza doppioni",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.5.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.6.gdlupd"
 }
