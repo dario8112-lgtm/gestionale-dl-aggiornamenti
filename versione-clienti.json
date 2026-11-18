@@ -1,8 +1,8 @@
 {
- "versione": "2.20.6",
- "sha256": "0427c8a5460d309f070d7e262200be30fe6332111337de4d361108fab3cde959",
- "firma": "n9meS0zHRaI2uqsoXUcQx1x3f2VIG5vqb9cbmBL/Hp9WefjZwLFofeEDbr+2N5w+JL2dpbvxN1Aexw7hdxcDCg==",
- "note": "Clienti: copia dei clienti da un altro archivio senza doppioni",
+ "versione": "2.20.7",
+ "sha256": "ed6261511942fc0e70d2a66ef471b781b2ccb40eeef6299dcd284d86f933dc54",
+ "firma": "JoLldXOSOg+vnPE9nnQdEnDJ+5fVprEkn7pbx69xOteKk7ET09ASOKLwTeePWQdQazBvmZwq+I+bhFAmc0BFCg==",
+ "note": "Fatture elettroniche inviate: periodo Tutti",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.6.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.7.gdlupd"
 }
