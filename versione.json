@@ -1,8 +1,8 @@
 {
- "versione": "2.20.0",
- "sha256": "140187739dcb8fe3e434689a2d2341ec9bfac114ae4e5d190e636fa166fc8299",
- "firma": "CDw5N+lY53/zahwhNOsDkVyQ1mnYuBcli7tjHvEhw3z+PXO4AMi12vEQ4AVosefLvIsfGHDbzvA93LLe+msLBQ==",
- "note": "Invio solleciti come Danea: una riga per scadenza, data e descrizione del sollecito",
+ "versione": "2.20.1",
+ "sha256": "d6a5766a035e155c66995a646bf7d96cad1ecf7b98da76ab4a70417e9150cc16",
+ "firma": "7mjN1G6vZCAPQbqrIWIwUtf6/D5kauFZEcHaaR5VQ0ITSxUekAegTXBDpWsNEACaJWe+y1mzHu+GXaEYLPPNCQ==",
+ "note": "Solleciti: anteprima e spunta PDF",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.0.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.1.gdlupd"
 }
