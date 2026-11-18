@@ -1,8 +1,8 @@
 {
- "versione": "2.20.9",
- "sha256": "f703eef85dc9b3b0d0898f8ac555b32580206257846bfbb2fb20f116059a4e9f",
- "firma": "KKqNLJnw+mqPFG2/xpqWYg46IU1aET4PhVEmLg83rQs0atlVH9SzHO0zORFQ2toVjgKl5HZ1NK1Exu96ymHICQ==",
- "note": "WhatsApp: il PDF del documento viene allegato direttamente",
+ "versione": "2.20.10",
+ "sha256": "42915ed298a3218832dfa1a5ba15668210936050a40cb4de5323e8a44848dda4",
+ "firma": "e+rWxZJ8UiIZPnQJsKoSu6k/m79L/zqzFc2MVy6mH1DihkYJ/3iwc/UrHg/FHhd3WNNB0wqHL2zffyvomD1lCQ==",
+ "note": "Webroot: secondo avviso con disattivazione a fine mese",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.9.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.10.gdlupd"
 }
