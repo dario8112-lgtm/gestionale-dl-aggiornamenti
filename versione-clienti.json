@@ -1,8 +1,8 @@
 {
- "versione": "2.20.12",
- "sha256": "5a2da4a79b098019f8288b1e2b0b37b38fb5152a0d9983d265c042d5ab203583",
- "firma": "N/g1WnP/0aSJ59eT3B18eoYkWfbzaCH7dfkm7hLh8F6QU6Ma1FnatZkS8v/F1u4cooPjGuOjv/7i3TQSenQaBw==",
- "note": "Elenchi documenti: clic sul cliente apre la scheda",
+ "versione": "2.20.13",
+ "sha256": "10399788f18edfbe3430274e32d8a24cbf63bfd2d282be1cb05227692124ca6e",
+ "firma": "SlZ1pCQmQetIxTC94nCjSypGNoPAPijJG2pF64u29blolwtu66IZ/FRJvbcYog0NrzwmsTqBLS+Wx+cyr8OFDg==",
+ "note": "Assistenza: pulsante 'RustDesk normale' per rimettere RustDesk com'era",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.12.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.13.gdlupd"
 }
