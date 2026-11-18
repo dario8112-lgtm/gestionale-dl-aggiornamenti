@@ -1,8 +1,8 @@
 {
- "versione": "2.20.4",
- "sha256": "81b87ab5ef7b323f6020589fdc5976325ae6746da21e90bba2ce60cd5c0f80c3",
- "firma": "BcOwRm6riGyYpRsvBhH8VW4nU5gYRP3EsrV/wbU5clrvxkrTiaMN11rylDVFdTky1JBbaygstf26a+LEoIX5Ag==",
- "note": "Etichette: avviso se si stampa un modello A4 sull'etichettatrice",
+ "versione": "2.20.5",
+ "sha256": "54454a75ff584297d1077c3d14eb8308da7d094cec10bc4bab65855006c375d4",
+ "firma": "b4CP5TaQkmSDzQuwwoZTIpmqL2+jcUuqThXRUCLzLcs9PKkZqa2O2NWAidDS/EDOFRSLt1k+UGjybFMCw5agDQ==",
+ "note": "Ricerca clienti: avviso quando non ci sono risultati",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.4.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.5.gdlupd"
 }
