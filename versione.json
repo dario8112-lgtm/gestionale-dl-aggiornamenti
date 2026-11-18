@@ -1,8 +1,8 @@
 {
- "versione": "2.20.1",
- "sha256": "d6a5766a035e155c66995a646bf7d96cad1ecf7b98da76ab4a70417e9150cc16",
- "firma": "7mjN1G6vZCAPQbqrIWIwUtf6/D5kauFZEcHaaR5VQ0ITSxUekAegTXBDpWsNEACaJWe+y1mzHu+GXaEYLPPNCQ==",
- "note": "Solleciti: anteprima e spunta PDF",
+ "versione": "2.20.2",
+ "sha256": "0dfd97b83474ce4ecb5ada5afc8d5989d2c361a9a09f56328eeca732bb4345dc",
+ "firma": "ijeI2dxy0idfCdL0eVsE+QpQ2GvCNQwpm58QbXU+bmiXbmS1AWILqGGfs/xstA5DRkdxGyLwBXZc45OLULHDAQ==",
+ "note": "Solleciti: finestra di avanzamento dell'invio",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.1.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.2.gdlupd"
 }
