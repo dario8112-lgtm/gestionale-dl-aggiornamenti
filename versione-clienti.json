@@ -1,8 +1,8 @@
 {
- "versione": "2.20.11",
- "sha256": "25db04ebfd3aba43607b8591e049ec2332b3614251dca86e8aa6dfc56d060052",
- "firma": "tf+bGp9zu0MIgU7rrvbUuQPCm6KujlMjbUiWjquJnNbiBjK5CaRw526KBS7r0h5FLYrPH1jVeQSa6lRJeIpQAw==",
- "note": "Copia su chiavetta: anche il servizio SDI con i certificati",
+ "versione": "2.20.12",
+ "sha256": "5a2da4a79b098019f8288b1e2b0b37b38fb5152a0d9983d265c042d5ab203583",
+ "firma": "N/g1WnP/0aSJ59eT3B18eoYkWfbzaCH7dfkm7hLh8F6QU6Ma1FnatZkS8v/F1u4cooPjGuOjv/7i3TQSenQaBw==",
+ "note": "Elenchi documenti: clic sul cliente apre la scheda",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.11.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.12.gdlupd"
 }
