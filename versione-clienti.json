@@ -1,8 +1,8 @@
 {
- "versione": "2.19.16",
- "sha256": "e6dd53a200667f16689c8c97b76c16b125f44fd149f7e917376ff3f7f0b16626",
- "firma": "14Qq6D8QpLmjPZZmi7L4n+aIdxZPeBrNZpGqXAjA4+T+N+I2+LlSAm9CcccOla3XCMEqlFr7WBsPQgmge8+qDA==",
- "note": "Assistenza remota: eliminare le richieste",
- "data": "2026-11-17",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.16.gdlupd"
+ "versione": "2.19.17",
+ "sha256": "ad8dabf3c5473b1623fe36f546a05c1d631d737060006cd2deb16866824315e3",
+ "firma": "cibFA+9mnAA+Ey3tsejhHLOk7GL+yvtK7g5jiJg4EQTRC5kR9G9MuDcC0N++QUaza+YLLgC7dxEshs79LHBZDg==",
+ "note": "Invio solleciti: apri cliente e fattura",
+ "data": "2026-11-18",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.19.17.gdlupd"
 }
