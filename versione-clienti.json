@@ -1,8 +1,8 @@
 {
- "versione": "2.20.3",
- "sha256": "973d08a49d2592e71aeeb5f8ee995d50b6e4d57d76d13e4aac134a1864dcfeb6",
- "firma": "Iqcv+VjQD0WSnrhxx3XcT4sv1gdxkiteob+ero3YGQ0qFJ5CowqSWZOm/kqjm9hEXkvKWd0ksezAxHn0210wAg==",
- "note": "WhatsApp separato per archivio (DL SAS e Mouse SRL)",
+ "versione": "2.20.4",
+ "sha256": "81b87ab5ef7b323f6020589fdc5976325ae6746da21e90bba2ce60cd5c0f80c3",
+ "firma": "BcOwRm6riGyYpRsvBhH8VW4nU5gYRP3EsrV/wbU5clrvxkrTiaMN11rylDVFdTky1JBbaygstf26a+LEoIX5Ag==",
+ "note": "Etichette: avviso se si stampa un modello A4 sull'etichettatrice",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.3.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.4.gdlupd"
 }
