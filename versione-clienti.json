@@ -1,8 +1,8 @@
 {
- "versione": "2.20.2",
- "sha256": "0dfd97b83474ce4ecb5ada5afc8d5989d2c361a9a09f56328eeca732bb4345dc",
- "firma": "ijeI2dxy0idfCdL0eVsE+QpQ2GvCNQwpm58QbXU+bmiXbmS1AWILqGGfs/xstA5DRkdxGyLwBXZc45OLULHDAQ==",
- "note": "Solleciti: finestra di avanzamento dell'invio",
+ "versione": "2.20.3",
+ "sha256": "973d08a49d2592e71aeeb5f8ee995d50b6e4d57d76d13e4aac134a1864dcfeb6",
+ "firma": "Iqcv+VjQD0WSnrhxx3XcT4sv1gdxkiteob+ero3YGQ0qFJ5CowqSWZOm/kqjm9hEXkvKWd0ksezAxHn0210wAg==",
+ "note": "WhatsApp separato per archivio (DL SAS e Mouse SRL)",
  "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.2.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.3.gdlupd"
 }
