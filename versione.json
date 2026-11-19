@@ -1,8 +1,8 @@
 {
- "versione": "2.20.14",
- "sha256": "04140c4a543e3b3799fd0d128dbd47d21f619be35b3a5f0ecdf71803c15523a9",
- "firma": "WyGXBI/Q72l3OGaAbQmkQDo8SITx7lwc4KNflfO05mLyhFMYXUiFUQyLdegvkfyTxkyt2UJ+LU2LR8XDtdcMCg==",
- "note": "Protezione Telefono: finestra rinnovi come Webroot (archivio Mouse SRL)",
+ "versione": "2.20.15",
+ "sha256": "87eec99df1d72214dd7b6f80f52f6c571ee6866e9b23c58b6ac0b317394081f2",
+ "firma": "iRA+s9ItxvuyPswRxyJNVtJnclhdp6MXRPDs+R67DF4URoMxQnc93diC5mYAGn+++K/cpnOhQ15VLSPS98LJDg==",
+ "note": "Start: tolto il riquadro Da richiamare",
  "data": "2026-11-19",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.14.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.15.gdlupd"
 }
