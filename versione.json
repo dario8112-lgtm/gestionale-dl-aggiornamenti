@@ -1,8 +1,8 @@
 {
- "versione": "2.20.16",
- "sha256": "7e9b883a19b4a0ba1f31b39ed012870022124032639a447c994b159233ebbcb4",
- "firma": "+3Jb0YK5f/wwBIeqkxgEsFQ4VWEM+J+oC1p56q+/grECuiENj5kHtVn+tcOxKmbgRfyQ/DwdztRfFFU9RIkwCA==",
- "note": "Life365: tablet a costo + 50 € + IVA",
+ "versione": "2.20.17",
+ "sha256": "b8967bbc7d7bd17893a4e918468da88a6cd4038a85aa6dd3556000a2999c5b6c",
+ "firma": "kTZNz3FlbGMmc3fruDv2WUrrqJnLmso07kecJQOuYVxp+E7UM4zXW/TRax6nzxlxeh0X/+R63m1OYmbPHxVCCw==",
+ "note": "Scheda cliente dal documento: Salva in fondo, OK salva e chiude",
  "data": "2026-11-19",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.16.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.17.gdlupd"
 }
