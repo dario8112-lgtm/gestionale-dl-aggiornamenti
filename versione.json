@@ -1,8 +1,8 @@
 {
- "versione": "2.20.13",
- "sha256": "10399788f18edfbe3430274e32d8a24cbf63bfd2d282be1cb05227692124ca6e",
- "firma": "SlZ1pCQmQetIxTC94nCjSypGNoPAPijJG2pF64u29blolwtu66IZ/FRJvbcYog0NrzwmsTqBLS+Wx+cyr8OFDg==",
- "note": "Assistenza: pulsante 'RustDesk normale' per rimettere RustDesk com'era",
- "data": "2026-11-18",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.13.gdlupd"
+ "versione": "2.20.14",
+ "sha256": "04140c4a543e3b3799fd0d128dbd47d21f619be35b3a5f0ecdf71803c15523a9",
+ "firma": "WyGXBI/Q72l3OGaAbQmkQDo8SITx7lwc4KNflfO05mLyhFMYXUiFUQyLdegvkfyTxkyt2UJ+LU2LR8XDtdcMCg==",
+ "note": "Protezione Telefono: finestra rinnovi come Webroot (archivio Mouse SRL)",
+ "data": "2026-11-19",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.14.gdlupd"
 }
