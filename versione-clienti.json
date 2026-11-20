@@ -1,8 +1,8 @@
 {
- "versione": "2.20.24",
- "sha256": "4a5e31be4d82950edc566adc68c0ba8540f2ca5b6de18129d6117a1ede67cd5a",
- "firma": "ercGmdiUtIUBNaxGPKkEOMS/Ka+POer8ibaJJ+VrLzNIhf93AA3KN8wocZoKYOPBhAZhCs1HXH0ogGtYG7sdDA==",
- "note": "Canale SDI: pulsante P.IVA per aggiungere partite IVA a un cliente già collegato",
+ "versione": "2.20.25",
+ "sha256": "64fbb927b75c9c06c9a56fcd0c3f03886e0da635d574fe51e353c430026f59b4",
+ "firma": "Rj8CT0EqN7fqyLPc8addNrGRmzYo6GlIxrbsVTb2xeoRa/c1pc+zZL63lDerL/Z3fJpf35JGFYqVmtCgluokCA==",
+ "note": "Controllo accessi: permessi per invio allo SDI e fatture ricevute",
  "data": "2026-11-20",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.24.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.25.gdlupd"
 }
