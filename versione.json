@@ -1,8 +1,8 @@
 {
- "versione": "2.20.21",
- "sha256": "55bb53471cb98600df4593cb28d1b6dc814b11669f69964b36e905702e824c3e",
- "firma": "85cTiiqKgOMK+pZutvkScomwC28N3DnrQ7ADcuybtAkyfO9+MUhNze+SoZp47skN0tg//ZbQiCGJ732vbbtLBQ==",
- "note": "Importa da Danea: scarica da solo il componente Firebird se manca",
+ "versione": "2.20.22",
+ "sha256": "7c308159080364907d06de7f7dddcc315e19bc296766243e9815daf3c79c8535",
+ "firma": "71FnM57K2bcpq7wdLfYVyMNAsKr/kiDZ/N20qHjdtCov8JfL1oXKNUjuzXwYiVQQWtSmNd+NGBOapEBBtio+BA==",
+ "note": "Fatture elettroniche: un secondo server DL si collega al canale SDI con un codice",
  "data": "2026-11-20",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.21.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.22.gdlupd"
 }
