@@ -1,8 +1,8 @@
 {
- "versione": "2.20.23",
- "sha256": "657734617df766aff26693c2b84acc0f89a10734393390cdf5441265eb642de0",
- "firma": "haiEGRmpUAqgG2YphyMNsEgNpaaBf0m+Y6/aNbrcdgcvnrTQJNIqiv0v3J91Rw2tjRr59+v/TMpg5YxRFf+PAw==",
- "note": "Canale SDI: un collegamento può valere per più partite IVA",
+ "versione": "2.20.24",
+ "sha256": "4a5e31be4d82950edc566adc68c0ba8540f2ca5b6de18129d6117a1ede67cd5a",
+ "firma": "ercGmdiUtIUBNaxGPKkEOMS/Ka+POer8ibaJJ+VrLzNIhf93AA3KN8wocZoKYOPBhAZhCs1HXH0ogGtYG7sdDA==",
+ "note": "Canale SDI: pulsante P.IVA per aggiungere partite IVA a un cliente già collegato",
  "data": "2026-11-20",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.23.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.24.gdlupd"
 }
