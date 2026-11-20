@@ -1,8 +1,8 @@
 {
- "versione": "2.20.18",
- "sha256": "bc43def8220c6d2cefc58e91e4443f9d04c4779d1e74d74866f684f6e7b10c24",
- "firma": "Nf1fUEVSn1FFqvGl7wJyqNKVQi5Tn2OQPKoBwx3gEf1wHw+sruB2S/oLN3IrVX2s5sPasICObiD0HZJOAR7NCA==",
- "note": "Selezione cliente: avviso ben visibile se il cliente è già registrato",
- "data": "2026-11-19",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.18.gdlupd"
+ "versione": "2.20.19",
+ "sha256": "056176859ae1c81843ba82e0a09f5699de0d730b7c54e1bd5da8ae5dcf961374",
+ "firma": "TA1ot1DQFgOSh2zqEbk+ir0IPTxw36VX5EQp/4zvXpWYoLccFBpieqoVxR6Dngy+fkXpcY05uyoZOmW8Zt1rDw==",
+ "note": "Download versione di prova: non viene più bloccato da Chrome",
+ "data": "2026-11-20",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.19.gdlupd"
 }
