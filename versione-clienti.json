@@ -1,8 +1,8 @@
 {
- "versione": "2.20.25",
- "sha256": "64fbb927b75c9c06c9a56fcd0c3f03886e0da635d574fe51e353c430026f59b4",
- "firma": "Rj8CT0EqN7fqyLPc8addNrGRmzYo6GlIxrbsVTb2xeoRa/c1pc+zZL63lDerL/Z3fJpf35JGFYqVmtCgluokCA==",
- "note": "Controllo accessi: permessi per invio allo SDI e fatture ricevute",
+ "versione": "2.20.26",
+ "sha256": "fc75c9026cc388295ff579fe3c4e652b1e17e0827275b67d96b47e04295452c9",
+ "firma": "vezzOS3nS48t+BceulzxD/fWr9dG9Q2oocb3eyzTcTodXV3DA0JaE+J46aziYAt05axWGtmkZOEeIU2LUfRqDg==",
+ "note": "App: prezzi delle righe IVA inclusa o netti",
  "data": "2026-11-20",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.25.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.26.gdlupd"
 }
