@@ -1,8 +1,8 @@
 {
- "versione": "2.20.20",
- "sha256": "beebabadd0093bec7435eb6a8cdb42a2fc00c25771f5cb74fc807b3a3a3825d3",
- "firma": "vUkB5J+Jm1ZICCep5vU6duDgCRrcFOisl/qIZCbWXxTFRPEU1UHM/eEBg59sfkEGS7B0F5rD6Yhg4CFk5H4CBQ==",
- "note": "Categoria automatica più precisa (tipo di prodotto, PC/smartphone)",
+ "versione": "2.20.21",
+ "sha256": "55bb53471cb98600df4593cb28d1b6dc814b11669f69964b36e905702e824c3e",
+ "firma": "85cTiiqKgOMK+pZutvkScomwC28N3DnrQ7ADcuybtAkyfO9+MUhNze+SoZp47skN0tg//ZbQiCGJ732vbbtLBQ==",
+ "note": "Importa da Danea: scarica da solo il componente Firebird se manca",
  "data": "2026-11-20",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.20.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.21.gdlupd"
 }
