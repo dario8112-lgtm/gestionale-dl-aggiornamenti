@@ -1,8 +1,8 @@
 {
- "versione": "2.20.19",
- "sha256": "056176859ae1c81843ba82e0a09f5699de0d730b7c54e1bd5da8ae5dcf961374",
- "firma": "TA1ot1DQFgOSh2zqEbk+ir0IPTxw36VX5EQp/4zvXpWYoLccFBpieqoVxR6Dngy+fkXpcY05uyoZOmW8Zt1rDw==",
- "note": "Download versione di prova: non viene più bloccato da Chrome",
+ "versione": "2.20.20",
+ "sha256": "beebabadd0093bec7435eb6a8cdb42a2fc00c25771f5cb74fc807b3a3a3825d3",
+ "firma": "vUkB5J+Jm1ZICCep5vU6duDgCRrcFOisl/qIZCbWXxTFRPEU1UHM/eEBg59sfkEGS7B0F5rD6Yhg4CFk5H4CBQ==",
+ "note": "Categoria automatica più precisa (tipo di prodotto, PC/smartphone)",
  "data": "2026-11-20",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.19.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.20.gdlupd"
 }
