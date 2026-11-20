@@ -1,8 +1,8 @@
 {
- "versione": "2.20.22",
- "sha256": "7c308159080364907d06de7f7dddcc315e19bc296766243e9815daf3c79c8535",
- "firma": "71FnM57K2bcpq7wdLfYVyMNAsKr/kiDZ/N20qHjdtCov8JfL1oXKNUjuzXwYiVQQWtSmNd+NGBOapEBBtio+BA==",
- "note": "Fatture elettroniche: un secondo server DL si collega al canale SDI con un codice",
+ "versione": "2.20.23",
+ "sha256": "657734617df766aff26693c2b84acc0f89a10734393390cdf5441265eb642de0",
+ "firma": "haiEGRmpUAqgG2YphyMNsEgNpaaBf0m+Y6/aNbrcdgcvnrTQJNIqiv0v3J91Rw2tjRr59+v/TMpg5YxRFf+PAw==",
+ "note": "Canale SDI: un collegamento può valere per più partite IVA",
  "data": "2026-11-20",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.22.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.23.gdlupd"
 }
