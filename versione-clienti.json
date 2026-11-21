@@ -1,8 +1,8 @@
 {
- "versione": "2.20.27",
- "sha256": "dfc584dc2c3fd8a098c2853a9b7094a74d79c9ef7fe2c2d3dac8c38093c04c37",
- "firma": "BGvXC0kvdZB4od9aoohnDAg6ZmSWGxJzm7vFULGA2jldpBeYYcbNrw29c/Eliz0cUjebX39st5y8BjU3sYwfAw==",
- "note": "Prodotti: dopo il salvataggio di un nuovo prodotto l'elenco va su di lui",
+ "versione": "2.20.28",
+ "sha256": "65b5cc641d727c38ac80b1083fecd1a4e44f357f31921b6debce338aebf7453d",
+ "firma": "BANup/HvAsjCtgseb+E1YU94Mcc4XZ438QzPjAljBxiiaafgy8fBGuPYTdIFuCDF8QuNMfk0rBmfcs3Uki5uCQ==",
+ "note": "Prodotti: il nuovo prodotto viene selezionato anche con i filtri delle colonne",
  "data": "2026-11-21",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.27.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.28.gdlupd"
 }
