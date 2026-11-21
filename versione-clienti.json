@@ -1,8 +1,8 @@
 {
- "versione": "2.20.28",
- "sha256": "65b5cc641d727c38ac80b1083fecd1a4e44f357f31921b6debce338aebf7453d",
- "firma": "BANup/HvAsjCtgseb+E1YU94Mcc4XZ438QzPjAljBxiiaafgy8fBGuPYTdIFuCDF8QuNMfk0rBmfcs3Uki5uCQ==",
- "note": "Prodotti: il nuovo prodotto viene selezionato anche con i filtri delle colonne",
+ "versione": "2.20.29",
+ "sha256": "85d68a6196aa569fbb0335378cf86a3357c349585583572d003e57c971e30f5a",
+ "firma": "5jfkOgyseMbZDjl72keIcxAdpeQPRRhz1XgQpSGp6FsKebpL5r5Xom/Z7JOLR/VDphoUhRtV0DmwlvBaw71hAg==",
+ "note": "Documenti: scelta del magazzino in testata per tutti i tipi",
  "data": "2026-11-21",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.28.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.29.gdlupd"
 }
