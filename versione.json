@@ -1,8 +1,8 @@
 {
- "versione": "2.20.26",
- "sha256": "fc75c9026cc388295ff579fe3c4e652b1e17e0827275b67d96b47e04295452c9",
- "firma": "vezzOS3nS48t+BceulzxD/fWr9dG9Q2oocb3eyzTcTodXV3DA0JaE+J46aziYAt05axWGtmkZOEeIU2LUfRqDg==",
- "note": "App: prezzi delle righe IVA inclusa o netti",
- "data": "2026-11-20",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.26.gdlupd"
+ "versione": "2.20.27",
+ "sha256": "dfc584dc2c3fd8a098c2853a9b7094a74d79c9ef7fe2c2d3dac8c38093c04c37",
+ "firma": "BGvXC0kvdZB4od9aoohnDAg6ZmSWGxJzm7vFULGA2jldpBeYYcbNrw29c/Eliz0cUjebX39st5y8BjU3sYwfAw==",
+ "note": "Prodotti: dopo il salvataggio di un nuovo prodotto l'elenco va su di lui",
+ "data": "2026-11-21",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.27.gdlupd"
 }
