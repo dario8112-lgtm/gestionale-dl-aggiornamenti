@@ -1,8 +1,8 @@
 {
- "versione": "2.20.29",
- "sha256": "85d68a6196aa569fbb0335378cf86a3357c349585583572d003e57c971e30f5a",
- "firma": "5jfkOgyseMbZDjl72keIcxAdpeQPRRhz1XgQpSGp6FsKebpL5r5Xom/Z7JOLR/VDphoUhRtV0DmwlvBaw71hAg==",
- "note": "Documenti: scelta del magazzino in testata per tutti i tipi",
+ "versione": "2.20.30",
+ "sha256": "4a608eb008c115c6999fe93140e509603c0530b56e10d43a429d02f87f93ce12",
+ "firma": "73UtCOhKoDnaUBysXQYPPsd8NvrW2bC3OTKc6mHbL5KotXza2/7f5EfRUD6O+4eFgafvknVyDSCmkn5V7lyiBA==",
+ "note": "Vendite al banco: data e ora dello scontrino",
  "data": "2026-11-21",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.29.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.30.gdlupd"
 }
