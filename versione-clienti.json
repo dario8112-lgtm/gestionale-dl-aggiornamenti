@@ -1,8 +1,8 @@
 {
- "versione": "2.20.30",
- "sha256": "4a608eb008c115c6999fe93140e509603c0530b56e10d43a429d02f87f93ce12",
- "firma": "73UtCOhKoDnaUBysXQYPPsd8NvrW2bC3OTKc6mHbL5KotXza2/7f5EfRUD6O+4eFgafvknVyDSCmkn5V7lyiBA==",
- "note": "Vendite al banco: data e ora dello scontrino",
- "data": "2026-11-21",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.30.gdlupd"
+ "versione": "2.20.31",
+ "sha256": "835dc308ba1b5bb249319b82b18dda365052ad7ce03d8b8ca0ac955113707889",
+ "firma": "XfHD57y4foMIrYrl3zMae6zoWZgT3rKnosP39p5DZf38jIf8BT/XpiqKYlJl1PT/w/NkMBxzwOFSlJ3fmf92Bg==",
+ "note": "App: documenti per giorno, settimana, mese o periodo scelto, con totali",
+ "data": "2026-11-22",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.31.gdlupd"
 }
