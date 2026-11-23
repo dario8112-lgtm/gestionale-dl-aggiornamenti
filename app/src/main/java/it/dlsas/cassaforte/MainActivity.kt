@@ -19,6 +19,7 @@ import java.util.concurrent.Executors
 
 class MainActivity : AppCompatActivity() {
     private lateinit var radice: LinearLayout
+    private val salvataggio = Salvataggio(this) { mostra() }
 
     private val scegli = registerForActivityResult(ActivityResultContracts.OpenDocument()) { uri: Uri? ->
         if (uri == null) return@registerForActivityResult
@@ -52,6 +53,7 @@ class MainActivity : AppCompatActivity() {
         }
         if (!Vault.sbloccata()) { radice.addView(Sblocco(this) { mostra() }.vista()); return }
         val barra = LinearLayout(this).apply { setPadding(dp(12), dp(6), dp(12), 0) }
+        barra.addView(bottone("➕ Nuovo") { moduloAccesso(null, "Nuovo accesso") { salvataggio.salva(it) } })
         barra.addView(bottone("🔄 Aggiorna") { Vault.uriDrive(this)?.let { aggiorna(it) } ?: scegli.launch(arrayOf("*/*")) })
         barra.addView(bottone("⚙ Compilazione") { attivaAutofill() })
         barra.addView(bottone("🔒 Blocca") { Vault.blocca(); mostra() })
@@ -60,8 +62,10 @@ class MainActivity : AppCompatActivity() {
                 .setMessage(Diagnostica.leggi(this).ifBlank { "Nessuna richiesta ricevuta da Android finora." })
                 .setPositiveButton("OK", null).show()
         })
-        radice.addView(barra)
-        radice.addView(testo("  Archivio del ${Vault.aggiornatoIl(this).take(16).replace('T', ' ')}", 12f, col = android.graphics.Color.GRAY))
+        radice.addView(android.widget.HorizontalScrollView(this).apply { addView(barra) })
+        val att = Vault.inAttesa(this)
+        radice.addView(testo("  Archivio del ${Vault.aggiornatoIl(this).take(16).replace('T', ' ')}" +
+            (if (att > 0) "  ·  $att in arrivo al Gestionale" else ""), 12f, col = android.graphics.Color.GRAY))
         radice.addView(Elenco(this) { dettaglio(it) }.vista { Vault.voci }, lp(0).apply { weight = 1f })
         if (!getSystemService(AutofillManager::class.java).hasEnabledAutofillServices()) attivaAutofill(chiedi = true)
     }
@@ -100,7 +104,9 @@ class MainActivity : AppCompatActivity() {
         r1.addView(bottone("👁") { pw.text = if (pw.text.contains("•")) "Password: ${v.password}" else "Password: ••••••••" })
         c.addView(r1, lp(top = 10, c = this))
         if (v.note.isNotBlank()) c.addView(testo(v.note, 14f), lp(top = 8, c = this))
+        if (v.inAttesa) c.addView(testo("⏳ In arrivo al Gestionale", 13f, col = android.graphics.Color.GRAY), lp(top = 8, c = this))
         val d = AlertDialog.Builder(this).setTitle(v.nome).setView(c).setNegativeButton("Chiudi", null)
+            .setNeutralButton("Modifica") { _, _ -> moduloAccesso(v, "Modifica accesso") { salvataggio.salva(it) } }
         if (v.sito.isNotBlank()) d.setPositiveButton("Apri sito") { _, _ ->
             runCatching { startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(if (v.sito.contains("://")) v.sito else "https://${v.sito}"))) }
         }

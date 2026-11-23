@@ -130,3 +130,48 @@ class Elenco(private val c: Context, private val scelta: (Voce) -> Unit) {
         return col
     }
 }
+
+/** Modulo per un accesso nuovo o da modificare. */
+fun AppCompatActivity.moduloAccesso(v: Voce?, titolo: String, annullato: () -> Unit = {}, salvato: (Voce) -> Unit) {
+    val c = colonna(8)
+    fun campo(etichetta: String, valore: String, pw: Boolean = false) = EditText(this).apply {
+        hint = etichetta; setText(valore); setSingleLine()
+        if (pw) inputType = InputType.TYPE_CLASS_TEXT or InputType.TYPE_TEXT_VARIATION_VISIBLE_PASSWORD
+        importantForAutofill = View.IMPORTANT_FOR_AUTOFILL_NO_EXCLUDE_DESCENDANTS
+        c.addView(testo(etichetta, 12f, col = Color.GRAY)); c.addView(this)
+    }
+    val nome = campo("Nome", v?.titolo ?: ""); val sito = campo("Sito o app", v?.sito ?: "")
+    val ut = campo("Utente", v?.utente ?: ""); val pw = campo("Password", v?.password ?: "", true)
+    c.addView(bottone("🎲 Genera password") {
+        val cs = "ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz23456789!@#%&*?-_"; val r = java.security.SecureRandom()
+        pw.setText((1..16).map { cs[r.nextInt(cs.length)] }.joinToString(""))
+    })
+    val note = campo("Note", v?.note ?: "")
+    val sv = ScrollView(this).apply { addView(c) }
+    android.app.AlertDialog.Builder(this).setTitle(titolo).setView(sv)
+        .setPositiveButton("Salva") { _, _ ->
+            if (nome.text.isBlank() && sito.text.isBlank()) { Toast.makeText(this, "Inserisci almeno il nome o il sito", Toast.LENGTH_LONG).show(); annullato(); return@setPositiveButton }
+            salvato(Voce(v?.id ?: 0, nome.text.toString().trim(), sito.text.toString().trim(), ut.text.toString().trim(),
+                pw.text.toString(), note.text.toString(), v?.cartella ?: "", v?.preferito ?: false, v?.uid))
+        }.setNegativeButton("Annulla") { _, _ -> annullato() }.setOnCancelListener { annullato() }.show()
+}
+
+/** Salva e, la prima volta, chiede dove mettere il file degli arrivi su Google Drive. */
+class Salvataggio(private val a: AppCompatActivity, private val fine: (Boolean) -> Unit = {}) {
+    private val crea = a.registerForActivityResult(androidx.activity.result.contract.ActivityResultContracts.CreateDocument("application/octet-stream")) { u ->
+        if (u == null) { Toast.makeText(a, "Salvato solo sul telefono: scegli la cartella di Drive per mandarlo al Gestionale", Toast.LENGTH_LONG).show(); fine(true); return@registerForActivityResult }
+        runCatching { a.contentResolver.takePersistableUriPermission(u, android.content.Intent.FLAG_GRANT_READ_URI_PERMISSION or android.content.Intent.FLAG_GRANT_WRITE_URI_PERMISSION) }
+        val e = runCatching { Vault.impostaUriArrivi(a, u) }.exceptionOrNull()
+        Toast.makeText(a, if (e == null) "Salvato: arriva nel Gestionale entro 15 minuti" else "Non riesco a scrivere su Drive: ${e.message}", Toast.LENGTH_LONG).show()
+        fine(true)
+    }
+    fun salva(v: Voce) {
+        val ok = try { Vault.salva(a, v) } catch (e: Exception) {
+            Toast.makeText(a, "Salvato sul telefono, ma Drive non risponde: riprovo al prossimo salvataggio", Toast.LENGTH_LONG).show(); fine(true); return }
+        if (ok) { Toast.makeText(a, "Salvato: arriva nel Gestionale entro 15 minuti", Toast.LENGTH_LONG).show(); fine(true); return }
+        android.app.AlertDialog.Builder(a).setTitle("Dove salvo su Google Drive?")
+            .setMessage("Solo la prima volta: nella schermata che si apre scegli Google Drive › cartella \"Cassaforte DL\" e premi Salva.")
+            .setPositiveButton("Scegli") { _, _ -> crea.launch("arrivi-telefono.cdla") }
+            .setNegativeButton("Più tardi") { _, _ -> fine(true) }.setCancelable(false).show()
+    }
+}

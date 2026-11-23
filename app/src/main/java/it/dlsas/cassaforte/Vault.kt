@@ -20,8 +20,10 @@ import javax.crypto.spec.SecretKeySpec
 /** Un accesso della Cassaforte (stessi campi del Gestionale DL). */
 data class Voce(
     val id: Long, val titolo: String, val sito: String, val utente: String,
-    val password: String, val note: String, val cartella: String, val preferito: Boolean
+    val password: String, val note: String, val cartella: String, val preferito: Boolean,
+    val uid: String? = null          // valorizzato = salvato dal telefono, in attesa di arrivare al Gestionale
 ) {
+    val inAttesa get() = uid != null
     val nome get() = titolo.ifBlank { Vault.host(sito) }
 }
 
@@ -67,7 +69,61 @@ object Vault {
         file(c).writeText(testo)
         prefs(c).edit().putString("uri", uri.toString())
             .putString("quando", j.optString("creato", "")).apply()
+        // gli accessi salvati dal telefono e già entrati nel Gestionale non sono più "in attesa"
+        val fatti = j.optJSONArray("arrivi_fatti")?.let { a -> (0 until a.length()).map { a.getString(it) }.toSet() } ?: emptySet()
+        val prima = attesa(c); val dopo = JSONArray()
+        for (i in 0 until prima.length()) prima.getJSONObject(i).let { if (it.getString("uid") !in fatti) dopo.put(it) }
+        if (dopo.length() != prima.length()) { salvaAttesa(c, dopo); runCatching { scriviArrivi(c) } }
         if (chiave != null && utente != null) voci = leggiVoci(c, utente!!, chiave!!)
+    }
+
+    // ---------- salvataggi dal telefono ----------
+    private fun fileAttesa(c: Context) = File(c.filesDir, "arrivi.json")
+    private fun attesa(c: Context): JSONArray = try { JSONArray(fileAttesa(c).readText()) } catch (e: Exception) { JSONArray() }
+    private fun salvaAttesa(c: Context, a: JSONArray) = fileAttesa(c).writeText(a.toString())
+    fun inAttesa(c: Context) = attesa(c).length()
+    fun uriArrivi(c: Context): Uri? = prefs(c).getString("uriArrivi", null)?.let(Uri::parse)
+    fun impostaUriArrivi(c: Context, u: Uri) { prefs(c).edit().putString("uriArrivi", u.toString()).apply(); scriviArrivi(c) }
+
+    /** Scrive su Google Drive il file degli arrivi (tutto cifrato). Il server lo legge ogni 15 minuti. */
+    fun scriviArrivi(c: Context) {
+        val u = uriArrivi(c) ?: throw IllegalStateException("Cartella di Drive non scelta")
+        val j = JSONObject().put("formato", "cassaforte-dl-arrivi").put("versione", 1)
+            .put("dispositivo", android.os.Build.MODEL).put("voci", attesa(c))
+        c.contentResolver.openOutputStream(u, "wt")!!.use { it.write(j.toString().toByteArray(Charsets.UTF_8)) }
+    }
+
+    private fun cifra(key: ByteArray, dati: ByteArray): String {
+        val iv = ByteArray(12).also { java.security.SecureRandom().nextBytes(it) }
+        val ci = Cipher.getInstance("AES/GCM/NoPadding")
+        ci.init(Cipher.ENCRYPT_MODE, SecretKeySpec(key, "AES"), GCMParameterSpec(128, iv))
+        val out = ci.doFinal(dati); val ct = out.copyOfRange(0, out.size - 16); val tag = out.copyOfRange(out.size - 16, out.size)
+        return Base64.encodeToString(iv + tag + ct, Base64.NO_WRAP)      // stesso ordine del Gestionale: iv, tag, dati
+    }
+
+    /** Salva un accesso nuovo (id <= 0) o modificato. Ritorna false se il file su Drive non è ancora stato scelto. */
+    fun salva(c: Context, v: Voce): Boolean {
+        val k = chiave ?: throw IllegalStateException("Cassaforte bloccata"); val u = utente!!
+        val obj = JSONObject().put("titolo", v.titolo).put("sito", v.sito).put("utente", v.utente).put("password", v.password)
+            .put("note", v.note).put("cartella", v.cartella).put("preferito", v.preferito).put("usato", 0).put("usi", 0)
+        val a = attesa(c); val nuova = JSONArray()
+        val uid = v.uid ?: java.util.UUID.randomUUID().toString()
+        for (i in 0 until a.length()) a.getJSONObject(i).let { if (it.getString("uid") != uid) nuova.put(it) }   // sostituisce la versione precedente
+        nuova.put(JSONObject().put("uid", uid).put("utente", u).put("id", if (v.id > 0) v.id else JSONObject.NULL)
+            .put("dati", cifra(k, obj.toString().toByteArray(Charsets.UTF_8))).put("quando", System.currentTimeMillis()))
+        salvaAttesa(c, nuova)
+        voci = leggiVoci(c, u, k)
+        if (uriArrivi(c) == null) return false
+        scriviArrivi(c); return true
+    }
+
+    /** Accesso già presente per lo stesso sito/app e lo stesso utente (per proporre "aggiorna"). */
+    fun esistente(dominio: String?, pacchetto: String?, user: String): Voce? {
+        val d = dominio?.removePrefix("www.")?.lowercase()
+        return voci.firstOrNull { v -> v.utente.equals(user, true) && run {
+            val h = host(v.sito); h.isNotBlank() && ((!d.isNullOrBlank() && (d == h || d.endsWith(".$h") || h.endsWith(".$d"))) ||
+                (d.isNullOrBlank() && pacchetto != null && pacchetto.lowercase().contains(h.split('.').let { p -> if (p.size >= 2) p[p.size - 2] else h })))
+        } }
     }
 
     // ---------- cifratura compatibile con vault-core.js ----------
@@ -97,6 +153,16 @@ object Vault {
             val v = try { JSONObject(String(apriGcm(key, r.getString("dati")), Charsets.UTF_8)) } catch (e: Exception) { continue }
             out += Voce(r.getLong("id"), v.optString("titolo"), v.optString("sito"), v.optString("utente"),
                 v.optString("password"), v.optString("note"), v.optString("cartella"), v.optBoolean("preferito"))
+        }
+        // sopra l'archivio, gli accessi salvati dal telefono e non ancora arrivati al Gestionale
+        val a2 = attesa(c)
+        for (i in 0 until a2.length()) {
+            val r = a2.getJSONObject(i); if (!r.getString("utente").equals(nome, true)) continue
+            val v = try { JSONObject(String(apriGcm(key, r.getString("dati")), Charsets.UTF_8)) } catch (e: Exception) { continue }
+            val id = if (r.isNull("id")) -(r.getString("uid").hashCode().toLong() and 0x7fffffff) - 1 else r.getLong("id")
+            out.removeAll { it.id == id }
+            out += Voce(id, v.optString("titolo"), v.optString("sito"), v.optString("utente"), v.optString("password"),
+                v.optString("note"), v.optString("cartella"), v.optBoolean("preferito"), r.getString("uid"))
         }
         return out.sortedWith(compareByDescending<Voce> { it.preferito }.thenBy { it.nome.lowercase() })
     }

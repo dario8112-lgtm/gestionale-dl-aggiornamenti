@@ -21,6 +21,17 @@ data class Campi(val utente: AutofillId?, val password: AutofillId?, val dominio
                  val tutti: List<AutofillId> = emptyList(), val focus: String = "", val loginProbabile: Boolean = false)
 
 object Analisi {
+    /** Testo scritto nel campo indicato. */
+    fun valore(s: AssistStructure, id: AutofillId?): String? {
+        if (id == null) return null
+        fun cerca(n: AssistStructure.ViewNode): String? {
+            if (n.autofillId == id) return n.autofillValue?.takeIf { it.isText }?.textValue?.toString() ?: n.text?.toString()
+            for (i in 0 until n.childCount) cerca(n.getChildAt(i))?.let { return it }
+            return null
+        }
+        for (i in 0 until s.windowNodeCount) cerca(s.getWindowNodeAt(i).rootViewNode)?.let { return it }
+        return null
+    }
     fun trova(s: AssistStructure): Campi {
         var user: AutofillId? = null; var pass: AutofillId? = null; var dom: String? = null
         var focusTesto: AutofillId? = null; var focusDesc = ""; val tutti = ArrayList<AutofillId>(); var loginUser = false
@@ -92,10 +103,32 @@ class CassaforteAutofill : AutofillService() {
         r.addDataset(Dataset.Builder(riga(this, "🔐 Cassaforte DL", sotto))
             .apply { ids.forEach { if (inl != null) setValue(it, null, riga(this@CassaforteAutofill, "🔐 Cassaforte DL", sotto), inl) else setValue(it, null) } }
             .setAuthentication(pi.intentSender).build())
+        // dopo il login Android chiede "Salvare in Cassaforte DL?"
+        c.password?.let { pw ->
+            r.setSaveInfo(SaveInfo.Builder(SaveInfo.SAVE_DATA_TYPE_USERNAME or SaveInfo.SAVE_DATA_TYPE_PASSWORD, arrayOf(pw))
+                .apply { c.utente?.let { setOptionalIds(arrayOf(it)) } }.build())
+        }
         cb.onSuccess(r.build())
         Diagnostica.scrivi(this, "risposta inviata (${ids.size} campi)")
     }
-    override fun onSaveRequest(req: SaveRequest, cb: SaveCallback) { cb.onSuccess() }
+    override fun onSaveRequest(req: SaveRequest, cb: SaveCallback) {
+        try {
+            var user = ""; var pass = ""; var dom: String? = null; var pac = ""
+            for (fc in req.fillContexts) {          // anche login su due pagine (prima utente, poi password)
+                val st = fc.structure; val c = Analisi.trova(st)
+                pac = c.pacchetto; if (c.dominio != null) dom = c.dominio
+                Analisi.valore(st, c.utente)?.takeIf { it.isNotBlank() }?.let { user = it }
+                Analisi.valore(st, c.password)?.takeIf { it.isNotBlank() }?.let { pass = it }
+            }
+            Diagnostica.scrivi(this, "salvataggio da $pac sito=${dom ?: "-"} utente=${user.isNotBlank()} password=${pass.isNotBlank()}")
+            if (pass.isBlank()) { cb.onSuccess(); return }
+            val i = android.content.Intent(this, SalvaActivity::class.java)
+                .putExtra("utente", user).putExtra("password", pass).putExtra("dominio", dom).putExtra("pacchetto", pac)
+            val pi = PendingIntent.getActivity(this, (System.currentTimeMillis() and 0xffff).toInt(), i,
+                PendingIntent.FLAG_IMMUTABLE or PendingIntent.FLAG_CANCEL_CURRENT)
+            cb.onSuccess(pi.intentSender)
+        } catch (e: Throwable) { Diagnostica.scrivi(this, "ERRORE salvataggio: ${e.message}"); cb.onFailure("Cassaforte DL: ${e.message}") }
+    }
 
     companion object {
         fun riga(c: Context, titolo: String, sotto: String) = RemoteViews(c.packageName, R.layout.riga_autofill).apply {
