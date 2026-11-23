@@ -1,8 +1,8 @@
 {
- "versione": "2.20.36",
- "sha256": "368afd3fc83b71202f4554e2baa4ab55b27bf682c4bbc4631befebcda381dd65",
- "firma": "/EAtJnL6E0fWBToavWX0fKANkSLYingEIegxrlaCpBPavPKt+w3j9h2YjkmUjo94tn0ry7C1tcHm19r3SMxpCw==",
- "note": "Clienti collegati al canale SDI: pulsanti Sospendi ed Elimina sempre visibili",
+ "versione": "2.20.37",
+ "sha256": "d1520442cd4b03d833cd6f662ec2a4ab10fd4e7aeb983b38457f54167fdacb33",
+ "firma": "A7KRW+/iSLHCEKAvsrY/opPcT4Q31C2g2Lq2Bb7W8eq77ZTC4XgXYk1XNJE7fT/bGRdUfRb5pmnfek4kbc4gAQ==",
+ "note": "Tolta la sincronizzazione automatica del listino e-Pol",
  "data": "2026-11-23",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.36.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.37.gdlupd"
 }
