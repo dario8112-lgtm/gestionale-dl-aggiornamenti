@@ -1,8 +1,8 @@
 {
- "versione": "2.20.33",
- "sha256": "8b18394630743e5afd21c9d220f3404ea1d942bc030015de85f8029c35453ace",
- "firma": "Agke1BHsEa0y3UO+XDfNqDGYJBizh2u4URAhFKp9XeI/XRk5RdGdQWavfekQTYNfQWNTeHb2ScOt/VbPuQ6UBA==",
- "note": "Avvisi canale SDI: controllo automatico ogni 3 minuti con avviso su WhatsApp/e-mail e promemoria scadenza certificato SDICoop",
+ "versione": "2.20.34",
+ "sha256": "7fc4df0e5914855c62db766a833d474fb69cae658b99a4c1d70be47519c6351f",
+ "firma": "8HaMwfM1rWIKnE740ZTcgyCtNWOVTJG71aQiscrcwDLHQgjlQ5/C0ONpxQYlVhPvjhHKE/H67W3qHOoWRozgCw==",
+ "note": "Nuovo fornitore Focelda: listino con prezzi riservati e disponibilità ogni 6 ore (PC e portatili +150 € + IVA, resto ×2 + IVA)",
  "data": "2026-11-23",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.33.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.34.gdlupd"
 }
