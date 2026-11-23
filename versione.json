@@ -1,8 +1,8 @@
 {
- "versione": "2.20.37",
- "sha256": "d1520442cd4b03d833cd6f662ec2a4ab10fd4e7aeb983b38457f54167fdacb33",
- "firma": "A7KRW+/iSLHCEKAvsrY/opPcT4Q31C2g2Lq2Bb7W8eq77ZTC4XgXYk1XNJE7fT/bGRdUfRb5pmnfek4kbc4gAQ==",
- "note": "Tolta la sincronizzazione automatica del listino e-Pol",
+ "versione": "2.20.38",
+ "sha256": "e307536a486a923ae965688633be856aebe36488e7dec6bfbe80c9828f2e2460",
+ "firma": "y4wx7XHmjosgHWNn0UILjM/NZzdzRji2WZ4pDGTvEdaUT1P8zHom69BU0H/MWbq7yya8/kvDx33F6lZhVFxsBQ==",
+ "note": "Ordini: data di conclusione prevista verde se in tempo, rossa se in ritardo",
  "data": "2026-11-23",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.37.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.38.gdlupd"
 }
