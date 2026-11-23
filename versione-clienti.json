@@ -1,8 +1,8 @@
 {
- "versione": "2.20.34",
- "sha256": "7fc4df0e5914855c62db766a833d474fb69cae658b99a4c1d70be47519c6351f",
- "firma": "8HaMwfM1rWIKnE740ZTcgyCtNWOVTJG71aQiscrcwDLHQgjlQ5/C0ONpxQYlVhPvjhHKE/H67W3qHOoWRozgCw==",
- "note": "Nuovo fornitore Focelda: listino con prezzi riservati e disponibilità ogni 6 ore (PC e portatili +150 € + IVA, resto ×2 + IVA)",
+ "versione": "2.20.35",
+ "sha256": "f170d69e92d5b9e2518a4f0e97bfc226103160f8f7fca43257e8e0746d120254",
+ "firma": "Okar8uSqJvdOe+f1+Wq3rh6UiN529vmMPVZ34XLBxS3qEYJQsTOFfsSkVfKlDh2cMyYGiO+IgyGP1Nc9w6PLBw==",
+ "note": "Ordini clienti: stati Confermato e Parzialmente concluso sempre disponibili; registratore 3i: porta 1723 nella ricerca; P.IVA fatture ricevute con CDATA corretta",
  "data": "2026-11-23",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.34.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.35.gdlupd"
 }
