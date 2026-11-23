@@ -1,8 +1,8 @@
 {
- "versione": "2.20.31",
- "sha256": "835dc308ba1b5bb249319b82b18dda365052ad7ce03d8b8ca0ac955113707889",
- "firma": "XfHD57y4foMIrYrl3zMae6zoWZgT3rKnosP39p5DZf38jIf8BT/XpiqKYlJl1PT/w/NkMBxzwOFSlJ3fmf92Bg==",
- "note": "App: documenti per giorno, settimana, mese o periodo scelto, con totali",
- "data": "2026-11-22",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.31.gdlupd"
+ "versione": "2.20.32",
+ "sha256": "b179260aa14e357d8934ee1fe9821e96b933c2d9c1e2ca6c465451e7ac40d389",
+ "firma": "uRMclMkkrZI3qh5aLHVRI703L7CyVPfZ8SJS+Yp5v5YwYDSpxglFL43F/cY2dcdJkRKnhicN6wGotiXvbbvEBg==",
+ "note": "DDT a Mouse: negli avvisi 'già nel DDT' anche la destinazione",
+ "data": "2026-11-23",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.32.gdlupd"
 }
