@@ -1,8 +1,8 @@
 {
- "versione": "2.20.35",
- "sha256": "f170d69e92d5b9e2518a4f0e97bfc226103160f8f7fca43257e8e0746d120254",
- "firma": "Okar8uSqJvdOe+f1+Wq3rh6UiN529vmMPVZ34XLBxS3qEYJQsTOFfsSkVfKlDh2cMyYGiO+IgyGP1Nc9w6PLBw==",
- "note": "Ordini clienti: stati Confermato e Parzialmente concluso sempre disponibili; registratore 3i: porta 1723 nella ricerca; P.IVA fatture ricevute con CDATA corretta",
+ "versione": "2.20.36",
+ "sha256": "368afd3fc83b71202f4554e2baa4ab55b27bf682c4bbc4631befebcda381dd65",
+ "firma": "/EAtJnL6E0fWBToavWX0fKANkSLYingEIegxrlaCpBPavPKt+w3j9h2YjkmUjo94tn0ry7C1tcHm19r3SMxpCw==",
+ "note": "Clienti collegati al canale SDI: pulsanti Sospendi ed Elimina sempre visibili",
  "data": "2026-11-23",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.35.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.36.gdlupd"
 }
