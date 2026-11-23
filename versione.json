@@ -1,8 +1,8 @@
 {
- "versione": "2.20.38",
- "sha256": "e307536a486a923ae965688633be856aebe36488e7dec6bfbe80c9828f2e2460",
- "firma": "y4wx7XHmjosgHWNn0UILjM/NZzdzRji2WZ4pDGTvEdaUT1P8zHom69BU0H/MWbq7yya8/kvDx33F6lZhVFxsBQ==",
- "note": "Ordini: data di conclusione prevista verde se in tempo, rossa se in ritardo",
+ "versione": "2.20.39",
+ "sha256": "9b4975517119ad207b39f03ea1e7520a2b8f90162f350c76dd282b23c055e542",
+ "firma": "6DT7+ApAzS6BNgbLmXxdZJ/uLfvvjrwObPX9NN9/IeOokFxSYkv1d2hje33klo0cbifOa6sh5LtOTOzXYXjJAA==",
+ "note": "Ordini: data di conclusione in grassetto rosso (ritardo) o verde, come Danea",
  "data": "2026-11-23",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.38.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.39.gdlupd"
 }
