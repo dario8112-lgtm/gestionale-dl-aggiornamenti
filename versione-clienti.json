@@ -1,8 +1,8 @@
 {
- "versione": "2.20.52",
- "sha256": "34a9f6d0535d19a2dfe300b8284d56c5cbebdbdb6556345656812d45d69b2cb6",
- "firma": "juKzQgiT16BYXz0NLSQuCv3Hydv1rfKkbEu3PmCJWy6j44wxuWbAM3uO4zN0GKCEGo5APbOnTIut3+cPsdCxDw==",
- "note": "Elimina anche le vendite al banco già convertite in fattura (la fattura resta, giacenza invariata)",
+ "versione": "2.20.53",
+ "sha256": "393d79e04f3f680cec7695c48f58ddc63812cb66279ddb0ff0e738313cdc0885",
+ "firma": "S5yQzNDudrfza8dn+LeV4f4vCoNgLBwKhZ6ywB/0mJlRNalCo+qJbkFVDp1sX9lELBzxutEYMdv4oj4wZRHmCg==",
+ "note": "Scheda prodotto: ricarico in percentuale o in euro",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.52.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.53.gdlupd"
 }
