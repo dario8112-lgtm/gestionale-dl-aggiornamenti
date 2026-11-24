@@ -1,8 +1,8 @@
 {
- "versione": "2.20.41",
- "sha256": "5062f39eb9974a255ae11b7c437f4e04bcb0aca0c4131ec2c513e0127e84c7d7",
- "firma": "PoLdK7+pM2SK4IuPSdAqxakHzNPYLBxDw2kTJOWD5U2E1dVcBU/i+4ak79d43DS+FmcJ2YbEi85jE6HxnEeeBg==",
- "note": "Ordini clienti: nuovo stato 11 Attesa Cliente",
+ "versione": "2.20.42",
+ "sha256": "bd87613930ca8466b61b5dd0e9b7fb9a38860e2a36ec3f4b747102258dd31849",
+ "firma": "DDqbk+mfjd/Q1YO9FJxjYqyAKHBGEm9lCmmj/tXkEAu0T0C2c4173YOGE1+spijv1AhTtOq8Oc7fRHIs7Y9xAg==",
+ "note": "Stampa: menu WhatsApp con messaggi predefiniti (senza messaggio, generico e messaggi personalizzati)",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.41.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.42.gdlupd"
 }
