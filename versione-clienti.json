@@ -1,8 +1,8 @@
 {
- "versione": "2.20.39",
- "sha256": "9b4975517119ad207b39f03ea1e7520a2b8f90162f350c76dd282b23c055e542",
- "firma": "6DT7+ApAzS6BNgbLmXxdZJ/uLfvvjrwObPX9NN9/IeOokFxSYkv1d2hje33klo0cbifOa6sh5LtOTOzXYXjJAA==",
- "note": "Ordini: data di conclusione in grassetto rosso (ritardo) o verde, come Danea",
- "data": "2026-11-23",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.39.gdlupd"
+ "versione": "2.20.40",
+ "sha256": "9ae22c3e8cd15462a26ff6c71b7120b157d185e26e9958af7cab02b55bfe55ae",
+ "firma": "AUQOOHa0U8bSaQQfxHcseibI/D8fLmP7OvCLvff6oF8k2MDebjLeQBy6eEss+dTcvJUi2PEhONpmE16dg/F7DA==",
+ "note": "Elenchi: selezione di più righe con Maiusc/Ctrl senza evidenziare il testo",
+ "data": "2026-11-24",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.40.gdlupd"
 }
