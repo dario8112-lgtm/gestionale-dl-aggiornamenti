@@ -1,8 +1,8 @@
 {
- "versione": "2.20.43",
- "sha256": "04a48795b267235fce3287208bb08fee2b4173bc2a13ebe1e0602840265f910c",
- "firma": "FYR0BTocyfuQLE/6MX0InzrN5yzvJt6h/kVdcMpx+psUEo9de51gubA71BuiGz7iTILESMz9AuV08tizrE42AA==",
- "note": "Finestra Stampa con modelli: menu WhatsApp con messaggi predefiniti",
+ "versione": "2.20.44",
+ "sha256": "2abeb3bc3c3412a6f57b2bcad49d3ecb32ac3df1055f53d09845bf2cb89f1c06",
+ "firma": "E0FLgLmFNiOUb7sr97+NNpA5CPgNdvdQpUx4yhNk62zjS7W8LrzzizP/geHQooVJme7sK69YoLYDEDjFaIIpBg==",
+ "note": "Menu WhatsApp: messaggi predefiniti subito visibili e aggiornati dopo il salvataggio",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.43.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.44.gdlupd"
 }
