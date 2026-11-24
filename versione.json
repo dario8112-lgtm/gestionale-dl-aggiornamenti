@@ -1,8 +1,8 @@
 {
- "versione": "2.20.50",
- "sha256": "3de8e5a038b2d8780e2c4de434ffa50eb570248ffbb5da8a60294966967ffd76",
- "firma": "UQu6QTd93eymBSPn1gbLDjoA6FF8U6L3WB6DQphDjnjW0PHfWCTj7tSHYnEMyyRYX0Vg7etWeb41WZEyd4QSDA==",
- "note": "Prodotti da fattura: lettura anche delle fatture in PDF",
+ "versione": "2.20.51",
+ "sha256": "594a8a9399c2f788d1bc1bf4dd66e092c5d69b0be38f390a90e92c810c68cb0a",
+ "firma": "ytAHfu6cZECdGnzY7aOQOFP2UuR+D/+1jaa0YiqXttEU7ntZ8fmmJUWorHO+DG7xhx2n3JYl5c7pe07TtxC0AQ==",
+ "note": "Fatture ricevute: pulsante DDT a MOUSE solo nell'archivio DL SAS",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.50.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.51.gdlupd"
 }
