@@ -1,8 +1,8 @@
 {
- "versione": "2.20.44",
- "sha256": "2abeb3bc3c3412a6f57b2bcad49d3ecb32ac3df1055f53d09845bf2cb89f1c06",
- "firma": "E0FLgLmFNiOUb7sr97+NNpA5CPgNdvdQpUx4yhNk62zjS7W8LrzzizP/geHQooVJme7sK69YoLYDEDjFaIIpBg==",
- "note": "Menu WhatsApp: messaggi predefiniti subito visibili e aggiornati dopo il salvataggio",
+ "versione": "2.20.45",
+ "sha256": "2e7097cd62e3279010594c8ce8465309af71acb73b7ee7daedae61b3fd9bf83b",
+ "firma": "tMnS75YPX8ToDd/WeUCN2tkEeuYTnvpiEvubST/0/VcjcKII9xbz6S/BMLTaFxf35/xVAMqrx+yDoNSKj9fiBA==",
+ "note": "Fatture ricevute di D.L. S.A.S. copiate anche in Mouse SRL; nuovo pulsante Carica prodotti (prezzo di acquisto e codice a barre dalla fattura)",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.44.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.45.gdlupd"
 }
