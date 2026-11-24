@@ -1,8 +1,8 @@
 {
- "versione": "2.20.57",
- "sha256": "656c8f97a313ca93bc1a888f025cd43c9d20d1783a7171cfacb5e6971b1f093c",
- "firma": "QJ3jNT+/264Q1OCvx2s+CoEzkicnrQl3Jy67QCqc46n1zQMYadNn6PrrT6XL2k0DFOLq3In+oQtAFiEY8eG6Dw==",
- "note": "Registratore Xon/Xoff: controllo importo massimo per riga, pagamento mai superiore alle righe inviate, righe di solo testo non inviate",
+ "versione": "2.20.58",
+ "sha256": "735d42ab42a0ab890535f244a1b6abdee475c03e81490c23284714721f3c888d",
+ "firma": "1ogBG8VihVQVfJHvP5Y6mS6GzfnFskwN9a4xXK5B7I+vHt9K9AsI+mfF13OTKY6buSVJenzFHPDKy1VvUf8nDA==",
+ "note": "Ordini: conclusione prevista verde solo oggi, rossa se scaduta, nera se più avanti",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.57.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.58.gdlupd"
 }
