@@ -1,8 +1,8 @@
 {
- "versione": "2.20.47",
- "sha256": "9a5bf8e1dd3ac955e1c160dc2dc5e8731941cb621be6b6980e41877ef8e9ee7f",
- "firma": "v6txbHSAR9UQn68YkzbYGphmVLST/jII6azzNJ0faRByLVchNA5HvK9pv6oYZAH2OycOVVRd0A6nLngVzEIEDA==",
- "note": "Carica prodotti: abbina i prodotti già presenti anche con descrizioni diverse (modello e colore), scelta del prodotto e categoria automatica",
+ "versione": "2.20.48",
+ "sha256": "212c9cf74580a77098944b4b39a36fdf2a2aef6dd2346198e46b7a060154513a",
+ "firma": "udjTAuGrmlY1fyG8yED06j97+rrjyUDtY9Ibp0ROQSHkJTtnIGKemtX/8QEGed5q+Eq3KwNze1VzmirkZV6KBA==",
+ "note": "Fatture ricevute: colonna Destinazione merce (Langhirano, Felino, Noceto, Traversetolo)",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.47.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.48.gdlupd"
 }
