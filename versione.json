@@ -1,8 +1,8 @@
 {
- "versione": "2.20.53",
- "sha256": "393d79e04f3f680cec7695c48f58ddc63812cb66279ddb0ff0e738313cdc0885",
- "firma": "S5yQzNDudrfza8dn+LeV4f4vCoNgLBwKhZ6ywB/0mJlRNalCo+qJbkFVDp1sX9lELBzxutEYMdv4oj4wZRHmCg==",
- "note": "Scheda prodotto: ricarico in percentuale o in euro",
+ "versione": "2.20.54",
+ "sha256": "4a034c5a968003f9803ca7ad76d75297a67dbe2f199fd66099aa80f30e261bb7",
+ "firma": "Vp3BsvOcyz/wRVtxYSE5ywJExdcrX6hG3/g+XUJrSItG8obyzqpxf/24m5zY+OJKUtfu30uY8zinFQHo49zXBQ==",
+ "note": "Prodotti: spunta per selezionare i prodotti, che restano spuntati anche cambiando ricerca",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.53.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.54.gdlupd"
 }
