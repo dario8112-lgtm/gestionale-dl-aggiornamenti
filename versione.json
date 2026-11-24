@@ -1,8 +1,8 @@
 {
- "versione": "2.20.46",
- "sha256": "6a3871accd95115f5670ad0c63c19845e5ef9de82b19d687dc3edbe18d10a946",
- "firma": "G8Z3E5bQcaB68ZPWnWAjP2OPT8MEsjli0ItV2OPowQthnehlGr9CPEsGwd/opq3ldFmEmfItFwQblJef8IEGBQ==",
- "note": "Carica prodotti: finestra con tutte le righe della fattura, codice a barre e categoria modificabili",
+ "versione": "2.20.47",
+ "sha256": "9a5bf8e1dd3ac955e1c160dc2dc5e8731941cb621be6b6980e41877ef8e9ee7f",
+ "firma": "v6txbHSAR9UQn68YkzbYGphmVLST/jII6azzNJ0faRByLVchNA5HvK9pv6oYZAH2OycOVVRd0A6nLngVzEIEDA==",
+ "note": "Carica prodotti: abbina i prodotti già presenti anche con descrizioni diverse (modello e colore), scelta del prodotto e categoria automatica",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.46.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.47.gdlupd"
 }
