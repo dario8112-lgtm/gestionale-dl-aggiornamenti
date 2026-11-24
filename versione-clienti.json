@@ -1,8 +1,8 @@
 {
- "versione": "2.20.40",
- "sha256": "9ae22c3e8cd15462a26ff6c71b7120b157d185e26e9958af7cab02b55bfe55ae",
- "firma": "AUQOOHa0U8bSaQQfxHcseibI/D8fLmP7OvCLvff6oF8k2MDebjLeQBy6eEss+dTcvJUi2PEhONpmE16dg/F7DA==",
- "note": "Elenchi: selezione di più righe con Maiusc/Ctrl senza evidenziare il testo",
+ "versione": "2.20.41",
+ "sha256": "5062f39eb9974a255ae11b7c437f4e04bcb0aca0c4131ec2c513e0127e84c7d7",
+ "firma": "PoLdK7+pM2SK4IuPSdAqxakHzNPYLBxDw2kTJOWD5U2E1dVcBU/i+4ak79d43DS+FmcJ2YbEi85jE6HxnEeeBg==",
+ "note": "Ordini clienti: nuovo stato 11 Attesa Cliente",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.40.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.41.gdlupd"
 }
