@@ -1,5 +1,6 @@
 package it.dlsas.cassaforte
 
+import androidx.activity.enableEdgeToEdge
 import android.os.Bundle
 import android.widget.LinearLayout
 import androidx.appcompat.app.AppCompatActivity
@@ -11,14 +12,15 @@ class SalvaActivity : AppCompatActivity() {
     private var proposto = false
 
     override fun onCreate(s: Bundle?) {
+        enableEdgeToEdge()
         super.onCreate(s)
         window.setFlags(android.view.WindowManager.LayoutParams.FLAG_SECURE, android.view.WindowManager.LayoutParams.FLAG_SECURE)
-        radice = LinearLayout(this).apply { orientation = LinearLayout.VERTICAL }
-        setContentView(radice); mostra()
+        radice = LinearLayout(this).apply { orientation = LinearLayout.VERTICAL; setBackgroundColor(cSuperficie) }
+        setContentView(radice); bordiSistema(radice); mostra()
     }
 
     private fun mostra() {
-        radice.removeAllViews(); radice.addView(intestazione("DL"))
+        radice.removeAllViews(); radice.addView(intestazione("Salva accesso"))
         if (!Vault.sbloccata()) { radice.addView(colonna().apply { addView(testo("Sblocca per salvare l'accesso", 16f, true)) }); radice.addView(Sblocco(this) { mostra() }.vista()); return }
         if (proposto) return; proposto = true
         val user = intent.getStringExtra("utente").orEmpty(); val pass = intent.getStringExtra("password").orEmpty()

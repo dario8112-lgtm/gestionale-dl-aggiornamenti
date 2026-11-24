@@ -1,5 +1,6 @@
 package it.dlsas.cassaforte
 
+import androidx.activity.enableEdgeToEdge
 import android.content.Intent
 import android.os.Bundle
 import android.view.autofill.AutofillId
@@ -13,29 +14,30 @@ class AuthActivity : AppCompatActivity() {
     private lateinit var campi: Campi
 
     override fun onCreate(s: Bundle?) {
+        enableEdgeToEdge()
         super.onCreate(s)
         window.setFlags(android.view.WindowManager.LayoutParams.FLAG_SECURE, android.view.WindowManager.LayoutParams.FLAG_SECURE)
         @Suppress("DEPRECATION")
         campi = Campi(intent.getParcelableExtra("idUtente") as AutofillId?, intent.getParcelableExtra("idPassword") as AutofillId?,
             intent.getStringExtra("dominio"), intent.getStringExtra("pacchetto") ?: "")
-        radice = LinearLayout(this).apply { orientation = LinearLayout.VERTICAL }
-        setContentView(radice)
+        radice = LinearLayout(this).apply { orientation = LinearLayout.VERTICAL; setBackgroundColor(cSuperficie) }
+        setContentView(radice); bordiSistema(radice)
         mostra()
     }
 
     private fun mostra() {
-        radice.removeAllViews(); radice.addView(intestazione("DL"))
+        radice.removeAllViews(); radice.addView(intestazione("Scegli l'accesso"))
         if (!Vault.sbloccata()) { radice.addView(Sblocco(this) { mostra() }.vista()); return }
         val adatte = Vault.adatte(this, campi.dominio, campi.pacchetto)
         val dove = campi.dominio ?: campi.pacchetto
-        radice.addView(testo("  Accesso per: $dove", 13f, col = android.graphics.Color.GRAY))
+        radice.addView(testo("Accesso per $dove", 14f, col = cTenue).apply { setPadding(dp(20), dp(14), dp(20), 0) })
         var tutte = adatte.isEmpty()
         lateinit var aggiorna: () -> Unit
         val box = LinearLayout(this).apply { orientation = LinearLayout.VERTICAL }
         aggiorna = {
             box.removeAllViews()
-            if (!tutte) box.addView(bottone("Mostra tutti gli accessi") { tutte = true; aggiorna() })
-            box.addView(Elenco(this) { scegli(it) }.vista { if (tutte) Vault.voci else adatte }, lp(0).apply { weight = 1f })
+            if (!tutte) box.addView(bottone("Mostra tutti gli accessi") { tutte = true; aggiorna() }, lp(top = 8, c = this).apply { leftMargin = dp(16); rightMargin = dp(16) })
+            box.addView(Elenco(this, "tocca per compilare") { scegli(it) }.vista { if (tutte) Vault.voci else adatte }, lp(0).apply { weight = 1f })
         }
         aggiorna(); radice.addView(box, lp(0).apply { weight = 1f })
     }
