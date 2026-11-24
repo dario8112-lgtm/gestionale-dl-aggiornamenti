@@ -1,8 +1,8 @@
 {
- "versione": "2.20.48",
- "sha256": "212c9cf74580a77098944b4b39a36fdf2a2aef6dd2346198e46b7a060154513a",
- "firma": "udjTAuGrmlY1fyG8yED06j97+rrjyUDtY9Ibp0ROQSHkJTtnIGKemtX/8QEGed5q+Eq3KwNze1VzmirkZV6KBA==",
- "note": "Fatture ricevute: colonna Destinazione merce (Langhirano, Felino, Noceto, Traversetolo)",
+ "versione": "2.20.49",
+ "sha256": "a6a891e268456a6e85e0cf792ebc7b150420fa47e7840c08f091bbf1925c418a",
+ "firma": "TSEAslABXbEwQf3D2AeWghG1IRZovZKH4BETBOOCStbwzqxIsXeztVelHStcVcEXITbNBCSserNX9ZW5qDiaAg==",
+ "note": "Prodotti: pulsante Da fattura per caricare i prodotti da un file XML/P7M/ZIP",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.48.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.49.gdlupd"
 }
