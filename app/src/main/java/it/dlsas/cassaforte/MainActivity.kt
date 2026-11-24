@@ -90,11 +90,12 @@ class MainActivity : AppCompatActivity() {
 
     private fun menu(ancora: View) {
         val m = androidx.appcompat.widget.PopupMenu(this, ancora)
-        m.menu.add(0, 1, 0, "Aggiorna da Google Drive"); m.menu.add(0, 2, 1, "Compilazione automatica"); m.menu.add(0, 3, 2, "Diagnostica")
+        m.menu.add(0, 1, 0, "Aggiorna da Google Drive"); m.menu.add(0, 2, 1, "Compilazione automatica"); m.menu.add(0, 3, 2, "Diagnostica"); m.menu.add(0, 4, 3, "Ricarica i loghi dei siti")
         m.setOnMenuItemClickListener {
             when (it.itemId) {
                 1 -> Vault.uriDrive(this)?.let { u -> aggiorna(u) } ?: scegli.launch(arrayOf("*/*"))
                 2 -> attivaAutofill()
+                4 -> { Icone.svuota(this); mostra() }
                 3 -> MaterialAlertDialogBuilder(this).setTitle("Diagnostica compilazione")
                     .setMessage(Diagnostica.leggi(this).ifBlank { "Nessuna richiesta ricevuta da Android finora." }).setPositiveButton("OK", null).show()
             }; true
@@ -128,7 +129,10 @@ class MainActivity : AppCompatActivity() {
         val d = com.google.android.material.bottomsheet.BottomSheetDialog(this)
         val c = colonna(20)
         val testa = LinearLayout(this).apply { gravity = android.view.Gravity.CENTER_VERTICAL }
-        testa.addView(avatar(v.nome, 52))
+        val logo = android.widget.FrameLayout(this); val img = android.widget.ImageView(this); val lett = avatar(v.nome, 52)
+        logo.addView(lett, android.widget.FrameLayout.LayoutParams(dp(52), dp(52))); logo.addView(img, android.widget.FrameLayout.LayoutParams(dp(52), dp(52)))
+        Icone.carica(this, v.sito, img, { img.visibility = View.INVISIBLE; lett.visibility = View.VISIBLE }, { img.visibility = View.VISIBLE; lett.visibility = View.INVISIBLE })
+        testa.addView(logo)
         testa.addView(LinearLayout(this).apply {
             orientation = LinearLayout.VERTICAL; setPadding(dp(14), 0, 0, 0)
             addView(testo(v.nome, 20f, true)); if (v.sito.isNotBlank()) addView(testo(Vault.host(v.sito).ifBlank { v.sito }, 14f, col = cTenue))

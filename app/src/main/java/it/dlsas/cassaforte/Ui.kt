@@ -207,7 +207,11 @@ class Elenco(private val c: Context, private val info: String = "", private val 
         val cerca = TextInputEditText(tilC.context).apply { setSingleLine(); importantForAutofill = View.IMPORTANT_FOR_AUTOFILL_NO }
         tilC.addView(cerca)
         val conta = c.testo("", 13f, col = c.cTenue)
-        val lista = ListView(c).apply { divider = null; dividerHeight = 0; clipToPadding = false; setPadding(0, c.dp(4), 0, c.dp(96)); selector = android.graphics.drawable.ColorDrawable(Color.TRANSPARENT) }
+        val lista = GridView(c).apply {
+            numColumns = GridView.AUTO_FIT; columnWidth = c.dp(150); stretchMode = GridView.STRETCH_COLUMN_WIDTH
+            horizontalSpacing = c.dp(10); verticalSpacing = c.dp(10); clipToPadding = false; setPadding(0, c.dp(6), 0, c.dp(96))
+            selector = android.graphics.drawable.ColorDrawable(Color.TRANSPARENT)
+        }
         val vuoto = c.testo("Nessun accesso trovato", 15f, col = c.cTenue).apply { gravity = Gravity.CENTER; setPadding(0, c.dp(40), 0, 0); visibility = View.GONE }
         fun ricarica() {
             val q = cerca.text.toString().lowercase().trim()
@@ -230,23 +234,35 @@ class Elenco(private val c: Context, private val info: String = "", private val 
         return col
     }
 
+    /** Casella grande con il logo del sito, come in RoboForm. */
     private fun riga(v: Voce): View {
         val card = MaterialCardView(c).apply {
-            radius = c.dp(16).toFloat(); cardElevation = 0f; setCardBackgroundColor(c.cScheda); strokeWidth = 0
+            radius = c.dp(18).toFloat(); cardElevation = c.dp(1).toFloat(); setCardBackgroundColor(c.cScheda)
+            strokeWidth = c.dp(1); strokeColor = (c.cTenue and 0x00FFFFFF) or 0x22000000
             isClickable = false; isFocusable = false
+            layoutParams = AbsListView.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, c.dp(132))
         }
-        val r = LinearLayout(c).apply { gravity = Gravity.CENTER_VERTICAL; setPadding(c.dp(14), c.dp(12), c.dp(10), c.dp(12)) }
-        r.addView(c.avatar(v.nome))
-        val t = LinearLayout(c).apply { orientation = LinearLayout.VERTICAL; setPadding(c.dp(14), 0, c.dp(8), 0) }
-        t.addView(c.testo(v.nome, 16f, true).apply { maxLines = 1; ellipsize = android.text.TextUtils.TruncateAt.END })
-        t.addView(c.testo(v.utente.ifBlank { Vault.host(v.sito) }, 14f, col = c.cTenue).apply { maxLines = 1; ellipsize = android.text.TextUtils.TruncateAt.END })
-        r.addView(t, LinearLayout.LayoutParams(0, ViewGroup.LayoutParams.WRAP_CONTENT, 1f))
-        if (v.inAttesa) r.addView(ImageView(c).apply { setImageResource(R.drawable.ic_schedule); imageTintList = ColorStateList.valueOf(c.cTenue); contentDescription = "In arrivo al Gestionale" },
-            LinearLayout.LayoutParams(c.dp(18), c.dp(18)).apply { marginEnd = c.dp(6) })
-        if (v.preferito) r.addView(ImageView(c).apply { setImageResource(R.drawable.ic_star); imageTintList = ColorStateList.valueOf(0xFFE0A800.toInt()) },
-            LinearLayout.LayoutParams(c.dp(20), c.dp(20)))
-        card.addView(r)
-        return FrameLayout(c).apply { setPadding(0, c.dp(4), 0, c.dp(4)); addView(card) }
+        val dentro = FrameLayout(c)
+        val col = LinearLayout(c).apply { orientation = LinearLayout.VERTICAL; gravity = Gravity.CENTER; setPadding(c.dp(10), c.dp(14), c.dp(10), c.dp(12)) }
+        val logo = FrameLayout(c)
+        val img = ImageView(c).apply { scaleType = ImageView.ScaleType.FIT_CENTER; visibility = View.INVISIBLE }
+        val lettera = c.avatar(v.nome, 52)
+        logo.addView(lettera, FrameLayout.LayoutParams(c.dp(52), c.dp(52), Gravity.CENTER))
+        logo.addView(img, FrameLayout.LayoutParams(c.dp(56), c.dp(56), Gravity.CENTER))
+        col.addView(logo, LinearLayout.LayoutParams(c.dp(60), c.dp(60)))
+        col.addView(c.testo(v.nome, 14f, true).apply {
+            gravity = Gravity.CENTER; maxLines = 2; ellipsize = android.text.TextUtils.TruncateAt.END
+        }, lp(top = 10, c = c))
+        dentro.addView(col, FrameLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT))
+        // segnalini negli angoli: preferito in alto a destra, "in arrivo" in basso a destra
+        if (v.preferito) dentro.addView(ImageView(c).apply { setImageResource(R.drawable.ic_star); imageTintList = ColorStateList.valueOf(0xFFE0A800.toInt()) },
+            FrameLayout.LayoutParams(c.dp(18), c.dp(18), Gravity.TOP or Gravity.END).apply { setMargins(0, c.dp(8), c.dp(8), 0) })
+        if (v.inAttesa) dentro.addView(ImageView(c).apply { setImageResource(R.drawable.ic_schedule); imageTintList = ColorStateList.valueOf(c.cTenue); contentDescription = "In arrivo al Gestionale" },
+            FrameLayout.LayoutParams(c.dp(16), c.dp(16), Gravity.BOTTOM or Gravity.END).apply { setMargins(0, 0, c.dp(8), c.dp(8)) })
+        card.addView(dentro)
+        Icone.carica(c, v.sito, img, manca = { img.visibility = View.INVISIBLE; lettera.visibility = View.VISIBLE },
+            trovata = { img.visibility = View.VISIBLE; lettera.visibility = View.INVISIBLE })
+        return card
     }
 }
 
