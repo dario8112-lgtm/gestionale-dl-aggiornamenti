@@ -1,8 +1,8 @@
 {
- "versione": "2.20.49",
- "sha256": "a6a891e268456a6e85e0cf792ebc7b150420fa47e7840c08f091bbf1925c418a",
- "firma": "TSEAslABXbEwQf3D2AeWghG1IRZovZKH4BETBOOCStbwzqxIsXeztVelHStcVcEXITbNBCSserNX9ZW5qDiaAg==",
- "note": "Prodotti: pulsante Da fattura per caricare i prodotti da un file XML/P7M/ZIP",
+ "versione": "2.20.50",
+ "sha256": "3de8e5a038b2d8780e2c4de434ffa50eb570248ffbb5da8a60294966967ffd76",
+ "firma": "UQu6QTd93eymBSPn1gbLDjoA6FF8U6L3WB6DQphDjnjW0PHfWCTj7tSHYnEMyyRYX0Vg7etWeb41WZEyd4QSDA==",
+ "note": "Prodotti da fattura: lettura anche delle fatture in PDF",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.49.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.50.gdlupd"
 }
