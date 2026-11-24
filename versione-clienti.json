@@ -1,8 +1,8 @@
 {
- "versione": "2.20.54",
- "sha256": "4a034c5a968003f9803ca7ad76d75297a67dbe2f199fd66099aa80f30e261bb7",
- "firma": "Vp3BsvOcyz/wRVtxYSE5ywJExdcrX6hG3/g+XUJrSItG8obyzqpxf/24m5zY+OJKUtfu30uY8zinFQHo49zXBQ==",
- "note": "Prodotti: spunta per selezionare i prodotti, che restano spuntati anche cambiando ricerca",
+ "versione": "2.20.55",
+ "sha256": "f37a715ae1f93f36c0c277e43af51c331232a06b97e2d416c25e4fc4494dedeb",
+ "firma": "FnicrFe/mTOBkh95193MKy3cksXKD7jc9aP9Qy2/FlAtTMu6XCMCl+PHhrdsOl3kvAO2oJcXdIykoeyiV13oCg==",
+ "note": "Stampa: sempre a colori (prima seguiva l'impostazione della stampante)",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.54.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.55.gdlupd"
 }
