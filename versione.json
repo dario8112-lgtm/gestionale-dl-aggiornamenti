@@ -1,8 +1,8 @@
 {
- "versione": "2.20.55",
- "sha256": "f37a715ae1f93f36c0c277e43af51c331232a06b97e2d416c25e4fc4494dedeb",
- "firma": "FnicrFe/mTOBkh95193MKy3cksXKD7jc9aP9Qy2/FlAtTMu6XCMCl+PHhrdsOl3kvAO2oJcXdIykoeyiV13oCg==",
- "note": "Stampa: sempre a colori (prima seguiva l'impostazione della stampante)",
+ "versione": "2.20.56",
+ "sha256": "300844d73871392a3337b23de3f27bd13aece04482e7d84f23acabb639f0fe54",
+ "firma": "asA2wPM2IyQ78oC2JsOlYMC0HeN2dqy2NYofqPWynuTdOcLMjGWHZjLSESRGlmnlL0mDjvWdrFWBEMbjyR7hBA==",
+ "note": "Righe documento: IVA Art. 36 (regime del margine, natura N5)",
  "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.55.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.56.gdlupd"
 }
