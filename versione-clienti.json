@@ -1,8 +1,8 @@
 {
- "versione": "2.20.58",
- "sha256": "735d42ab42a0ab890535f244a1b6abdee475c03e81490c23284714721f3c888d",
- "firma": "1ogBG8VihVQVfJHvP5Y6mS6GzfnFskwN9a4xXK5B7I+vHt9K9AsI+mfF13OTKY6buSVJenzFHPDKy1VvUf8nDA==",
- "note": "Ordini: conclusione prevista verde solo oggi, rossa se scaduta, nera se più avanti",
- "data": "2026-11-24",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.58.gdlupd"
+ "versione": "2.20.59",
+ "sha256": "35e5a72ee610f3cb71b59ea78622900da5dbc6a675294ec1aa9cd6cac83e3d87",
+ "firma": "Utdv/J8YtTVP23eoEtUUx/k6kJrItUI+Pq2JPLvkWZThIu3WqvcZ9yqmuYIKoNAtD8B1rXOFkAX4HiBGhWsYAw==",
+ "note": "Servizio web: messaggio chiaro se l'installazione non riesce",
+ "data": "2026-11-25",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.59.gdlupd"
 }
