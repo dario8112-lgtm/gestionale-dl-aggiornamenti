@@ -1,8 +1,8 @@
 {
- "versione": "2.20.61",
- "sha256": "3de20c4a14f52dcdc69528dd2277ef1abd4e45516673996bdaff23bbf8762feb",
- "firma": "S8KxgjMWmZ8dWkMedhH7OOL6N8sx3ws7B3+oU3kNt9mvRfoUSbMm2PsQ7AWpGwXAruKlP+oYS6f3i9yUxkkiAQ==",
- "note": "Anagrafiche: CAP, città e provincia si compilano a vicenda",
+ "versione": "2.20.62",
+ "sha256": "604e6f45ab9b275394d54434929a709913f3a771fbe789df0cb970de9a442018",
+ "firma": "1E54gA6uOJDTi6L4/shqZ6sK+OP7QZLyKxfMOm3bvQRCfi9AgPJZGgzU02iTQQeILSiq15SNn6uGOjLSZsBNBA==",
+ "note": "DDT fornitori: l'anteprima Carica in magazzino si apre davanti all'elenco",
  "data": "2026-11-26",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.61.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.62.gdlupd"
 }
