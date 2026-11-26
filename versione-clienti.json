@@ -1,8 +1,8 @@
 {
- "versione": "2.20.60",
- "sha256": "2a255f4b7a63c266a409b9551c73201134e9026eed6675f91f273dbddee5f086",
- "firma": "ZXT4gvAZovr92f/FIGOm21xsb1F7ow5kd/Lagqy5DuuVnWhAxZ2tIdfPrdhdmGOLflcZRj74r5Aauc5ystg8CQ==",
- "note": "Scheda cliente: pulsante WhatsApp",
+ "versione": "2.20.61",
+ "sha256": "3de20c4a14f52dcdc69528dd2277ef1abd4e45516673996bdaff23bbf8762feb",
+ "firma": "S8KxgjMWmZ8dWkMedhH7OOL6N8sx3ws7B3+oU3kNt9mvRfoUSbMm2PsQ7AWpGwXAruKlP+oYS6f3i9yUxkkiAQ==",
+ "note": "Anagrafiche: CAP, città e provincia si compilano a vicenda",
  "data": "2026-11-26",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.60.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.61.gdlupd"
 }
