@@ -1,8 +1,8 @@
 {
- "versione": "2.20.64",
- "sha256": "cbc80884fcb87cb7403f3cd2c96736b927f6f1fad4e4b970724dbdea61dc1db8",
- "firma": "SZFy/fADhdPNXSYoblt46TtpC2hc8vf0yQ74ELkC6sxc+884F7erm/X3tgSVh764pUygDVZSWgg3AnpudUsfAQ==",
- "note": "Prodotti: tendina per vedere i prodotti di un DDT caricato o tutti i prodotti",
+ "versione": "2.20.65",
+ "sha256": "4f01ca78c6e0db517e7b28ba08197776724b061b7acb5e9ef6d6d79250bf4d64",
+ "firma": "ba2/mstqRaOa6sBKaOlplJar6DeJaznY6NW2V89zAP7VpVxU7IqGlnKlcQD7D9nD/1u3sNAx5DTqemDlH//oAA==",
+ "note": "Corretto: i pulsanti Sollecito, Segna pagato, Apri cliente ecc. ora si attivano quando selezioni una riga (anche in Anagrafiche, Fatture elettroniche, Scadenze)",
  "data": "2026-11-26",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.64.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.65.gdlupd"
 }
