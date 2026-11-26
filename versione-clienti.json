@@ -1,8 +1,8 @@
 {
- "versione": "2.20.59",
- "sha256": "35e5a72ee610f3cb71b59ea78622900da5dbc6a675294ec1aa9cd6cac83e3d87",
- "firma": "Utdv/J8YtTVP23eoEtUUx/k6kJrItUI+Pq2JPLvkWZThIu3WqvcZ9yqmuYIKoNAtD8B1rXOFkAX4HiBGhWsYAw==",
- "note": "Servizio web: messaggio chiaro se l'installazione non riesce",
- "data": "2026-11-25",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.59.gdlupd"
+ "versione": "2.20.60",
+ "sha256": "2a255f4b7a63c266a409b9551c73201134e9026eed6675f91f273dbddee5f086",
+ "firma": "ZXT4gvAZovr92f/FIGOm21xsb1F7ow5kd/Lagqy5DuuVnWhAxZ2tIdfPrdhdmGOLflcZRj74r5Aauc5ystg8CQ==",
+ "note": "Scheda cliente: pulsante WhatsApp",
+ "data": "2026-11-26",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.60.gdlupd"
 }
