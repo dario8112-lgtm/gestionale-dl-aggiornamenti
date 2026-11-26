@@ -89,9 +89,27 @@ object Vault {
     fun scriviArrivi(c: Context) {
         val u = uriArrivi(c) ?: throw IllegalStateException("Cartella di Drive non scelta")
         val j = JSONObject().put("formato", "cassaforte-dl-arrivi").put("versione", 1)
-            .put("dispositivo", android.os.Build.MODEL).put("voci", attesa(c))
-        c.contentResolver.openOutputStream(u, "wt")!!.use { it.write(j.toString().toByteArray(Charsets.UTF_8)) }
+            .put("dispositivo", android.os.Build.MODEL).put("scritto", System.currentTimeMillis()).put("voci", attesa(c))
+        val dati = j.toString().toByteArray(Charsets.UTF_8)
+        try {
+            val out = try { c.contentResolver.openOutputStream(u, "wt") } catch (e: Exception) { c.contentResolver.openOutputStream(u, "w") }
+            (out ?: throw IllegalStateException("Drive non concede la scrittura")).use { it.write(dati); it.flush() }
+            prefs(c).edit().putLong("invio_ok", System.currentTimeMillis()).remove("invio_err").apply()
+            Diagnostica.scrivi(c, "arrivi scritti su Drive: ${attesa(c).length()} in attesa")
+        } catch (e: Exception) {
+            val m = when (e) { is SecurityException -> "permesso perso"; is java.io.FileNotFoundException -> "file non trovato su Drive"; else -> e.message ?: e.javaClass.simpleName }
+            prefs(c).edit().putString("invio_err", m).apply()
+            Diagnostica.scrivi(c, "ERRORE scrittura arrivi su Drive: $m"); throw e
+        }
     }
+    /** Riprova a mandare su Drive gli accessi in attesa (all'apertura dell'app e dopo ogni aggiornamento). */
+    fun inviaInAttesa(c: Context): Boolean {
+        if (attesa(c).length() == 0 || uriArrivi(c) == null) return true
+        return runCatching { scriviArrivi(c) }.isSuccess
+    }
+    fun ultimoInvio(c: Context) = prefs(c).getLong("invio_ok", 0)
+    fun erroreInvio(c: Context): String? = prefs(c).getString("invio_err", null)
+    fun dimenticaFileArrivi(c: Context) { prefs(c).edit().remove("uriArrivi").remove("invio_err").apply() }
 
     private fun cifra(key: ByteArray, dati: ByteArray): String {
         val iv = ByteArray(12).also { java.security.SecureRandom().nextBytes(it) }
