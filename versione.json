@@ -1,8 +1,8 @@
 {
- "versione": "2.20.63",
- "sha256": "a43d00d719f94be9022b1ac76728395c5ecf71eb44d8618b7ef33e3db7ee53be",
- "firma": "AggDHbtQ0Xg1DabJKWAOEE3Y7tPLij6oZYbONWkAl6gx5URgRgExziFAB+/lAsz+yzKtf70xvQPLVIKOmwxkBQ==",
- "note": "DDT fornitori: vedi subito i prodotti caricati (già spuntati per le etichette)",
+ "versione": "2.20.64",
+ "sha256": "cbc80884fcb87cb7403f3cd2c96736b927f6f1fad4e4b970724dbdea61dc1db8",
+ "firma": "SZFy/fADhdPNXSYoblt46TtpC2hc8vf0yQ74ELkC6sxc+884F7erm/X3tgSVh764pUygDVZSWgg3AnpudUsfAQ==",
+ "note": "Prodotti: tendina per vedere i prodotti di un DDT caricato o tutti i prodotti",
  "data": "2026-11-26",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.63.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.64.gdlupd"
 }
