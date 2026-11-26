@@ -1,8 +1,8 @@
 {
- "versione": "2.20.62",
- "sha256": "604e6f45ab9b275394d54434929a709913f3a771fbe789df0cb970de9a442018",
- "firma": "1E54gA6uOJDTi6L4/shqZ6sK+OP7QZLyKxfMOm3bvQRCfi9AgPJZGgzU02iTQQeILSiq15SNn6uGOjLSZsBNBA==",
- "note": "DDT fornitori: l'anteprima Carica in magazzino si apre davanti all'elenco",
+ "versione": "2.20.63",
+ "sha256": "a43d00d719f94be9022b1ac76728395c5ecf71eb44d8618b7ef33e3db7ee53be",
+ "firma": "AggDHbtQ0Xg1DabJKWAOEE3Y7tPLij6oZYbONWkAl6gx5URgRgExziFAB+/lAsz+yzKtf70xvQPLVIKOmwxkBQ==",
+ "note": "DDT fornitori: vedi subito i prodotti caricati (già spuntati per le etichette)",
  "data": "2026-11-26",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.62.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.63.gdlupd"
 }
