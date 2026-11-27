@@ -1,8 +1,8 @@
 {
- "versione": "2.20.65",
- "sha256": "4f01ca78c6e0db517e7b28ba08197776724b061b7acb5e9ef6d6d79250bf4d64",
- "firma": "ba2/mstqRaOa6sBKaOlplJar6DeJaznY6NW2V89zAP7VpVxU7IqGlnKlcQD7D9nD/1u3sNAx5DTqemDlH//oAA==",
- "note": "Corretto: i pulsanti Sollecito, Segna pagato, Apri cliente ecc. ora si attivano quando selezioni una riga (anche in Anagrafiche, Fatture elettroniche, Scadenze)",
- "data": "2026-11-26",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.65.gdlupd"
+ "versione": "2.20.66",
+ "sha256": "214cfa09f57d8349e6796bb9ab7ad0059eb1136643c061005f4d842335658a48",
+ "firma": "IZgdzgNYuI19+TBaP4QwafKeFFAj0TtYFg5+H9Ijzhzyzpdww6R4MDxUcbTj8VhnLdaLT0+xTyPzvP+ACWuHAQ==",
+ "note": "I prodotti creati senza codice (es. da una riga scritta a mano al banco) ricevono in automatico codice e codice a barre quando apri la scheda o stampi l'etichetta",
+ "data": "2026-11-27",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.66.gdlupd"
 }
