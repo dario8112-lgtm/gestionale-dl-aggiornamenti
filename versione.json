@@ -1,8 +1,8 @@
 {
- "versione": "2.20.67",
- "sha256": "abf923efc5b33d26122d131acc5e86c5d451f5954e70a2b6d2a4a59e3c0f7a94",
- "firma": "Cq8+cz9xdIibnutXghASD1owY81N0y4Ae3GiOdWboaVao3jnR91b9hEiJz7oaYPtoI/1DSy4O4Qobpb07ri/AA==",
- "note": "Codici IVA come Danea anche nei documenti di vendita e nella scheda prodotto (22, 10, 4, NS74 ricariche, RM art. 36, E10, FC…): le righe a IVA 0 senza natura diventano NS74 (N2.2)",
+ "versione": "2.20.68",
+ "sha256": "56c318987badb0ff79691feae20d53d22445be048819cd1d5f119719d5974a05",
+ "firma": "3u3xSjO5na3fQy3/9qCqzS8djwUGgup2kPO5e/R4Zf+bJzDqI2LamysZXVBdeTFzbSyZjh544sapRckM+UYOBw==",
+ "note": "E-mail: la password salvata non dipende più dall'utente di Windows (risolto 'Error while decrypting the ciphertext'): se compare, reinserisci la password una volta",
  "data": "2026-11-27",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.67.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.68.gdlupd"
 }
