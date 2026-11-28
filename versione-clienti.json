@@ -1,8 +1,8 @@
 {
- "versione": "2.20.68",
- "sha256": "56c318987badb0ff79691feae20d53d22445be048819cd1d5f119719d5974a05",
- "firma": "3u3xSjO5na3fQy3/9qCqzS8djwUGgup2kPO5e/R4Zf+bJzDqI2LamysZXVBdeTFzbSyZjh544sapRckM+UYOBw==",
- "note": "E-mail: la password salvata non dipende più dall'utente di Windows (risolto 'Error while decrypting the ciphertext'): se compare, reinserisci la password una volta",
- "data": "2026-11-27",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.68.gdlupd"
+ "versione": "2.20.69",
+ "sha256": "fa570c7e6d5a12447c0ae13fe7d67d5f38cbe71d6ec3692109ff2219237119f7",
+ "firma": "o+Ez+k7sNIPCq7kR83CWmD8iv/TjJ3YeBAF+/K88v/HyI/5Vkgk9e2Zl+NLARdW2NlB9uwkF+kB9dvt4VwFsCA==",
+ "note": "Pagamento di più documenti insieme: seleziona le fatture e premi Pagamento",
+ "data": "2026-11-28",
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.69.gdlupd"
 }
