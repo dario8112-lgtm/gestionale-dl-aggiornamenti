@@ -1,8 +1,8 @@
 {
- "versione": "2.20.69",
- "sha256": "fa570c7e6d5a12447c0ae13fe7d67d5f38cbe71d6ec3692109ff2219237119f7",
- "firma": "o+Ez+k7sNIPCq7kR83CWmD8iv/TjJ3YeBAF+/K88v/HyI/5Vkgk9e2Zl+NLARdW2NlB9uwkF+kB9dvt4VwFsCA==",
- "note": "Pagamento di più documenti insieme: seleziona le fatture e premi Pagamento",
+ "versione": "2.20.70",
+ "sha256": "ebd109be76bff35a95b0ae36f7b95953f318bcc34d11e2155e565743530bc4a0",
+ "firma": "DsdbZNMwMWPnxRqvtWqa5mDt4ZmIANtgOj268Gh4M9s+CsWnFyUphJMAg40Uk0BUiyEEmmG+pKspctFN2Mn4BA==",
+ "note": "Pagamento anche per le autofatture (/RC), una o più insieme",
  "data": "2026-11-28",
- "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.69.gdlupd"
+ "url": "https://raw.githubusercontent.com/dario8112-lgtm/gestionale-dl-aggiornamenti/main/GestionaleDL_2.20.70.gdlupd"
 }
